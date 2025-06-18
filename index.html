@@ -1,0 +1,1536 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Emoji Suche</title>
+    <script src="https://cdn.jsdelivr.net/npm/flexsearch@0.7.31/dist/flexsearch.bundle.js"></script>
+    <script>
+        const emojis = [
+            {
+                id: 128512,
+                char: "😀",
+                keywords: [
+                    "grinning", "grinning face", "lächeln", "smile", "happy", "glücklich", "freude", "joy", "fröhlich", "cheerful",
+                    "zähne", "teeth", "mund", "mouth", "face", "gesicht", "emoji", "smiley", "freundlich", "friendly",
+                    ":D", "big smile", "laugh", "lachen", "positiv", "positive", "spaß", "fun", "zufrieden", "content",
+                    "glowing", "hell", "bright", "fröhliches gesicht", "smiley face", "happy face", "freundschaft", "friendship",
+                    "good vibes", "gute stimmung", "love", "liebe", "ausdruck", "expression", "emotion", "emotional",
+                    "aufregung", "excitement", "warm", "warm feeling", "heiter", "heiterkeit", "feel good"
+                ]
+            },
+            {
+                id: 128515,
+                char: "😃",
+                keywords: [
+                    "grinning", "big eyes", "lächeln", "smile", "happy", "glücklich", "freude", "joy", "fröhlich", "cheerful",
+                    "offene augen", "open eyes", "strahlend", "radiant", "glänzend", "shiny", "teeth", "zähne", "face", "gesicht",
+                    "emoji", "smiley", ":D", "laugh", "lachen", "positiv", "positive", "spaß", "fun", "zufrieden", "content",
+                    "bright", "hell", "fröhliches gesicht", "smiley face", "happy face", "freundschaft", "friendship",
+                    "good vibes", "gute stimmung", "love", "liebe", "ausdruck", "expression", "emotion", "emotional",
+                    "excited", "aufgeregt", "cheer", "jubel", "happiness", "glück"
+                ]
+            },
+            {
+                id: 128516,
+                char: "😄",
+                keywords: [
+                    "grinning", "smiling eyes", "lächeln", "smile", "happy", "glücklich", "freude", "joy", "fröhlich", "cheerful",
+                    "geschlossene augen", "closed eyes", "lächelnde augen", "smiling eyes", "zähne", "teeth", "face", "gesicht",
+                    "emoji", "smiley", ":D", "laugh", "lachen", "positiv", "positive", "spaß", "fun", "zufrieden", "content",
+                    "bright", "hell", "fröhliches gesicht", "smiley face", "happy face", "freundschaft", "friendship",
+                    "good vibes", "gute stimmung", "love", "liebe", "ausdruck", "expression", "emotion", "emotional",
+                    "gleeful", "fröhlich", "joyful", "heiter", "heiterkeit", "warm"
+                ]
+            },
+            {
+                id: 128513,
+                char: "😁",
+                keywords: [
+                    "beaming", "beaming face", "lächelnde augen", "smiling eyes", "smile", "grinsen", "grinning", "happy", "glücklich",
+                    "freude", "joy", "fröhlich", "cheerful", "zähne", "teeth", "mouth", "mund", "face", "gesicht",
+                    "emoji", "smiley", ":D", "laugh", "lachen", "positiv", "positive", "spaß", "fun", "zufrieden", "content",
+                    "bright", "hell", "strahlend", "radiant", "fröhliches gesicht", "smiley face", "happy face",
+                    "freundschaft", "friendship", "good vibes", "gute stimmung", "love", "liebe", "ausdruck", "expression",
+                    "emotion", "emotional", "excited", "aufgeregt", "joyful", "freude"
+                ]
+            },
+            {
+                id: 128518,
+                char: "😆",
+                keywords: [
+                    "grinning", "squinting", "lächelnde augen", "grinsen", "grinning squinting face", "lachend", "laughing", "lachen",
+                    "spaß", "fun", "freude", "joy", "fröhlich", "happy", "glücklich", "zähne", "teeth", "mouth", "mund",
+                    "face", "gesicht", "emoji", "smiley", ":D", "XD", "positiv", "positive", "zufrieden", "content",
+                    "humor", "witz", "funny", "lustig", "bright", "hell", "strahlend", "radiant",
+                    "laugh out loud", "lol", "rofl", "rolling on the floor laughing", "roflmao",
+                    "ausdruck", "expression", "emotion", "emotional", "glücklich", "joyful", "happy tears"
+                ]
+            },
+            {
+                id: 128517,
+                char: "😅",
+                keywords: [
+                    "grinning", "sweat", "sweating", "lächeln", "smile", "nervös", "nervous", "awkward", "peinlich", "embarrassed",
+                    "freude", "joy", "happy", "glücklich", "lachen", "laugh", "zähne", "teeth", "face", "gesicht",
+                    "emoji", "smiley", ":D", ";)", "schweiß", "sweatdrop", "stress", "stressig", "anstrengung", "effort",
+                    "humor", "witz", "funny", "lustig", "relief", "erleichterung", "positiv", "positive",
+                    "ausdruck", "expression", "emotion", "emotional", "glücklich", "joyful",
+                    "peinlich berührt", "awkward smile", "nervöses lächeln", "hot", "heiß"
+                ]
+            },
+            {
+                id: 129315,
+                char: "🤣",
+                keywords: [
+                    "rolling on the floor laughing", "rofl", "roflmao", "lachen", "laugh", "spaß", "fun", "witz", "funny", "lustig",
+                    "freude", "joy", "glücklich", "happy", "tränen", "tears", "tears of joy", "freudentränen",
+                    "emoji", "smiley", "lol", "laugh out loud", "laughing hard", "kichern", "giggle",
+                    "humor", "witzig", "ausdruck", "expression", "emotion", "emotional", "rolling", "boden", "boden rollen",
+                    "extremes lachen", "very funny", "super funny", "comedy", "witzig",
+                    "face", "gesicht", "happy tears", "joyful", "fröhlich"
+                ]
+            },
+            {
+                id: 128514,
+                char: "😂",
+                keywords: [
+                    "face with tears of joy", "tränen", "tears", "lachen", "laugh", "freude", "joy", "happy", "glücklich", "fun",
+                    "spaß", "witz", "funny", "lustig", "emoji", "smiley", "lol", "laugh out loud", "kichern", "giggle",
+                    "tränen lachen", "laughing tears", "emotion", "emotional", "ausdruck", "expression", "face", "gesicht",
+                    ":')", "crying with laughter", "funny face", "glück", "joyful", "fröhlich",
+                    "humor", "witzig", "freudentränen", "tear drops", "happy tears", "tears of happiness"
+                ]
+            },
+            {
+                id: 128578,
+                char: "🙂",
+                keywords: [
+                    "slightly smiling face", "leichtes lächeln", "smile", "lächeln", "freundlich", "friendly", "neutral", "neutral face",
+                    "zufrieden", "content", "calm", "ruhig", "entspannt", "relaxed", "emotion", "ausdruck", "expression",
+                    "emoji", "smiley", "face", "gesicht", ":)", "soft smile", "gentle smile", "kind",
+                    "höflich", "polite", "gut gelaunt", "good mood", "freundschaft", "friendship", "freundlich",
+                    "positiv", "positive", "sanft", "soft", "contentment", "zufriedenheit",
+                    "ruhiges lächeln", "soft expression", "mild", "mild expression", "warm"
+                ]
+            },
+            {
+                id: 128579,
+                char: "🙃",
+                keywords: [
+                    "upside-down face", "kopfstand", "umgedreht", "upside down", "ironisch", "irony", "sarkastisch", "sarcastic",
+                    "witzig", "funny", "humor", "spaß", "fun", "emoji", "smiley", "face", "gesicht",
+                    ":)", "flip", "umgekehrt", "rolling eyes", "verdreht", "silly", "albern", "kind of sarcastic",
+                    "crazy", "verrückt", "witzig", "funny", "ausdruck", "expression", "emotion", "emotional",
+                    "spielerei", "playful", "humorvoll", "humorous", "witzig", "joking", "funny face",
+                    "sarcasm", "sarkasmus", "weird", "komisch", "weird face"
+                ]
+            },
+            {
+                id: 128521,
+                char: "😉",
+                keywords: [
+                    "winking face", "zwinkern", "wink", "flirten", "flirt", "schelmisch", "cheeky", "spaß", "fun",
+                    "humor", "witzig", "lächeln", "smile", "freundlich", "friendly", "emoji", "smiley", "face", "gesicht",
+                    ";)", "flirty", "verspielt", "playful", "secret", "geheimnis", "anspielung", "innuendo",
+                    "sarcasm", "sarkasmus", "funny", "lustig", "ausdruck", "expression", "emotion", "emotional",
+                    "schalkhaft", "mischievous", "freundschaft", "friendship", "good vibes", "gute stimmung"
+                ]
+            },
+            {
+                id: 128522,
+                char: "😊",
+                keywords: [
+                    "smiling face with smiling eyes", "lächelnde augen", "smile", "lächeln", "glücklich", "happy", "freundlich", "friendly",
+                    "warm", "warm feeling", "freude", "joy", "zufrieden", "content", "ausdruck", "expression", "emotion",
+                    "emotional", "emoji", "smiley", "face", "gesicht", ":)", "soft smile", "gentle smile", "kind",
+                    "höflich", "polite", "gut gelaunt", "good mood", "freundschaft", "friendship", "liebenswert", "lovable",
+                    "nett", "nice", "glowing", "strahlend", "heiter", "heiterkeit", "positive vibes", "gute vibes"
+                ]
+            },
+            {
+                id: 128519,
+                char: "😇",
+                keywords: [
+                    "smiling face with halo", "engel", "halo", "heilig", "holy", "unschuldig", "innocent", "gut", "good",
+                    "lächeln", "smile", "freundlich", "friendly", "glücklich", "happy", "ausdruck", "expression", "emotion",
+                    "emotional", "emoji", "smiley", "face", "gesicht", "halo", "heiligenschein", "angel", "engelchen",
+                    "heiligkeit", "holiness", "lieb", "nice", "unschuldig", "innocent", "spirituell", "spiritual",
+                    "reinheit", "purity", "güte", "kindness", "gute vibes", "good vibes", "friedlich", "peaceful",
+                    "freundschaft", "friendship", "glaube", "faith", "positive vibes", "positiv"
+                ]
+            },
+            {
+                id: 129392, // U+1F970
+                char: "🥰",
+                keywords: [
+                    "smiling face with hearts", "lächelndes gesicht mit herzen", "love", "liebe",
+                    "affection", "zuneigung", "verliebt", "romantik", "romantic",
+                    "happy", "glücklich", "joy", "freude",
+                    "cute", "niedlich", "sweet", "süß",
+                    "hearts", "herzen", "❤️", "💕", "🥰",
+                    "emotion", "gefühl", "warm", "warmhearted",
+                    "face", "gesicht", "smile", "lächeln",
+                    "kissing", "küssen", "kiss", "😘",
+                    "flirty", "flirten", "adorable", "liebenswert",
+                    "crush", "verknallt", "love eyes",
+                    "<3", ":*", ":)", "☺", ";)",
+                    "romantic feelings", "romantische gefühle",
+                    "blushing", "erröten", "happy tears", "freudentränen",
+                    "cute face", "niedliches gesicht"
+                ]
+            },
+            {
+                id: 128525, // U+1F60D
+                char: "😍",
+                keywords: [
+                    "smiling face with heart-eyes", "lächelndes gesicht mit herzaugen",
+                    "love", "liebe", "verliebt", "crush", "romantic", "romantik",
+                    "adoration", "anbetung", "cute", "niedlich",
+                    "hearts", "herzen", "❤️", "😍",
+                    "emotion", "gefühl",
+                    "happy", "glücklich", "joy", "freude",
+                    "infatuation", "verknallt sein",
+                    "face", "gesicht", "smile", "lächeln",
+                    "flirty", "flirten",
+                    "<3", ":*", ":)", ";)",
+                    "crushing", "schwärmen",
+                    "amazed", "erstaunt",
+                    "kissing", "küssen",
+                    "heart eyes", "herzaugen",
+                    "excited", "aufgeregt",
+                    "bright eyes", "leuchtende augen",
+                    "romantic feelings", "romantische gefühle",
+                    "warm", "warmherzig"
+                ]
+            },
+            {
+                id: 129321, // U+1F929
+                char: "🤩",
+                keywords: [
+                    "star-struck", "begeistert", "verblüfft", "fasziniert",
+                    "amazed", "erstaunt", "excited", "aufgeregt",
+                    "wow", "oh", "star eyes", "sternaugen",
+                    "sparkle", "funkeln", "glitzern",
+                    "shiny", "glänzend",
+                    "happy", "glücklich", "joy", "freude",
+                    "face", "gesicht", "smile", "lächeln",
+                    "emotion", "gefühl",
+                    "celebration", "feier",
+                    "party", "fest",
+                    "cool", "cool",
+                    "awesome", "großartig",
+                    "wow face", "wow gesicht",
+                    ":D", ":O", ":*",
+                    "surprise", "überraschung",
+                    "impressed", "beeindruckt",
+                    "star", "stern",
+                    "sparkling eyes", "funkelnde augen",
+                    "happy face", "glückliches gesicht"
+                ]
+            },
+            {
+                id: 128536, // U+1F618
+                char: "😘",
+                keywords: [
+                    "face blowing a kiss", "gesicht, das einen kuss zuwirft",
+                    "kiss", "kuss", "küssen",
+                    "love", "liebe",
+                    "affection", "zuneigung",
+                    "flirty", "flirten",
+                    "smiling face", "lächelndes gesicht",
+                    "happy", "glücklich",
+                    "cute", "niedlich",
+                    "emotion", "gefühl",
+                    ":*", ":)", ";)",
+                    "romantic", "romantik",
+                    "sweet", "süß",
+                    "heart", "herz", "❤️",
+                    "thank you", "danke",
+                    "goodbye", "auf wiedersehen",
+                    "face", "gesicht",
+                    "blowing kiss", "kuss senden",
+                    "friendly", "freundlich",
+                    "love letter", "liebesbrief",
+                    "sending love", "liebe senden"
+                ]
+            },
+            {
+                id: 128535, // U+1F617
+                char: "😗",
+                keywords: [
+                    "kissing face", "küssendes gesicht",
+                    "kiss", "kuss",
+                    "küssen", "flirty", "flirten",
+                    "love", "liebe",
+                    "affection", "zuneigung",
+                    "cute", "niedlich",
+                    "happy", "glücklich",
+                    "smiling face", "lächelndes gesicht",
+                    "emotion", "gefühl",
+                    ":*", ":)", ";)",
+                    "romantic", "romantik",
+                    "sweet", "süß",
+                    "face", "gesicht",
+                    "friendly", "freundlich",
+                    "thank you", "danke",
+                    "goodbye", "auf wiedersehen",
+                    "blowing kiss", "kuss senden",
+                    "neutral kiss", "neutraler kuss"
+                ]
+            },
+            {
+                id: 129386, // U+1F61A
+                char: "😚",
+                keywords: [
+                    "kissing face with closed eyes", "küssendes gesicht mit geschlossenen augen",
+                    "kiss", "kuss",
+                    "küssen", "flirty", "flirten",
+                    "love", "liebe",
+                    "affection", "zuneigung",
+                    "cute", "niedlich",
+                    "happy", "glücklich",
+                    "emotion", "gefühl",
+                    ":*", ":)", ";)",
+                    "romantic", "romantik",
+                    "sweet", "süß",
+                    "face", "gesicht",
+                    "friendly", "freundlich",
+                    "thank you", "danke",
+                    "goodbye", "auf wiedersehen",
+                    "blowing kiss", "kuss senden",
+                    "closed eyes", "geschlossene augen",
+                    "blush", "erröten"
+                ]
+            },
+            {
+                id: 129385, // U+1F619
+                char: "😙",
+                keywords: [
+                    "kissing face with smiling eyes", "küssendes gesicht mit lächelnden augen",
+                    "kiss", "kuss",
+                    "küssen", "flirty", "flirten",
+                    "love", "liebe",
+                    "affection", "zuneigung",
+                    "cute", "niedlich",
+                    "happy", "glücklich",
+                    "emotion", "gefühl",
+                    ":*", ":)", ";)",
+                    "romantic", "romantik",
+                    "sweet", "süß",
+                    "face", "gesicht",
+                    "friendly", "freundlich",
+                    "thank you", "danke",
+                    "goodbye", "auf wiedersehen",
+                    "blowing kiss", "kuss senden",
+                    "smiling eyes", "lächelnde augen",
+                    "blush", "erröten"
+                ]
+            },
+            {
+                id: 0x1F60B,
+                char: "😋",
+                keywords: [
+                    "lecker", "genuss", "yummy", "delicious", "food", "essen", "schmecken", "savoring",
+                    "face savoring food", "geschmack", "schleck", "tongue", "zunge", "zufriedenheit", "happy",
+                    "glücklich", "smile", "lächeln", "freude", "joy", "genießen", "tasty", "köstlich",
+                    "glücklich", "zufrieden", "emoji", "fun", "spaß", "lustig", "feeling good",
+                    ":P", ":-P", ";P", "food lover", "foodie", "essen schmeckt gut", "lust auf essen",
+                    "naschen", "essen genießen", "essenliebe", "glückliches gesicht", "emoji mit zunge",
+                    "smiley", "food face", "appetit", "appetizing", "smacking lips", "savoring taste",
+                    "zunge raus", "leckerbissen"
+                ]
+            },
+            {
+                id: 0x1F61B,
+                char: "😛",
+                keywords: [
+                    "zunge raus", "tongue out", "face with tongue", "frech", "silly", "albern", "funny",
+                    "spaß", "lustig", "grinsen", "smile", "lächeln", "verspielt", "playful", "ausdruck",
+                    "expression", "emoji", "zunge", "tongue", ":P", ":-P", ";P", "tongue face", "kindisch",
+                    "cheeky", "frechheit", "blöd", "doof", "foolish", "crazy face", "crazy", "tongue emoji",
+                    "face", "spaß machen", "fun face", "ausdrucksvoll", "slang", "kicher", "lachend",
+                    "witzig", "humorvoll", "spaßig", "zunge rausstrecken", "emoji mit zunge"
+                ]
+            },
+            {
+                id: 0x1F61C,
+                char: "😜",
+                keywords: [
+                    "zwinkern", "winking", "face with tongue", "frech", "cheeky", "verspielt", "playful",
+                    "funny", "spaß", "lustig", "zunge raus", "tongue out", "zwinkerndes gesicht",
+                    "emoji", "grinsen", "smile", "witzig", "humorvoll", "ausdruck", "expression", ":P",
+                    ";P", "flirty", "flirten", "neckisch", "scherz", "joke", "fun", "tongue emoji",
+                    "tongue face", "crazy face", "crazy", "tongue out wink", "slang", "laughing",
+                    "witz", "humor", "kicher", "frechheit", "playful face", "zunge rausstrecken",
+                    "witziges gesicht"
+                ]
+            },
+            {
+                id: 0x1F92A,
+                char: "🤪",
+                keywords: [
+                    "verrückt", "crazy", "zany face", "spaß", "funny", "lustig", "crazy face",
+                    "wild", "verrückt sein", "wacky", "bekloppt", "crazy eyes", "ausdruck",
+                    "expression", "emoji", "face", "verrückt grinsen", "crazy smile", "närrisch",
+                    "narrisch", "funny face", "schräg", "odd", "weird", "doof", "silly", "tollpatsch",
+                    "goofy", "komisch", "drollig", "witzig", "humorvoll", "crazy eyes tongue",
+                    "tongue out", "tongue", "zunge raus", "tongue emoji", "face with tongue",
+                    "schräges gesicht", "überdreht", "energetisch", "übermütig", "slang", "fun",
+                    "albern", "wildes gesicht", "freaky"
+                ]
+            },
+            {
+                id: 0x1F61D,
+                char: "😝",
+                keywords: [
+                    "zunge raus", "tongue out", "squinting face", "grimace", "face with tongue", "frech",
+                    "cheeky", "spaß", "funny", "witzig", "albern", "verrückt", "crazy", "lachen",
+                    "laughing", "grinsen", "smile", "emoji", "ausdruck", "expression", "tongue emoji",
+                    ":P", ";P", "flirty", "flirten", "playful", "neckisch", "witz", "humor", "kicher",
+                    "spaß machen", "crazy face", "tongue out squinting", "frechheit", "witziges gesicht",
+                    "lustiges gesicht", "crazy smile", "tongue out grin", "tongue face", "tongue out eyes",
+                    "crazy eyes", "tongue out crazy", "fun face"
+                ]
+            },
+            {
+                id: 0x1F911,
+                char: "🤑",
+                keywords: [
+                    "geld", "money", "money-mouth face", "reich", "rich", "cash", "dollar", "währung",
+                    "finanzen", "finanzierung", "money face", "emoji", "face", "ausdruck", "expression",
+                    "gier", "greed", "gierig", "money eyes", "dollarzeichen", "dollar signs", "💰", "💵",
+                    "💸", "geldbörse", "wallet", "bank", "banking", "profit", "gewinn", "money talk",
+                    "business", "geschäft", "reichen leben", "luxus", "luxury", "reichen emoji",
+                    "reich sein", "money tongue", "tongue out", "tongue", "zunge raus", "money tongue out",
+                    "cash face", "financial", "investition", "investment", "cash money", "cash flow",
+                    "reiches gesicht", "geldgesicht"
+                ]
+            },
+            {
+                id: 129303,
+                char: "🤗",
+                keywords: [
+                    "umarmung", "hugging", "hug", "umarmen", "face", "gesicht",
+                    "freundlich", "friendly", "warm", "warmth", "liebe", "love",
+                    "freude", "joy", "glücklich", "happy", "umarmendes gesicht",
+                    "care", "caring", "comfort", "comforting", "support", "supportive",
+                    "umarmung emoji", "empathie", "empathy", "positiv", "positive",
+                    "beziehung", "relationship", "freundschaft", "friendship",
+                    "feeling", "gefühl", "nice", "sweet", "cute",
+                    ":)", ":-)", "hugz", "hugs", "arms", "offene arme",
+                    "open arms", "warm smile", "smiling face", "kuss", "kiss",
+                    "give love", "love you", "care emoji", "affection", "zärtlich",
+                    "affectionate"
+                ]
+            },
+            {
+                id: 129325,
+                char: "🤭",
+                keywords: [
+                    "hand", "mouth", "hand über mund", "face with hand over mouth",
+                    "peinlich", "embarrassed", "verlegen", "shy", "überrascht", "surprised",
+                    "oops", "huch", "giggle", "kichern", "lachen", "laugh",
+                    "still", "quiet", "secret", "whisper", "whispering",
+                    "oh no", "oopsie", "shy face", "facepalm", "oops face",
+                    "tsk tsk", "tsk", "funny", "fun", "cheeky",
+                    "schelmisch", "mischievous", "bashful", "shy smile",
+                    "geheimnis", "secretive", "quietly laughing", "laughing quietly",
+                    "emoji", "slang", ":O", ":P", "smirk", "giggle face",
+                    "oops emoji", "cover mouth", "face emoji", "oops moment"
+                ]
+            },
+            {
+                id: 129323,
+                char: "🤫",
+                keywords: [
+                    "shushing", "quiet", "still", "leise", "pssst", "ssst",
+                    "finger", "finger vor mund", "finger vor lippen", "silence",
+                    "ruhe", "stille", "secret", "geheimnis", "keep quiet",
+                    "stop talking", "hush", "quiet please", "calm down",
+                    "leiser", "leiser sein", "secrecy", "vertraulich",
+                    "warnung", "achtung", "sssst", "shh", "tippen",
+                    "finger emoji", "face", "gesicht", "still face",
+                    "geheimhaltung", "hushed face", "quiet face", "don't speak",
+                    "ruhe bitte", "hush emoji", "quiet moment", "silent emoji",
+                    "finger an lippen", "finger on lips", "quiet time",
+                    "secret emoji", "sensitive", "hush hush"
+                ]
+            },
+            {
+                id: 129300,
+                char: "🤔",
+                keywords: [
+                    "denken", "thinking", "nachdenken", "überlegen", "face", "gesicht",
+                    "frage", "question", "hmm", "grübeln", "puzzled", "confused",
+                    "denkender gesichtsausdruck", "überlegen emoji", "skeptisch", "skeptical",
+                    "fragend", "curious", "nachdenklich", "thoughtful",
+                    "wonder", "wondering", "rätsel", "mystery", "hmmm",
+                    "thinking emoji", "denken emoji", "überlegen emoji",
+                    "brain", "geist", "kopfkino", "mind", "intelligent",
+                    "clever", "cleverness", "fragezeichen", "question mark",
+                    "fragezeichen emoji", "denkmal", "idee", "idea", "ideen",
+                    "planen", "plan", "denken nach", "überlegen nachdenken",
+                    ":thinking:", ":?", ":/", ":|", "skeptisch emoji"
+                ]
+            },
+            {
+                id: 129296, // U+1F910
+                char: "🤐",
+                keywords: [
+                    "zipper-mouth", "zipper", "mouth", "face", "verschlossen", "geschlossen", "still",
+                    "geheimnis", "quiet", "mute", "silence", "secret", "no talking", "zip", "shut up",
+                    "klappe halten", "verschweigen", "verschwiegen", "nicht reden", "schweigen", "stumm",
+                    "speechless", "speak no evil", "diskret", "diskretion", "hush", "mum", "sealed lips",
+                    "🤐", "🤐 face", "quiet please", "no comment", "snitch", "keep quiet", "mute button",
+                    "reißverschluss", "verschluss", "zensur", "red lips", "gag", "mouth taped", "emoji",
+                    "geheim", "unausgesprochen", "verschweigen", "stop talking", "zip mouth", "hush hush",
+                    "shhh", ";)", ":-|", ":|", "-.-"
+                ]
+            },
+            {
+                id: 129320, // U+1F928
+                char: "🤨",
+                keywords: [
+                    "raised eyebrow", "face", "skeptisch", "zweifel", "argwöhnisch", "misstrauen",
+                    "hmm", "thinking", "nachdenken", "skepsis", "kritisch", "skeptical", "doubt",
+                    "suspicious", "eyebrow", "brow raise", "confused", "unsicher", "frage", "questioning",
+                    "serious", "looking", "face with raised eyebrow", "🤨", "emoji", "skeptical face",
+                    "whats up", "really", "do i believe this?", "no way", "hmmmmm", "facepalm",
+                    "are you serious?", "uncertain", "suspicion", "eye roll", "wtf", "doubtful",
+                    "skeptiker", "kritik", "in doubt", "thinking face", "untrusting", "suspicion",
+                    "serious face", "?", ":/", ":|", ":-/", ":-|", "¯\\_(ツ)_/¯"
+                ]
+            },
+            {
+                id: 129297, // U+1F611
+                char: "😑",
+                keywords: [
+                    "expressionless face", "ausdruckslos", "keine gefühle", "still", "ruhig",
+                    "langweilig", "skeptisch", "meh", "neutral", "ohne emotion", "leer",
+                    "emotionslos", "stumm", "schweigen", "kein kommentar", "😑", "emoji", "face",
+                    "müde", "genervt", "unbeeindruckt", "resigned", "gelangweilt", "genervt",
+                    "quiet", "no words", "speechless", "meh face", "blank", "deadpan",
+                    "whatever", "meh", ":|", "-_-", ":/", "okay", "still", "quiet", "no feelings",
+                    "no expression", "serious", "unamused", "nothing to say", "no reaction"
+                ]
+            },
+            {
+                id: 129310, // U+1F636
+                char: "😶",
+                keywords: [
+                    "face without mouth", "mouthless", "schweigen", "stumm", "keine worte",
+                    "still", "quiet", "speechless", "no mouth", "😶", "emoji", "ausdruckslos",
+                    "verschwiegen", "secret", "silent", "mute", "quiet please", "no comment",
+                    "kein kommentar", "zunge weg", "ruhig", "unbeteiligt", "still face",
+                    "no voice", "silent face", "calm", "neutral", "emoji face", "stummes gesicht",
+                    "nothing to say", "silent mood", "quiet mood", "emotionslos", "deadpan",
+                    "😶", ":|", "-_-", ":", "hush", "stillness", "no words", "stop talking",
+                    "silent lips"
+                ]
+            },
+            {
+                id: 128527, // U+1F60F
+                char: "😏",
+                keywords: [
+                    "smirking face", "grinsen", "schmunzeln", "frech", "selbstbewusst",
+                    "flirt", "sly", "smirk", "charm", "clever", "schelmisch", "flirty",
+                    "anzüglich", "schelm", "face", "😏", "emoji", "aufmerksam", "witzig",
+                    "überlegen", "cool", "cheeky", "spöttisch", "frechheit", "selbstsicher",
+                    "hmm", "interesting", "smug", "self confident", "sassy", "clever face",
+                    "witty", "grin", "schlau", "witzbold", "fies", "face with sly smile",
+                    "verschmitzt", "neckisch", "charming", "nice", "cool face", "playful",
+                    "😏", ":)", ";)", ":3", "smirk face", "knowing smile"
+                ]
+            },
+            {
+                id: 129314, // U+1F612
+                char: "😒",
+                keywords: [
+                    "unamused face", "genervt", "verärgert", "lästig", "bored",
+                    "müde", "nervig", "skeptisch", "unglücklich", "unbeeindruckt",
+                    "meh", "face", "😒", "emoji", "annoyed", "displeased", "disappointed",
+                    "irritiert", "langweilig", "unzufrieden", "grumpy", "uninterested",
+                    "kritisch", "meh face", "no fun", "no smile", "frustrated", "meh mood",
+                    "sigh", "eye roll", "pissed", "whatever", "bad mood", "grumpy face",
+                    "unhappy", "no expression", "serious", ":/", "-_-", ":|", "annoyance",
+                    "not impressed", "meh", "ugh"
+                ]
+            },
+            {
+                id: 128580, // U+1F644
+                char: "🙄",
+                keywords: [
+                    "face with rolling eyes", "augen rollen", "genervt", "sarkastisch",
+                    "ungeduldig", "tired of", "eye roll", "eyeroll", "eyeroll emoji",
+                    "annoyed", "meh", "face", "🙄", "emoji", "frustration", "nervig",
+                    "whatever", "sarkasmus", "skeptisch", "unimpressed", "no way", "really?",
+                    "oh no", "grumpy", "irritiert", "ausdruckslos", "no fun", "not amused",
+                    "sigh", "tired", "bored", "rolling eyes face", "eyeroll face",
+                    "skeptical", "annoyed face", "eyerolling", "eyeroll emoji",
+                    "pissed", "grumpy", "unhappy", ":/", "-_-", ";)", "sigh", "ugh"
+                ]
+            },
+            {
+                id: 129292, // U+1F62C
+                char: "😬",
+                keywords: [
+                    "grimacing face", "grimace", "verlegen", "peinlich", "awkward",
+                    "nervös", "unsicher", "embarrassed", "face", "😬", "emoji", "grinsen",
+                    "zähne zeigen", "cringe", "cringing", "angst", "stress", "unwohl",
+                    "nicht wohl fühlen", "nervös lachen", "frown", "worried", "nervous smile",
+                    "awkward smile", "nervous", "grimace face", "uncomfortable", "weird",
+                    "strange", "seltsam", "unsicher", "worried face", "nervous face",
+                    "gespannt", "face grimace", "😬", ":S", ":-S", ":$", ":-$", ":|", "-_-"
+                ]
+            },
+            {
+                id: 129317, // U+1F925
+                char: "🤥",
+                keywords: [
+                    "lying face", "lüge", "lügner", "flunkern", "not telling truth",
+                    "pinocchio", "lügen", "lügnerin", "lügnerisch", "lügner emoji",
+                    "face", "🤥", "emoji", "lügnergesicht", "lügen erkennen", "lügnerin",
+                    "fake", "false", "nicht wahr", "lügen erkennen", "lügner alarm",
+                    "lügen erkennen", "lügnerisch", "lügner emoji", "lügnerin", "lügnergesicht",
+                    "lügner alarm", "lüge", "lügen", "lügner", "lügnerisch", "lügnerin",
+                    "lügnergesicht", "lügner alarm", "lügner emoji", "lügnerin",
+                    "pinocchio nose", "pinocchio", "lügner", "lügnerin", "lügnerisch",
+                    "fake face", "false face", "lüge", "lügen", "lügner", "lügner emoji",
+                    "lügnerin", "lügner alarm", "lügnergesicht", "lügner", "lüge", "lügen"
+                ]
+            },
+            {
+                id: 128524, // U+1F60C
+                char: "😌",
+                keywords: [
+                    "relieved", "relieved face", "erleichtert", "entspannt", "zufrieden", "calm", "ruhe",
+                    "peace", "gelassen", "satisfied", "glücklich", "smile", "lächeln", "leichtes lächeln",
+                    "smiling face", "zufriedenheit", "content", "contented", "relax", "entspannen",
+                    "happy", "glück", "emotion", "gefühle", "feeling", "mood", "ausdruck", "expression",
+                    "serene", "friedlich", "ruhig", "zen", "chill", "cool", "soft smile", "sanft",
+                    "face", "gesicht", "entspannte stimme", "leichte freude", "lächeln ohne zähne",
+                    "gentle", "freundlich", "gelassenheit", "inner peace", "innere ruhe", "happy face",
+                    ":)", ":-)", ";)", "smirk", "zufrieden sein", "peaceful"
+                ]
+            },
+            {
+                id: 128532, // U+1F614
+                char: "😔",
+                keywords: [
+                    "pensive", "pensive face", "nachdenklich", "traurig", "sad", "melancholy", "depressed",
+                    "down", "downcast", "mood", "emotion", "gefühle", "expression", "ausdruck",
+                    "denk nach", "reflection", "nachdenken", "grübeln", "nachdenklich sein",
+                    "downhearted", "down mood", "slow smile", "leise traurig", "nicht glücklich",
+                    "face", "gesicht", "müde", "down face", "not happy", "sad face",
+                    ":(", ":-(", "frustrated", "frustriert", "upset", "verärgert", "tiefgründig",
+                    "traurigkeit", "nachdenklichkeit", "melancholie", "depression", "sorrow", "kummer",
+                    "bedrückt", "down vibe", "schlechte laune"
+                ]
+            },
+            {
+                id: 128570, // U+1F62A
+                char: "😪",
+                keywords: [
+                    "sleepy", "sleepy face", "müde", "tired", "erschöpft", "drowsy", "schläfrig",
+                    "müde sein", "sleep", "schlafen", "nap", "nickerchen", "schlaflos",
+                    "emotion", "gefühle", "ausdruck", "expression", "face", "gesicht",
+                    "haustier müde", "bored", "langweilig", "träumerisch", "träumen",
+                    "verschlafen", "eye closed", "halb geschlossenes auge", "nose running",
+                    "schnauben", "nasen tropf", "snoring", "schnarchen", "zzz", "rest",
+                    "erholung", "erschöpfung", "schläfrigkeit", "lazy", "faul",
+                    "tired face", ":|", "-_-", "gähnen", "gähn", "sleepy emoji", "ruhe"
+                ]
+            },
+            {
+                id: 129316, // U+1F924
+                char: "🤤",
+                keywords: [
+                    "drooling", "drooling face", "sabbern", "sabbernd", "hungrig", "appetit",
+                    "lecker", "lecker aussehen", "delicious", "food", "essen", "hungry", "hunger",
+                    "lust", "lust auf essen", "mouth water", "mouth watering", "drool",
+                    "emotion", "gefühle", "ausdruck", "expression", "face", "gesicht",
+                    "verliebt", "verlangen", "lustvoll", "hungriges gesicht", "gierig",
+                    "naschkatze", "naschen", "nach essen verlangen", "hungriger blick",
+                    "appetite", "lustig", "cute", "funny", "sabber", "triefen",
+                    ":P", "tongue out", "tongue", "ganz schön lecker", "gierig sein",
+                    "süchtig nach essen", "yummy", "mampf"
+                ]
+            },
+            {
+                id: 128564, // U+1F634
+                char: "😴",
+                keywords: [
+                    "sleeping", "sleeping face", "schlafend", "schlafen", "müde", "tired",
+                    "ruhe", "relax", "ausruhen", "emotion", "gefühle", "expression", "ausdruck",
+                    "face", "gesicht", "zzz", "schnarchen", "snoring", "träumen",
+                    "nap", "nickerchen", "ruhezeit", "erholung", "erschöpfung",
+                    "sleepy", "schläfrig", "entspannen", "lazy", "faul", "müdigkeit",
+                    "ausgeruht", "traurig", "kaputt", "tired face", ":|", "-_-",
+                    "comfy", "kuschelig", "bett", "bettzeit", "nachts", "nacht",
+                    "bett", "nachtruhe", "to bed", "to sleep", "face down", "schlaf gut"
+                ]
+            },
+            {
+                id: 0x1F637,
+                char: "😷",
+                keywords: [
+                    "mask", "medical mask", "maske", "mundschutz", "krank", "sick", "ill",
+                    "face with medical mask", "husten", "cough", "hustenbonbon", "schutz",
+                    "protection", "quarantine", "isolierung", "isolation", "virus", "corona",
+                    "covid", "pandemie", "gesundheit", "health", "krankheit", "disease",
+                    "atemschutz", "airborne", "covid19", "medical", "arzt", "doctor",
+                    "patient", "symptom", "prävention", "prevention", "respirator",
+                    "filter", "sneeze", "sneezing", "schnupfen", "cold", "flu", "grippe",
+                    "asciimask", ":|", ":mask:", "emoji", "schutzmaske", "gesund",
+                    "safety", "air", "environment", "virus protection"
+                ]
+            },
+            {
+                id: 0x1F912,
+                char: "🤒",
+                keywords: [
+                    "thermometer", "fever", "fieber", "krank", "sick", "ill", "krankheit",
+                    "illness", "grippe", "flu", "cold", "symptom", "face with thermometer",
+                    "arzt", "doctor", "patient", "fieber messen", "sick face",
+                    "temperature", "hitze", "heat", "hot", "schmerz", "pain",
+                    "kranksein", "sick day", "medizin", "medicine", "gesundheit",
+                    "health", "thermometer face", "sick emoji", "emoji", "expression",
+                    "krankes gesicht", "fieberthermometer", "not feeling well",
+                    "unwohl", "illness symptoms", "body temperature", "caring", "sick emoji",
+                    "face", "mask off", ":thermometer:", "emoji sick"
+                ]
+            },
+            {
+                id: 0x1F915,
+                char: "🤕",
+                keywords: [
+                    "head bandage", "verband", "wunde", "injured", "verletzung",
+                    "schmerz", "pain", "krank", "sick", "ill", "face with head bandage",
+                    "arzt", "doctor", "patient", "verletztes gesicht", "headache",
+                    "kopfschmerzen", "wunden", "verletzen", "unfall", "accident",
+                    "medical", "medizin", "heilung", "healing", "krankenhaus", "hospital",
+                    "trauma", "verletzungsgesicht", "not feeling well", "care", "gesundheit",
+                    "health", "kopfverband", "verbandkopf", "emo", "emoji", "ouch",
+                    "ouch face", ":bandage:", "head injury", "expression", "sick face",
+                    "emergency", "traumatisiert"
+                ]
+            },
+            {
+                id: 0x1F922,
+                char: "🤢",
+                keywords: [
+                    "nauseated", "übel", "sick", "krank", "face", "kotzen", "to vomit",
+                    "übelkeit", "nausea", "brechreiz", "brechend", "ekel", "disgust",
+                    "eklig", "disgusted", "face disgusted", "krankheit", "disease",
+                    "feeling bad", "sick feeling", "sick face", "emoji", "expression",
+                    "stomach", "magen", "stomachache", "gefühl", "feeling", "krankes gesicht",
+                    "health", "unwohl", "throw up", "vomit", "throwing up", "sick emoji",
+                    ":nauseated:", ":vomit:", ":puke:", "gross", "eww", "sick expression",
+                    "sick", "disgusted face", "yuck"
+                ]
+            },
+            {
+                id: 0x1F92E,
+                char: "🤮",
+                keywords: [
+                    "vomiting", "kotzen", "brechen", "erbrechen", "vomit", "throw up",
+                    "face vomiting", "übelkeit", "sick", "krank", "ekel", "disgust",
+                    "sick face", "disgusted", "eklig", "disease", "krankheit", "stomach",
+                    "magen", "stomachache", "throwing up", "nausea", "puke", "gross",
+                    "eww", "yuck", "expression", "emoji", "sick emoji", "sick feeling",
+                    "unwohl", "feeling bad", "sick person", "health", "ganz schlecht",
+                    "bad feeling", "krankes gesicht", "face", "expression of disgust",
+                    "to vomit", "nauseated face", ":vomiting:", ":puke:", "sick"
+                ]
+            },
+            {
+                id: 0x1F927,
+                char: "🤧",
+                keywords: [
+                    "sneezing", "niesen", "sneeze", "face sneezing", "krank", "sick",
+                    "cold", "erkältung", "husten", "schnupfen", "hatschi", "gesundheit",
+                    "health", "krankheit", "symptom", "sick face", "allergie", "allergy",
+                    "face with sneezing", "expression", "emoji", "sick emoji", "hatschi!",
+                    "nasal", "nose", "snot", "erkältet", "hustenbonbon", "hustenbonbons",
+                    "schutz", "protection", "gesund", "medical", "arzt", "patient",
+                    "cold symptoms", "quarantine", "isolierung", "isolation",
+                    ":sneeze:", ":achoo:", ":niesen:", "gesundheitsschutz", "krank"
+                ]
+            },
+            {
+                id: 0x1F975,
+                char: "🥵",
+                keywords: [
+                    "hot face", "heiß", "hitze", "warm", "schwitzen", "sweat", "face",
+                    "hot", "heat", "feeling hot", "sick", "krank", "erschöpft", "tired",
+                    "müde", "überhitzt", "overheated", "emoji", "expression", "sweating",
+                    "wärme", "warm feeling", "summer", "sommer", "temperatur", "temperature",
+                    "sun", "sonne", "rot", "red face", "angry", "wütend", "stress",
+                    "überfordert", "overwhelmed", "erschöpfung", "heatstroke", "hitze",
+                    "feeling fever", "krankes gesicht", "sick face", ":hot_face:", ":heat:",
+                    ":schwitzend:", "face with sweat", "bad feeling", "unwohl"
+                ]
+            },
+            {
+                id: 0x1F976,
+                char: "🥶",
+                keywords: [
+                    "cold face", "kalt", "frost", "frozen", "face", "frieren", "eiskalt",
+                    "eis", "ice", "schock", "cold", "freezing", "snow", "schnee", "winter",
+                    "temperatur", "temperature", "face cold", "sick", "krank", "unwohl",
+                    "krankes gesicht", "frostig", "blue face", "blau", "cold feeling",
+                    "kaltes gesicht", "emoji", "expression", "feeling cold", "schüttelfrost",
+                    "chills", "erkältung", "flu", "grippe", "freezing face", "face frost",
+                    ":cold_face:", ":freeze:", ":snowflake:", ":blue_face:", "sick emoji"
+                ]
+            },
+            {
+                id: 0x1F974,
+                char: "🥴",
+                keywords: [
+                    "woozy face", "benommen", "schwindelig", "dizzy", "betrunken", "drunk",
+                    "face", "wackelig", "unsicher", "unsteady", "krank", "sick", "ill",
+                    "krankes gesicht", "expression", "emoji", "unwohl", "sick emoji",
+                    "feeling sick", "feeling dizzy", "übel", "nauseous", "leichtsinnig",
+                    "hangover", "kater", "rausch", "besoffen", "drunken", "betrunkenes gesicht",
+                    "schwindel", "benommenheit", "nicht klar", "confused", "verwirrt",
+                    "unwohlsein", "schwankend", "krank", "krankheit", "krankes gesicht",
+                    ":woozy_face:", ":dizzy:", ":drunk:", "expression"
+                ]
+            },
+            {
+                id: 0x1F635,
+                char: "😵",
+                keywords: [
+                    "dizzy face", "schwindelig", "benommen", "face", "krank", "sick", "ill",
+                    "erschöpft", "tired", "verwirrt", "confused", "expression", "emoji",
+                    "krankes gesicht", "unwohl", "ohne bewusstsein", "blackout",
+                    "headache", "kopfschmerzen", "overwhelmed", "erschöpfung", "stress",
+                    "nicht klar", "benommenheit", "schwankend", "nicht bei bewusstsein",
+                    "face dizzy", "dizziness", "sick emoji", "krankheit", "disease",
+                    "expressionless", "asciiface", ":dizzy_face:", ":x_x:", ":knocked_out:",
+                    ":dizzy:", "out of it", "konfus"
+                ]
+            },
+            {
+                id: 0x1F92F,
+                char: "🤯",
+                keywords: [
+                    "exploding head", "kopf explodiert", "mind blown", "überrascht",
+                    "surprised", "amazed", "überwältigt", "shocked", "face", "emoji",
+                    "expression", "unglaublich", "crazy", "verblüfft", "mindblown",
+                    "wahnsinn", "wow", "kopf", "head", "explosion", "explodiert",
+                    "überfordert", "overwhelmed", "total überrascht", "überraschung",
+                    "mindblown face", "mind explosion", "krank", "sick", "out of mind",
+                    "irre", "unfassbar", "expression face", "emoji face", ":mind_blown:",
+                    ":exploding_head:", ":boom:", ":mind:", "head explosion"
+                ]
+            },
+            {
+                id: 129312, // U+1F920
+                char: "🤠",
+                keywords: [
+                    "cowboy", "cowboy hat", "western", "hut", "smile", "lächeln", "grinsen", "happy",
+                    "fröhlich", "fun", "spaß", "westernhut", "face", "gesicht", "emoji", "charakter",
+                    "freude", "glück", "outdoor", "abenteuer", "wildwest", "country", "cowgirl", "lasso",
+                    "pferd", "ranch", "reiter", "freigeist", "cool", "lässig", "stolz", "freundlich",
+                    "frech", "humor", "junge", "mann", "mensch", "cowboyface", "cowboyhatface", "emoji cowboy",
+                    "westernstyle", "hüte", "textface", "asciiface", ":cowboy:", "westernlook", "westernstadt",
+                    "wildweststyle", "westernheld", "schlau"
+                ]
+            },
+            {
+                id: 129395, // U+1F973
+                char: "🥳",
+                keywords: [
+                    "party", "feiern", "party face", "feier", "birthday", "geburtstag", "spaß", "fun",
+                    "konfetti", "confetti", "celebrate", "feierlaune", "fröhlich", "glücklich", "jubel",
+                    "cheer", "happy", "emotion", "lustig", "freude", "maskerade", "maske", "hats", "hut",
+                    "face", "gesicht", "emoji", "partytime", "feierabend", "vergnügen", "karneval",
+                    "fest", "party animal", "jubeln", "festlaune", "feiern", "geburtstagsfeier", "fasching",
+                    "funny", "spaßig", "cheers", "jubeln", "party emoji", "maskenball", "partyhut",
+                    "sause", "konfetti werfen", "partygesicht"
+                ]
+            },
+            {
+                id: 128526, // U+1F60E
+                char: "😎",
+                keywords: [
+                    "cool", "sonnenbrille", "sunglasses", "lässig", "smile", "lächeln", "coolness", "style",
+                    "lässig", "sonne", "sun", "face", "gesicht", "emoji", "lässig sein", "lässiger typ",
+                    "lässiger blick", "chill", "entspannt", "relaxed", "lässig", "hip", "stylish", "gut drauf",
+                    "freundlich", "glücklich", "cool guy", "cool girl", "cool face", "chillen", "lässigkeit",
+                    "coole sonnenbrille", "cool emoji", "cooler typ", "cooles gesicht", "lässiger blick",
+                    "lässiges lächeln", "lässiger style", "lässig emoji", "cooles gesicht", "cool kid",
+                    "swag", "cool vibe", "sonnenbrille auf", "cooles emoji", "cool attitude", "coolness factor"
+                ]
+            },
+            {
+                id: 129299, // U+1F913
+                char: "🤓",
+                keywords: [
+                    "nerd", "nerd face", "geek", "intelligent", "clever", "klug", "brille", "brillenträger",
+                    "smile", "lächeln", "freude", "emoji", "gesicht", "face", "brainy", "smart", "schlau",
+                    "studieren", "lernen", "wissbegierig", "intellektuell", "leseratte", "geeky", "computer",
+                    "technik", "programming", "coding", "geek face", "nerd emoji", "intelligenz", "nerdig",
+                    "geeky smile", "fleißig", "schlaues gesicht", "kluges lächeln", "intellekt", "smart face",
+                    "nerd look", "geek glasses", "geek style", "computer nerd", "wissenschaft", "klug",
+                    "kluges emoji", "intelligenz", "lernen emoji"
+                ]
+            },
+            {
+                id: 129504, // U+1F9D0
+                char: "🧐",
+                keywords: [
+                    "monokel", "face with monocle", "nachdenklich", "überlegen", "denken", "klug", "intelligent",
+                    "prüfen", "untersuchen", "detektiv", "skeptisch", "kritisch", "fragezeichen", "forschen",
+                    "investigativ", "spion", "lupe", "detektiv emoji", "denken", "gesicht", "emoji", "monokel",
+                    "face", "beobachten", "studieren", "checken", "nachdenken", "intellektuell", "sachlich",
+                    "wissbegierig", "monokel tragen", "denken emoji", "klugheit", "smart", "analyse", "studium",
+                    "monokelgesicht", "neugierig", "fragen", "detektiv look", "denkendes gesicht",
+                    "untersuchen emoji", "kritisches denken", "forensik", "lupe emoji", "überlegen emoji"
+                ]
+            },
+            {
+                id: 128533, // U+1F615
+                char: "😕",
+                keywords: [
+                    "confused", "verwirrt", "confused face", "verwirrtes gesicht",
+                    "zweifel", "unsicher", "frage", "fragezeichen", "hmm",
+                    "ratlos", "unsicherheit", "denken", "überlegen",
+                    "nicht sicher", "fragend", "kopfkratzen", "unsicher sein",
+                    "zweifelnd", "grübeln", "mixed feelings", "hmm",
+                    "mimik", "gesichtsausdruck", "emotion", "gefühl",
+                    "slang: hmm", ":/", ":|", "?", "verwirrung",
+                    "skepsis", "interrogation", "baff", "nachdenken",
+                    "angewidert", "komisch", "fragt sich", "zweifelndes gesicht",
+                    "denk", "neutral", "nicht sicher", "wackelig",
+                    "pause", "unsicher", "unentschlossen", "verlegen",
+                    "bedenken", "irritiert", "fragend", "confounded",
+                    "leicht irritiert"
+                ]
+            },
+            {
+                id: 128543, // U+1F61F
+                char: "😟",
+                keywords: [
+                    "worried", "besorgt", "worried face", "besorgtes gesicht",
+                    "ängstlich", "sorgen", "stress", "nachdenklich",
+                    "unglücklich", "traurig", "emotional", "gefühl",
+                    "anxiety", "nervös", "besorgnis", "frust",
+                    "verängstigt", "angst", "mimisch", "unruhig",
+                    "besorgte mimik", "ängstlichkeit", "bange", "zweifel",
+                    "traurigkeit", "ängstliches gesicht", ":(", "sad",
+                    "feeling bad", "stressig", "oh no", "slang: oh no",
+                    "besorgniserregend", "aufgeregt", "unsicher",
+                    "emotionaler zustand", "nachdenklich", "besorgt sein",
+                    "ängstlich schauen", "dramatisch", "sorgen machen",
+                    "emotions", "reaktion", "negative gefühle", "ängstliches emoji",
+                    "frustrierend", "kritisch", "drama"
+                ]
+            },
+            {
+                id: 128577, // U+1F641
+                char: "🙁",
+                keywords: [
+                    "slightly frowning", "leicht traurig", "leicht frustriert",
+                    "leicht enttäuscht", "leicht unglücklich",
+                    "leicht niedergeschlagen", "traurig", "unzufrieden",
+                    "bedrückt", "bekümmert", "entschlossen", "neutral traurig",
+                    "nachdenklich", "besorgt", "mimisch", "emotion",
+                    "trauriger gesichtsausdruck", ":(", "sad face",
+                    "leicht traurig schauen", "resigniert", "enttäuschung",
+                    "missmutig", "unmutig", "leise wütend", "dezent traurig",
+                    "unzufriedenheit", "negativ", "nicht glücklich",
+                    "neutral traurig", "nicht fröhlich", "leicht deprimiert",
+                    "frust", "gedämpft", "mies drauf", "negativ gefühlt",
+                    "depri", "mimisch", "leicht verzweifelt", "bedrückung",
+                    "traurig", "unwohl", "emotional", "nachdenklich",
+                    "reaktion", "langsames kopfschütteln", "unmut"
+                ]
+            },
+            {
+                id: 9785, // U+2639
+                char: "☹",
+                keywords: [
+                    "frowning face", "traurig", "unzufrieden", "bedrückt",
+                    "niedergeschlagen", "traurigkeit", "emotion",
+                    "negativ", "unhappy", "mimisch", "depression",
+                    "unglücklich", "besorgt", "frustriert", ":(",
+                    "sad", "entschlossen", "miese laune", "nachdenklich",
+                    "depri", "trübsinnig", "missmutig", "nicht glücklich",
+                    "mieser tag", "gefrustet", "deprimiert", "depression",
+                    "down", "melancholie", "schlecht drauf", "unwohl",
+                    "trauriges gesicht", "bedrückter blick", "emotional",
+                    "emotions", "negative vibes", "grumpy", "gloomy",
+                    "besorgt", "verärgert", "nicht zufrieden", "stimmung",
+                    "langsames kopfschütteln", "trauriges emoji"
+                ]
+            },
+            {
+                id: 128558, // U+1F62E
+                char: "😮",
+                keywords: [
+                    "face with open mouth", "überrascht", "erstaunt",
+                    "wow", "oh", "staunen", "geschockt", "erstaunen",
+                    "überraschung", "ungläubig", "shock", "sprachlos",
+                    "mimik", "emotion", "wow-effekt", "offener mund",
+                    "begeistert", "ungläubig", "open mouth", ":O",
+                    ":0", "wow face", "überraschungsgesicht",
+                    "staunend", "erstaunt schauen", "unfassbar",
+                    "oh mein gott", "fassungslos", "emotions", "emotional",
+                    "überwältigt", "staunendes gesicht", "fasziniert",
+                    "furchtlos", "ah", "oh no", "ungläubig schauen",
+                    "stunned", "speechless", "emotional", "shock face",
+                    "emoji", "gesicht", "mimik", "leicht schockiert"
+                ]
+            },
+            {
+                id: 128559, // U+1F62F
+                char: "😯",
+                keywords: [
+                    "hushed face", "still", "ruhig", "leise",
+                    "überrascht", "stumm", "schweigen", "erstaunt",
+                    "wow", "wow face", "überraschung", "emotions",
+                    "mimik", "leises staunen", "offener mund", ":O",
+                    "überrascht schauen", "erstaunt", "überwältigt",
+                    "emotional", "geschockt", "sprachlos", "furchtlos",
+                    "leicht schockiert", "emotionaler ausdruck", "staunen",
+                    "nicht sprechen", "aufmerksam", "beobachtend",
+                    "geräuschlos", "hush", "quiet", "surprise",
+                    "wow face", "emotions", "überraschung", "staunen",
+                    "fokus", "emotional", "ausdruck", "unfassbar",
+                    "achtung", "stille", "hör mal zu"
+                ]
+            },
+            {
+                id: 128530, // U+1F632
+                char: "😲",
+                keywords: [
+                    "astonished face", "erstaunt", "überrascht",
+                    "fassungslos", "wow", "oh mein gott", "shock",
+                    "ungläubig", "staunend", "sprachlos", "mimik",
+                    "emotion", "offener mund", ":O", ":0", "wow face",
+                    "überwältigt", "ungläubig schauen", "geschockt",
+                    "emotional", "leicht schockiert", "überraschung",
+                    "emotionaler ausdruck", "furchtlos", "staunen",
+                    "unglaublich", "ohne worte", "fassungslos",
+                    "emotions", "überwältigung", "große augen",
+                    "offener mund", "staunendes gesicht", "überwältigt",
+                    "beeindruckt", "erschrocken", "wow-effekt", "wow emoji",
+                    "erstaunte mimik", "ungläubiges gesicht", "oh"
+                ]
+            },
+            {
+                id: 128563, // U+1F633
+                char: "😳",
+                keywords: [
+                    "flushed face", "errötet", "verlegen", "peinlich",
+                    "scham", "rot", "blush", "embarassed", "verlegenes gesicht",
+                    "mimik", "emotion", "peinlichkeit", "rotes gesicht",
+                    "rot werden", "verlegenheit", "peinlich berührt",
+                    "rote wangen", "schüchtern", "dumm gefühlt", ":$",
+                    "awkward", "oh no", "peinlich berührt", "schamgefühl",
+                    "gesichtsausdruck", "rot im gesicht", "nervös",
+                    "beschämt", "leicht errötet", "sich schämen",
+                    "peinlich", "rot werden", "fehler gemacht",
+                    "überrascht", "unwohl", "awkward face", "unsicher",
+                    "rote backen", "gesicht", "emotion", "flushed",
+                    "oh no", "rot im gesicht", "mimisch"
+                ]
+            },
+            {
+                id: 129402, // U+1F97A
+                char: "🥺",
+                keywords: [
+                    "pleading face", "bettelnd", "flehend", "bitte",
+                    "unschuldig", "big eyes", "große augen",
+                    "emotional", "traurig", "bitte", "hopeful",
+                    "verzeihung", "schuldig", "unschuld", "traurigkeit",
+                    "flehentlich", "appellieren", "mitleid",
+                    "bambi augen", "bitte hilf mir", "emotions",
+                    "emotionales gesicht", "augen groß", "schau mich an",
+                    "gefühle", "bitte", "schauen", "bedauern",
+                    "hoffnungsvoll", "verzeihung", "bitte nicht",
+                    "unschuldiges gesicht", "flehend", "mitgefühl",
+                    "trauriges gesicht", "emotionaler ausdruck",
+                    "sehnsucht", "verzeihung bitten", "bedauern",
+                    "mitleidsaugen", "emotional", "traurig",
+                    "emotionaler ausdruck", "hoffnung", "bitte"
+                ]
+            },
+            {
+                id: 128550, // U+1F626
+                char: "😦",
+                keywords: [
+                    "frowning face with open mouth", "besorgt", "traurig",
+                    "ängstlich", "offener mund", "geschockt",
+                    "mimik", "emotion", "besorgnis", "schockiert",
+                    "entsetzt", "oh no", "überrascht", "wow",
+                    "mitleid", "ungläubig", "gesichtsausdruck",
+                    "ängstlich", "offener mund", "emotional", "besorgt sein",
+                    "schock", "überwältigt", "leicht schockiert",
+                    "fassungslos", "traurig", ":O", "wow face",
+                    "ängstliches gesicht", "besorgtes gesicht", "unwohl",
+                    "reaktion", "emotions", "mimik", "emotionale reaktion",
+                    "offene augen", "oh nein", "besorgter blick",
+                    "entsetzt schauen", "ängstlich schauen", "sprachlos"
+                ]
+            },
+            {
+                id: 128551,
+                char: "😧",
+                keywords: [
+                    "anguished", "face", "anguished face", "ängstlich", "besorgt", "sorgen", "ängstliches gesicht",
+                    "ängstlich", "erschrocken", "alarmiert", "schockiert", "entsetzt", "ängstlich schauen",
+                    "emotional", "emotion", "gefühle", "stress", "panik", "unwohl", "verwirrt",
+                    "fear", "worried", "anxiety", "shock", "panic", "stress", "sad", "oh no", "ohne worte",
+                    "emoji", "emoticon", "expression", "Gesicht", "facepalm", ":O", ":0", ":|", ":S",
+                    "ohne worte", "unhappy", "upset", "trouble", "problem", "worried face",
+                    "scared", "distressed", "confused", "nervous", "freaked out", "grimace"
+                ]
+            },
+            {
+                id: 128552,
+                char: "😨",
+                keywords: [
+                    "fearful", "face", "fearful face", "ängstlich", "furchtsam", "panik", "erschrocken",
+                    "schreck", "alarmiert", "panic", "angst", "ängstliches gesicht", "nervös",
+                    "ängstlich schauen", "emotional", "emotion", "gefühle", "stress", "unwohl",
+                    "besorgt", "worried", "anxiety", "scared", "frightened", "surprised", "shock",
+                    "oh no", "ohne worte", "emoji", "emoticon", "expression", "Gesicht", ":O", ":0",
+                    "sweat", "grimace", "upset", "concerned", "nervous", "fear", "distressed",
+                    "worry", "trouble", "panic attack", "dread", "alarm"
+                ]
+            },
+            {
+                id: 128560,
+                char: "😰",
+                keywords: [
+                    "anxious", "face", "anxious face with sweat", "ängstlich", "besorgt", "schwitzen",
+                    "sweat", "ängstliches gesicht", "stress", "panik", "nervös", "unwohl", "besorgt",
+                    "anxiety", "fear", "schweiß", "worried", "besorgnis", "ängstlich schauen",
+                    "emotional", "emotion", "gefühle", "atmen schwer", "aufregung", "sorgen",
+                    "schwitzend", "emoji", "emoticon", "expression", "Gesicht", ":S", ":|", ":/",
+                    "ohne worte", "besorgte stimme", "ängstlich", "nervös", "angst", "trouble",
+                    "stress", "frustration", "furcht", "besorgnis", "hektik", "nervosität"
+                ]
+            },
+            {
+                id: 128549,
+                char: "😥",
+                keywords: [
+                    "sad", "but relieved", "face", "traurig", "erleichtert", "trauriges gesicht",
+                    "emotion", "gefühle", "emotional", "bedauern", "trauer", "weinen", "traurig schauen",
+                    "besorgt", "enttäuscht", "resignation", "seufzen", "besinnlich", "ohne worte",
+                    "sorgen", "weinen", "betrübt", "melancholie", "trauer", "schwermut",
+                    "emoji", "emoticon", "expression", "Gesicht", ":(", ":/", ":|", "seufzer",
+                    "aufatmen", "aufgegeben", "frustriert", "bedrückt", "traurig", "nachdenklich",
+                    "niedergeschlagen", "traurigkeit", "unwohl", "besorgt", "besorgnis"
+                ]
+            },
+            {
+                id: 128546,
+                char: "😢",
+                keywords: [
+                    "crying", "face", "weinen", "traurig", "trauriges gesicht", "tränen", "emotion",
+                    "gefühle", "emotional", "bedauern", "trauer", "traurig schauen", "sorgen",
+                    "trauer", "traurigkeit", "betrübt", "traurig sein", "weinen", "traurig sein",
+                    "ohne worte", "emoji", "emoticon", "expression", "Gesicht", ":(", ":'(", "sniff",
+                    "sad", "cry", "tears", "upset", "broken heart", "melancholy", "down",
+                    "depressed", "unhappy", "hurt", "pain", "heartbroken", "sorrow",
+                    "grief", "distress", "mourn", "tear", "sob", "feeling down"
+                ]
+            },
+            {
+                id: 128557,
+                char: "😭",
+                keywords: [
+                    "loudly crying", "face", "heftig weinen", "schluchzen", "tränen", "traurig",
+                    "trauriges gesicht", "emotion", "gefühle", "emotional", "bedauern", "trauer",
+                    "weinen", "traurig schauen", "sorgen", "trauer", "traurigkeit", "betrübt",
+                    "ohne worte", "emoji", "emoticon", "expression", "Gesicht", ":’(", ":'(", "sob",
+                    "cry", "tears", "upset", "broken heart", "melancholy", "down", "depressed",
+                    "unhappy", "hurt", "pain", "heartbroken", "sorrow", "grief", "distress",
+                    "mourn", "tear", "weeping", "sadness", "sobbing", "upset face"
+                ]
+            },
+            {
+                id: 128561,
+                char: "😱",
+                keywords: [
+                    "face screaming in fear", "geschockt", "angst", "panik", "erschrocken",
+                    "schreiendes gesicht", "emotion", "gefühle", "emotional", "ängstlich",
+                    "schock", "alarmiert", "panik", "nervös", "entsetzt", "ohne worte",
+                    "emoji", "emoticon", "expression", "Gesicht", ":O", ":0", ":S", "panic",
+                    "fear", "scream", "scared", "shock", "surprise", "terrified", "worried",
+                    "frightened", "anxiety", "distress", "horror", "terror", "fearful",
+                    "scared face", "alarm", "emergency", "help", "upset"
+                ]
+            },
+            {
+                id: 128534,
+                char: "😖",
+                keywords: [
+                    "confounded face", "verwirrt", "frustriert", "genervt", "enttäuscht", "schwierig",
+                    "problem", "schwierig", "angewidert", "ärgerlich", "emotion", "gefühle",
+                    "emotional", "stress", "frustration", "nervös", "ohne worte", "emoji",
+                    "emoticon", "expression", "Gesicht", ":S", ":/", "confused", "upset",
+                    "annoyed", "disappointed", "worried", "disgusted", "puzzled", "trouble",
+                    "bothered", "stress", "displeased", "concerned", "worried face", "unhappy",
+                    "confused face", "worried", "frustrated", "grimace", "discontent"
+                ]
+            },
+            {
+                id: 128547,
+                char: "😣",
+                keywords: [
+                    "persevering face", "durchhaltend", "tapfer", "zäh", "hartnäckig", "geduldig",
+                    "stress", "frust", "anstrengend", "kämpfen", "emotional", "gefühle", "ausdauer",
+                    "stark", "ohne worte", "emoji", "emoticon", "expression", "Gesicht", ":|",
+                    "streng", "entschlossen", "kämpfen", "konzentriert", "fokussiert", "durchhalten",
+                    "hart", "ausdauernd", "nervös", "belastet", "schwierig", "geduldig", "entschlossen",
+                    "kämpferisch", "stolz", "mühsam", "motivation", "willensstark"
+                ]
+            },
+            {
+                id: 128542,
+                char: "😞",
+                keywords: [
+                    "disappointed face", "enttäuscht", "traurig", "unglücklich", "frustriert",
+                    "bedrückt", "deprimiert", "negativ", "trauriges gesicht", "emotion", "gefühle",
+                    "emotional", "ohne worte", "emoji", "emoticon", "expression", "Gesicht", ":(",
+                    "down", "sad", "unhappy", "let down", "blue", "melancholy", "discontent",
+                    "gloomy", "depressed", "sadness", "bummed", "downcast", "miserable", "heartbroken",
+                    "displeased", "sorrow", "regret", "frustrated", "low", "upset", "unfulfilled",
+                    "disheartened", "glum"
+                ]
+            },
+            {
+                id: 128531, // U+1F613 = 128531 dez
+                char: "😓",
+                keywords: [
+                    "downcast", "gesenkter blick", "face", "gesicht", "sweat", "schweiß", "sweating",
+                    "angst", "fear", "stress", "druck", "nervös", "nervous", "besorgt", "worried",
+                    "erschöpft", "exhausted", "müde", "tired", "anstrengung", "effort", "hitze", "heat",
+                    "traurig", "sad", "enttäuscht", "disappointed", "bad day", "schlecht", "worried face",
+                    "ängstlich", "worried", "peinlich", "embarrassed", "frustration", "frustriert",
+                    "gefühl", "emotion", "schmerz", "pain", "schlechte laune", "bad mood",
+                    "stressig", "stressful", "schweißperle", "droplet", "nase", "face with sweat",
+                    "😓", "ascii ;)", "anstrengend", "hot", "erschöpfung", "overworked", "heatwave"
+                ]
+            },
+            {
+                id: 128553, // U+1F629 = 128553 dez
+                char: "😩",
+                keywords: [
+                    "weary", "erschöpft", "müde", "tired", "genervt", "frustriert", "annoyed",
+                    "traurig", "sad", "deprimiert", "depressed", "überfordert", "overwhelmed",
+                    "stress", "druck", "emotional", "emotion", "verzweifelt", "desperate",
+                    "niedergeschlagen", "downcast", "face", "gesicht", "ausdruck", "expression",
+                    "kaputt", "exhausted", "enttäuscht", "disappointed", "oh no", "ugh", "argh",
+                    "seufzen", "sigh", "frust", "frustration", "burnout", "ausgebrannt",
+                    "schwach", "weak", "resigniert", "resigned", "stressig", "stressful",
+                    "emo", "slang", "emoji", "😩", "ascii :(", "schwarz", "melancholie", "miserabel"
+                ]
+            },
+            {
+                id: 128555, // U+1F62B = 128555 dez
+                char: "😫",
+                keywords: [
+                    "tired", "müde", "erschöpft", "exhausted", "schlafmangel", "sleep deprived",
+                    "gestresst", "stress", "nervös", "nervous", "ausgelaugt", "worn out",
+                    "frustriert", "frustrated", "genervt", "annoyed", "kaputt", "broken",
+                    "face", "gesicht", "expression", "ausdruck", "anstrengung", "effort",
+                    "deprimiert", "depressed", "traurig", "sad", "schwäche", "weakness",
+                    "burnout", "ausgebrannt", "emotional", "emotion", "😭", "slang", "emoji",
+                    "ascii :/", "schweiß", "sweat", "krank", "sick", "weh", "ouch",
+                    "gestöhne", "groan", "stressig", "stressful", "schlechte laune", "bad mood"
+                ]
+            },
+            {
+                id: 128580, // U+1F624 = 128580 dez
+                char: "😤",
+                keywords: [
+                    "face with steam", "dampf", "wütend", "angry", "ärgerlich", "mad",
+                    "frustriert", "frustrated", "kämpferisch", "fighting spirit", "stolz",
+                    "proud", "entschlossen", "determined", "anstrengung", "effort", "kämpfen",
+                    "fight", "wut", "rage", "zorn", "rage face", "duell", "duel",
+                    "gesicht", "face", "expression", "ausdruck", "dampf aus der nase",
+                    "stolz", "smug", "challenging", "ärger", "anger", "grrr", "grr",
+                    "slang", "emoji", "😤", "ascii >:(", "konfrontation", "konflikt",
+                    "power", "kraft", "adrenalin", "stressig", "stress", "widerstand"
+                ]
+            },
+            {
+                id: 128545, // U+1F621 = 128545 dez
+                char: "😡",
+                keywords: [
+                    "angry", "wütend", "zornig", "rage", "ärgerlich", "mad", "boos",
+                    "wut", "rage face", "stinkig", "annoyed", "genervt", "frustriert",
+                    "verärgert", "upset", "beleidigt", "offended", "gesicht", "face",
+                    "expression", "ausdruck", "rotes gesicht", "red face", "temper",
+                    "wutanfall", "tantrum", "ärger", "anger", "konflikt", "konfrontation",
+                    "streit", "fight", "slang", "emoji", "😡", "ascii >:(", "grrr",
+                    "böse", "evil", "bösewicht", "villain", "emotional", "emotion",
+                    "zornig", "furious", "cholerisch", "choleric"
+                ]
+            },
+            {
+                id: 128544, // U+1F620 = 128544 dez
+                char: "😠",
+                keywords: [
+                    "angry", "wütend", "ärgerlich", "mad", "verärgert", "upset", "unhappy",
+                    "face", "gesicht", "expression", "ausdruck", "ärger", "anger",
+                    "frustriert", "frustrated", "zornig", "rage", "temper", "stinkig",
+                    "annoyed", "konflikt", "fight", "streit", "slang", "emoji", "😠",
+                    "ascii >:(", "genervt", "böse", "evil", "bösewicht", "villain",
+                    "emotional", "emotion", "wutanfall", "tantrum", "cholerisch",
+                    "furious", "choleric", "grrr"
+                ]
+            },
+            {
+                id: 129132, // U+1F92C = 129132 dez
+                char: "🤬",
+                keywords: [
+                    "cursing", "fluchen", "verfluchen", "swearing", "fluch", "curse",
+                    "wütend", "angry", "rage", "zornig", "pouting", "beleidigend", "offensive",
+                    "schimpfen", "schimpfwort", "curse word", "bad words", "symbols",
+                    "symbole", "verbal abuse", "beleidigung", "offense", "offensive",
+                    "face", "gesicht", "expression", "ausdruck", "profanity", "vulgär",
+                    "böse", "evil", "wut", "anger", "fuming", "dampf", "steam",
+                    "😡", "ascii @#$%", "fuck", "shit", "bitch", "slang", "emoji",
+                    "cholerisch", "furious", "anger", "rage", "explosion", "toxic"
+                ]
+            },
+            {
+                id: 128520, // U+1F608 = 128520 dez
+                char: "😈",
+                keywords: [
+                    "smiling face with horns", "teuflisch", "devil", "dämon", "böse",
+                    "evil", "schelmisch", "mischievous", "schelm", "joker", "frech",
+                    "naughty", "grinsend", "grinning", "schelmisch", "schelm", "teufel",
+                    "devil horns", "hörner", "face", "gesicht", "ausdruck", "expression",
+                    "bösewicht", "villain", "grins", "smile", "evil grin", "böse grinsen",
+                    "slang", "emoji", "😈", "ascii >:)", "schelmig", "lustig",
+                    "sarkastisch", "sarcastic", "humor", "funny", "dark", "dunkel",
+                    "teuflisch", "dark humor", "wicked"
+                ]
+            },
+            {
+                id: 128127, // U+1F47F = 128127 dez
+                char: "👿",
+                keywords: [
+                    "angry face with horns", "zornig", "wütend", "böse", "evil",
+                    "dämonisch", "demonic", "teufel", "devil", "hörner", "horns",
+                    "wütend", "rage", "zorn", "anger", "fury", "face", "gesicht",
+                    "ausdruck", "expression", "bösewicht", "villain", "monster",
+                    "monster face", "böse grinsen", "evil grin", "schrecklich",
+                    "terrible", "grimmig", "grim", "grimmig", "böse blick", "evil look",
+                    "slang", "emoji", "😈", "ascii >:(", "wut", "rage", "furious",
+                    "cholerisch", "choleric", "dark", "dunkel", "dämon"
+                ]
+            },
+            {
+                id: 128128,
+                char: "💀",
+                keywords: [
+                    "skull", "totenschädel", "skelett", "schädel", "kopf", "death", "tod",
+                    "horror", "angst", "spooky", "gruselig", "gefahr", "danger", "dark",
+                    "macabre", "memento mori", "skelettkopf", "bones", "knochen",
+                    "grim reaper", "krankheit", "giftig", "toxisch", "verwesung",
+                    "friedhof", "friedhofsruhe", "Halloween", "sensenmann", "symbol",
+                    "mortality", "skeletton", "rip", "doodle", "ascii", "xD", ":skull:",
+                    "deathly", "fossil", "knochenmann", "furcht", "skeletal", "schwarz",
+                    "weiß", "darkness", "mystery", "evil", "creepy", "warning", "ghost"
+                ]
+            },
+            {
+                id: 9760,
+                char: "☠",
+                keywords: [
+                    "skull and crossbones", "giftig", "poison", "totenkopf", "warnung", "warning",
+                    "horror", "pirat", "pirates", "tod", "death", "gefährlich", "danger",
+                    "crossbones", "kreuzknochen", "angst", "halloween", "symbol", "dark",
+                    "memento mori", "gift", "toxisch", "böse", "black flag", "flagge",
+                    "piratenschiff", "piratenflagge", "piratenschädel", "piratentotenkopf",
+                    "ascii", "ascii art", "xD", "sensenmann", "deathly", "skull", "bones",
+                    "knochen", "warnschild", "achtung", "sicherheit", "hazard", "cruel",
+                    "evil", "fear", "dungeon", "piraten", "gefährlich", "pest"
+                ]
+            },
+            {
+                id: 128169,
+                char: "💩",
+                keywords: [
+                    "poop", "haufen", "shit", "kacke", "scheiße", "funny", "lustig", "witzig",
+                    "emoji", "smile", "laugh", "lachen", "lachen", "humor", "stinkt", "gestank",
+                    "brown", "braun", "mess", "dreck", "garbage", "müll", "bad smell", "übelkeit",
+                    "gag", "prank", "joke", "comic", "cartoon", "stool", "excrement", "feces",
+                    "klo", "toilet", "wc", "fun", "slang", "meme", "poop emoji", "shit emoji",
+                    "shitstorm", ":poop:", ":shit:", ":)", ";)", ":D", "poopie", "fun poop",
+                    "kackhaufen", "unschön"
+                ]
+            },
+            {
+                id: 129313,
+                char: "🤡",
+                keywords: [
+                    "clown", "narr", "spaßmacher", "witzbold", "clown face", "lachen", "funny",
+                    "witz", "karneval", "fasching", "bunt", "farbig", "makeup", "maskerade",
+                    "komisch", "lustig", "joker", "witzfigur", "party", "zirkus", "zirkusclown",
+                    "face paint", "clown nose", "red nose", "red", "rot", "smile", "grinsen",
+                    "spaß", "lust", "fun", "schminke", "bühne", "komödie", "sarcasm", "ironie",
+                    "prank", "troll", "fool", "joker face", "comic", "cartoon", "clown emoji",
+                    "make-up", "bunter clown", "party clown", "haha", "joker"
+                ]
+            },
+            {
+                id: 128121,
+                char: "👹",
+                keywords: [
+                    "ogre", "ogre face", "japanischer ogre", "oni", "dämon", "monster", "böse",
+                    "horror", "gruselig", "furcht", "japan", "mythologie", "japanisch", "furchterregend",
+                    "rot", "red", "face", "gesicht", "myth", "legende", "scary", "angst",
+                    "maskerade", "karneval", "fasching", "mythical", "monster face", "bösewicht",
+                    "villain", "krieger", "kämpfer", "comic", "cartoon", "demon face", "fury",
+                    "wut", "rage", "grimace", "böse gesicht", "ascii", ":angry:", "monster emoji",
+                    "japanese ogre", "devil", "demon"
+                ]
+            },
+            {
+                id: 128122,
+                char: "👺",
+                keywords: [
+                    "goblin", "goblin face", "tengu", "japanisch", "dämon", "böse", "horror",
+                    "gruselig", "monster", "angst", "mythologie", "myth", "red face", "rot",
+                    "gesicht", "mythical", "fantasy", "scary", "fury", "wut", "grimace", "villain",
+                    "bösewicht", "krieger", "kämpfer", "comic", "cartoon", "monster emoji",
+                    "devil", "demon", "maskerade", "fasching", "karneval", "japanische maske",
+                    "angry", "frowning", "evil", "prank", "trickster", "mischievous", "troll"
+                ]
+            },
+            {
+                id: 128123,
+                char: "👻",
+                keywords: [
+                    "ghost", "geist", "spuk", "halloween", "gruselig", "boo", "scary", "horror",
+                    "spirit", "seele", "transparenz", "durchsichtig", "white", "weiß", "gespenst",
+                    "poltergeist", "monster", "fantasy", "supernatural", "paranormal",
+                    "angst", "fear", "spooky", "schreck", "haunted", "spukhaus", "geistwesen",
+                    "unheimlich", "witch", "geistig", "phantom", "wraith", "doodle", "ascii",
+                    ":ghost:", "boo!", "funny", "cute", "kind", "cartoon", "emoji", "happy ghost",
+                    "friendly ghost", "ghoul"
+                ]
+            },
+            {
+                id: 128125,
+                char: "👽",
+                keywords: [
+                    "alien", "außerirdisch", "extraterrestrial", "ufo", "et", "science fiction",
+                    "sci-fi", "raumfahrt", "spaceship", "weltraum", "space", "grün", "green",
+                    "kopf", "head", "large eyes", "große augen", "fantasy", "mystery", "fremd",
+                    "strange", "weird", "creature", "monster", "unknown", "unbekannt",
+                    "contact", "first contact", "invasion", "et alien", "cartoon", "comic",
+                    "fiction", "fantastisch", "freundlich", "freund", "visit", "probe", "experiment",
+                    "unheimlich", "science", "future", "technology", "sci fi", "area 51"
+                ]
+            },
+            {
+                id: 128126,
+                char: "👾",
+                keywords: [
+                    "alien monster", "space invader", "videogame", "game", "pixel", "8bit",
+                    "arcade", "monster", "fantasy", "science fiction", "sci-fi", "ufo",
+                    "spaceship", "game controller", "pixel art", "cartoon", "comic",
+                    "fun", "retro", "arcade game", "video game", "space", "invader", "invading",
+                    "enemy", "enemy alien", "game over", "game emoji", "monster face",
+                    "fantastic", "weird", "strange", "robot", "alien", "green", "purple",
+                    "pixelated", "computer", "technology", "arcade machine", "funny",
+                    "gameplay", "digital", "gaming", "nerd", "gamer"
+                ]
+            },
+            {
+                id: 129302,
+                char: "🤖",
+                keywords: [
+                    "robot", "roboter", "machine", "maschine", "technology", "technik", "ai",
+                    "künstliche intelligenz", "artificial intelligence", "cyborg", "android",
+                    "computer", "computer face", "metal", "metall", "gadget", "future", "zukunft",
+                    "science fiction", "sci-fi", "fantasy", "mechanical", "mechanisch", "android face",
+                    "technology face", "machine face", "automation", "automatisierung",
+                    "digital", "programming", "coder", "nerd", "techie", "robotic", "emoji",
+                    "funny", "cartoon", "comic", "future tech", "robot head", "gadget face",
+                    "electronics", "chip", "processor", "computer science", "technology emoji"
+                ]
+            }
+        ];
+
+
+
+
+
+
+
+        const index = new FlexSearch.Document({
+            document: {
+                id: "id",
+                index: ["keywords"]
+            },
+            tokenize: "forward",
+            cache: true,
+            optimize: true
+        });
+
+        emojis.forEach(e => {
+            index.add({
+                id: e.id,
+                keywords: e.keywords.join(" ")
+            });
+        });
+
+        function searchEmojis(query) {
+            if (!query) return emojis;
+            const results = index.search(query, {enrich: true});
+            const ids = new Set(results.flatMap(r => r.result));
+            return emojis.filter(e => ids.has(e.id));
+        }
+
+        function updateResults() {
+            const query = document.getElementById("search").value.trim();
+            const matches = searchEmojis(query);
+            const container = document.getElementById("results");
+            container.innerHTML = "";
+            for (const e of matches) {
+                const span = document.createElement("span");
+                span.textContent = e.char;
+                span.className = "text-4xl cursor-pointer hover:scale-125 transition-transform";
+                span.onclick = () => navigator.clipboard.writeText(e.char);
+                container.appendChild(span);
+            }
+        }
+
+        window.addEventListener("DOMContentLoaded", () => {
+            document.getElementById("search").addEventListener("input", updateResults);
+            updateResults();
+        });
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-white text-black p-4">
+<main class="max-w-3xl mx-auto">
+    <input
+            id="search"
+            type="text"
+            placeholder="🔍 Emoji suchen..."
+            class="w-full p-3 text-lg border rounded-xl shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+            autofocus
+    />
+    <div
+            id="results"
+            class="grid grid-cols-4 sm:grid-cols-6 md:grid-cols-8 gap-4 mt-6 text-center select-none"
+    ></div>
+</main>
+</body>
+</html>
