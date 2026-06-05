@@ -42,11 +42,51 @@
             return scored.map(x => x.emoji);
         }
 
+        const RECENTS_KEY = 'fme_recents';
+        const RECENTS_MAX = 12;
+
+        function getRecents() {
+            try { return JSON.parse(localStorage.getItem(RECENTS_KEY) || '[]'); }
+            catch { return []; }
+        }
+
+        function addRecent(char) {
+            const recents = [char, ...getRecents().filter(c => c !== char)].slice(0, RECENTS_MAX);
+            localStorage.setItem(RECENTS_KEY, JSON.stringify(recents));
+        }
+
+        function renderRecents() {
+            const recents = getRecents();
+            const wrap = document.getElementById('recents-wrap');
+            const row = document.getElementById('recents');
+            if (!recents.length) { wrap.hidden = true; return; }
+            wrap.hidden = false;
+            row.innerHTML = '';
+            const frag = document.createDocumentFragment();
+            for (const char of recents) {
+                const span = document.createElement('span');
+                span.textContent = char;
+                span.className = 'emoji-item';
+                frag.appendChild(span);
+            }
+            row.appendChild(frag);
+        }
+
+        function buildEmojiSpan(e) {
+            const span = document.createElement("span");
+            span.textContent = e.char;
+            span.title = e.label;
+            span.className = "emoji-item";
+            return span;
+        }
+
         function updateResults() {
             const query = document.getElementById("search").value.trim();
             const matches = searchEmojis(query);
             const container = document.getElementById("results");
             container.innerHTML = "";
+
+            document.getElementById("recents-wrap").hidden = !!query;
 
             document.getElementById("count").textContent = query
                 ? `${matches.length} Treffer für „${query}"`
@@ -54,27 +94,34 @@
 
             const fragment = document.createDocumentFragment();
             for (const e of matches) {
-                const span = document.createElement("span");
-                span.textContent = e.char;
-                span.title = e.label;
-                span.className = "emoji-item";
-                fragment.appendChild(span);
+                fragment.appendChild(buildEmojiSpan(e));
             }
             container.appendChild(fragment);
+        }
+
+        function handleCopy(item) {
+            const char = item.textContent;
+            navigator.clipboard.writeText(char);
+            addRecent(char);
+            renderRecents();
+            item.classList.add("copied");
+            setTimeout(() => item.classList.remove("copied"), 700);
         }
 
         window.addEventListener("DOMContentLoaded", () => {
             document.getElementById("search").addEventListener("input", updateResults);
 
-            // single delegated handler instead of one closure per emoji
             document.getElementById("results").addEventListener("click", e => {
                 const item = e.target.closest(".emoji-item");
-                if (!item) return;
-                navigator.clipboard.writeText(item.textContent);
-                item.classList.add("copied");
-                setTimeout(() => item.classList.remove("copied"), 700);
+                if (item) handleCopy(item);
             });
 
+            document.getElementById("recents").addEventListener("click", e => {
+                const item = e.target.closest(".emoji-item");
+                if (item) handleCopy(item);
+            });
+
+            renderRecents();
             updateResults();
         });
     </script>
@@ -170,6 +217,22 @@
             background: rgba(0,0,0,0.04);
         }
 
+        #recents-wrap {
+            margin-bottom: 1rem;
+        }
+        #recents-label {
+            font-size: 0.7rem;
+            color: #bbb;
+            letter-spacing: 0.04em;
+            text-transform: uppercase;
+            margin-bottom: 0.25rem;
+        }
+        #recents {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 0.15rem;
+        }
+
         @keyframes copy-flash {
             0%   { transform: scale(1);   filter: brightness(1); }
             35%  { transform: scale(1.65); filter: brightness(1.3) drop-shadow(0 0 8px rgba(167,139,250,0.7)); }
@@ -196,6 +259,10 @@
 </div>
 
 <div id="results-wrap">
+    <div id="recents-wrap" hidden>
+        <p id="recents-label">Zuletzt benutzt</p>
+        <div id="recents"></div>
+    </div>
     <div id="results"></div>
 </div>
 
