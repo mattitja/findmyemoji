@@ -90,8 +90,6 @@
             const container = document.getElementById("results");
             container.innerHTML = "";
 
-            document.getElementById("recents-wrap").hidden = !!query;
-
             document.getElementById("count").textContent = query
                 ? `${matches.length} Treffer für „${query}"`
                 : `${emojis.length} Emojis`;
@@ -123,6 +121,11 @@
             document.getElementById("recents").addEventListener("click", e => {
                 const item = e.target.closest(".emoji-item");
                 if (item) handleCopy(item);
+            });
+
+            document.getElementById("recents-clear").addEventListener("click", () => {
+                localStorage.removeItem(RECENTS_KEY);
+                renderRecents();
             });
 
             renderRecents();
@@ -222,15 +225,32 @@
         }
 
         #recents-wrap {
-            margin-bottom: 1rem;
+            max-width: 52rem;
+            margin: 0 auto;
+            padding: 0.75rem 1rem 0.25rem;
+        }
+        #recents-header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            margin-bottom: 0.25rem;
         }
         #recents-label {
             font-size: 0.7rem;
             color: #bbb;
             letter-spacing: 0.04em;
             text-transform: uppercase;
-            margin-bottom: 0.25rem;
         }
+        #recents-clear {
+            font-size: 0.7rem;
+            color: #ccc;
+            background: none;
+            border: none;
+            cursor: pointer;
+            padding: 0;
+            line-height: 1;
+        }
+        #recents-clear:hover { color: #999; }
         #recents {
             display: flex;
             flex-wrap: wrap;
@@ -246,6 +266,14 @@
     </style>
 </head>
 <body>
+
+<div id="recents-wrap" hidden>
+    <div id="recents-header">
+        <span id="recents-label">Zuletzt benutzt</span>
+        <button id="recents-clear">löschen</button>
+    </div>
+    <div id="recents"></div>
+</div>
 
 <div id="search-header">
     <div class="inner">
@@ -263,10 +291,6 @@
 </div>
 
 <div id="results-wrap">
-    <div id="recents-wrap" hidden>
-        <p id="recents-label">Zuletzt benutzt</p>
-        <div id="recents"></div>
-    </div>
     <div id="results"></div>
 </div>
 
