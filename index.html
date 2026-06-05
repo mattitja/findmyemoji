@@ -95,8 +95,8 @@
             container.innerHTML = "";
 
             document.getElementById("count").textContent = query
-                ? `${matches.length} Treffer für „${query}"`
-                : `${emojis.length} Emojis`;
+                ? `${matches.length} result${matches.length === 1 ? '' : 's'} for "${query}"`
+                : `${emojis.length} emojis`;
 
             const fragment = document.createDocumentFragment();
             for (const e of matches) {
@@ -106,10 +106,29 @@
         }
 
         let toastTimer;
-        function showToast(char) {
+        function showToast(char, targetEl) {
             const toast = document.getElementById('toast');
             toast.textContent = `${char} copied`;
+            toast.classList.remove('visible');
+
+            // measure toast while invisible (opacity:0, not display:none)
+            const tw = toast.offsetWidth;
+            const th = toast.offsetHeight;
+            const rect = targetEl.getBoundingClientRect();
+            const margin = 10;
+            const gap = 6;
+
+            // center on emoji, clamped so toast never bleeds off screen
+            const cx = rect.left + rect.width / 2;
+            const left = Math.max(tw / 2 + margin, Math.min(window.innerWidth - tw / 2 - margin, cx));
+
+            // above emoji unless too close to top, then below
+            const top = rect.top - th - gap > margin ? rect.top - th - gap : rect.bottom + gap;
+
+            toast.style.left = `${left}px`;
+            toast.style.top = `${top}px`;
             toast.classList.add('visible');
+
             clearTimeout(toastTimer);
             toastTimer = setTimeout(() => toast.classList.remove('visible'), 1400);
         }
@@ -119,7 +138,7 @@
             navigator.clipboard.writeText(char);
             addRecent(char);
             renderRecents();
-            showToast(char);
+            showToast(char, item);
             item.classList.add("copied");
             setTimeout(() => item.classList.remove("copied"), 700);
         }
@@ -270,25 +289,20 @@
 
         #toast {
             position: fixed;
-            bottom: 2rem;
-            left: 50%;
-            transform: translateX(-50%) translateY(0.5rem);
+            transform: translateX(-50%);
             background: rgba(20, 20, 20, 0.82);
             color: #fff;
-            padding: 0.5rem 1.1rem;
+            padding: 0.4rem 0.9rem;
             border-radius: 2rem;
-            font-size: 0.9rem;
+            font-size: 0.85rem;
             pointer-events: none;
             opacity: 0;
-            transition: opacity 0.18s ease, transform 0.18s ease;
+            transition: opacity 0.15s ease;
             white-space: nowrap;
             z-index: 100;
             backdrop-filter: blur(6px);
         }
-        #toast.visible {
-            opacity: 1;
-            transform: translateX(-50%) translateY(0);
-        }
+        #toast.visible { opacity: 1; }
 
         @keyframes copy-flash {
             0%   { transform: scale(1);   filter: brightness(1); }
@@ -311,7 +325,7 @@
         <input
             id="search"
             type="text"
-            placeholder="Emoji suchen… lampe, herz, lachen, feuer"
+            placeholder="fire, Herz, rocket, müde, celebration…"
             autofocus
             autocomplete="off"
             autocorrect="off"
