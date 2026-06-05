@@ -14,13 +14,10 @@
     <script>
         /* EMOJI_DATA */
 
-        // normalize: strip diacritics and expand umlauts both ways so
-        // "mude"=="müde", "ae"=="ä", "ss"=="ß" etc.
+        // NFD decomposition strips combining diacritics: ü→u, ä→a, ö→o
+        // so "mude" and "müde" both normalize to "mude" and match
         function normalize(str) {
-            return str
-                .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue')
-                .replace(/Ä/g, 'ae').replace(/Ö/g, 'oe').replace(/Ü/g, 'ue')
-                .replace(/ß/g, 'ss');
+            return str.normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/ß/g, 'ss');
         }
 
         // pre-normalized keyword cache built once at startup
