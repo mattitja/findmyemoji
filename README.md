@@ -31,7 +31,7 @@ npm run generate   # index.html neu bauen
 
 | Feature | Beschreibung |
 |---|---|
-| Umlaut-Normalisierung | "mude" → "müde", "ae/oe/ue" → Umlaute |
+| ~~Umlaut-Normalisierung~~ | ✅ "mude" → "müde", "ae/oe/ue" → Umlaute, pre-normalisierter Cache |
 | Zuletzt benutzt | Letzte ~12 Emojis via localStorage, bei leerem Suchfeld sichtbar |
 | PWA | manifest.json + Service Worker → installierbar, offline |
 | Tippfehlertoleranz | Fuzzy Matching, damit 0-Treffer so gut wie nie vorkommt |

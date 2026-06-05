@@ -7,18 +7,32 @@
     <script>
         /* EMOJI_DATA */
 
+        // normalize: strip diacritics and expand umlauts both ways so
+        // "mude"=="müde", "ae"=="ä", "ss"=="ß" etc.
+        function normalize(str) {
+            return str
+                .replace(/ä/g, 'ae').replace(/ö/g, 'oe').replace(/ü/g, 'ue')
+                .replace(/Ä/g, 'ae').replace(/Ö/g, 'oe').replace(/Ü/g, 'ue')
+                .replace(/ß/g, 'ss');
+        }
+
+        // pre-normalized keyword cache built once at startup
+        const normalizedKeywords = emojis.map(e => e.keywords.map(normalize));
+
         function searchEmojis(query) {
             if (!query) return emojis;
-            const words = query.toLowerCase().trim().split(/\s+/);
+            const words = normalize(query.toLowerCase().trim()).split(/\s+/);
 
             const scored = [];
-            for (const emoji of emojis) {
+            for (let i = 0; i < emojis.length; i++) {
+                const emoji = emojis[i];
+                const nkws = normalizedKeywords[i];
                 let score = 0;
-                for (const kw of emoji.keywords) {
+                for (const nkw of nkws) {
                     for (const word of words) {
-                        if (kw === word)              score += 100;
-                        else if (kw.startsWith(word)) score += 50;
-                        else if (kw.includes(word))   score += 10;
+                        if (nkw === word)              score += 100;
+                        else if (nkw.startsWith(word)) score += 50;
+                        else if (nkw.includes(word))   score += 10;
                     }
                 }
                 if (score > 0) scored.push({ emoji, score });
