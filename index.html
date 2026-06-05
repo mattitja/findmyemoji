@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <title>findmyemoji – Emoji Suche</title>
+    <title>whatsmoji – find your emoji</title>
     <link rel="manifest" href="manifest.json"/>
     <meta name="theme-color" content="#faf9f6"/>
     <script>
@@ -61,10 +61,18 @@
 
         function renderRecents() {
             const recents = getRecents();
+            const wordmark = document.getElementById('wordmark');
             const wrap = document.getElementById('recents-wrap');
             const row = document.getElementById('recents');
-            if (!recents.length) { wrap.hidden = true; return; }
-            wrap.hidden = false;
+
+            if (!recents.length) {
+                wordmark.style.visibility = 'visible';
+                wrap.style.visibility = 'hidden';
+                return;
+            }
+
+            wordmark.style.visibility = 'hidden';
+            wrap.style.visibility = 'visible';
             row.innerHTML = '';
             const frag = document.createDocumentFragment();
             for (const char of recents) {
@@ -75,7 +83,7 @@
             }
             const btn = document.createElement('button');
             btn.id = 'recents-clear';
-            btn.textContent = 'clear personal history';
+            btn.textContent = 'clear history';
             frag.appendChild(btn);
             row.appendChild(frag);
         }
@@ -264,16 +272,45 @@
             background: rgba(0,0,0,0.06);
         }
 
-        #recents-wrap {
+        #top-slot {
+            position: relative;
             max-width: 52rem;
             margin: 0 auto;
             padding: 0.75rem 1rem 0.25rem;
         }
+
+        #wordmark {
+            height: 2.6rem;
+            display: flex;
+            align-items: center;
+            font-size: 1.05rem;
+            font-weight: 700;
+            letter-spacing: -0.02em;
+            color: #111;
+            user-select: none;
+        }
+        #wordmark-tld {
+            color: #bbb;
+            font-weight: 400;
+        }
+
+        #recents-wrap {
+            position: absolute;
+            top: 0.75rem;
+            left: 1rem;
+            right: 1rem;
+            bottom: 0.25rem;
+            display: flex;
+            align-items: center;
+            visibility: hidden;
+        }
         #recents {
             display: flex;
-            flex-wrap: wrap;
+            flex-wrap: nowrap;
             gap: 0.15rem;
             align-items: center;
+            overflow: hidden;
+            width: 100%;
         }
         #recents-clear {
             font-size: 0.72rem;
@@ -284,6 +321,7 @@
             padding: 0.3rem 0.5rem;
             line-height: 1;
             white-space: nowrap;
+            flex-shrink: 0;
         }
         #recents-clear:hover { color: #999; }
 
@@ -316,8 +354,11 @@
 
 <div id="toast" aria-live="polite"></div>
 
-<div id="recents-wrap" hidden>
-    <div id="recents"></div>
+<div id="top-slot">
+    <div id="wordmark">whatsmoji<span id="wordmark-tld">.com</span></div>
+    <div id="recents-wrap">
+        <div id="recents"></div>
+    </div>
 </div>
 
 <div id="search-header">

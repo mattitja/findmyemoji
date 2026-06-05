@@ -1,4 +1,4 @@
-# findmyemoji
+# whatsmoji.com
 
 Instant-Emoji-Suche für den deutsch/englischsprachigen Raum. Kein Login, keine Werbung, kein Framework. Eine HTML-Datei.
 
@@ -24,8 +24,9 @@ npm run generate   # index.html neu bauen
 
 - Instant-Suche mit Scoring-Ranking, kein Submit nötig
 - Bilinguale Keywords (DE + EN gleichwertig)
-- 1-Klick kopieren mit visuellem Feedback
+- 1-Klick kopieren mit visuellem Feedback + "copied" Toast
 - Sticky Header, kein Layout-Shift, kein Scrollbar-Jank
+- Wordmark "whatsmoji.com" über der Suchleiste — verschwindet wenn History vorhanden, gleiche Höhe → Suchleiste springt nie
 
 ## Roadmap (Priorität absteigend)
 
