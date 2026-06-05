@@ -73,6 +73,10 @@
                 span.className = 'emoji-item';
                 frag.appendChild(span);
             }
+            const btn = document.createElement('button');
+            btn.id = 'recents-clear';
+            btn.textContent = 'Historie löschen';
+            frag.appendChild(btn);
             row.appendChild(frag);
         }
 
@@ -119,13 +123,13 @@
             });
 
             document.getElementById("recents").addEventListener("click", e => {
+                if (e.target.id === 'recents-clear') {
+                    localStorage.removeItem(RECENTS_KEY);
+                    renderRecents();
+                    return;
+                }
                 const item = e.target.closest(".emoji-item");
                 if (item) handleCopy(item);
-            });
-
-            document.getElementById("recents-clear").addEventListener("click", () => {
-                localStorage.removeItem(RECENTS_KEY);
-                renderRecents();
             });
 
             renderRecents();
@@ -229,33 +233,30 @@
             margin: 0 auto;
             padding: 0.75rem 1rem 0.25rem;
         }
-        #recents-header {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            margin-bottom: 0.25rem;
-        }
         #recents-label {
             font-size: 0.7rem;
             color: #bbb;
             letter-spacing: 0.04em;
             text-transform: uppercase;
+            margin-bottom: 0.25rem;
         }
-        #recents-clear {
-            font-size: 0.7rem;
-            color: #ccc;
-            background: none;
-            border: none;
-            cursor: pointer;
-            padding: 0;
-            line-height: 1;
-        }
-        #recents-clear:hover { color: #999; }
         #recents {
             display: flex;
             flex-wrap: wrap;
             gap: 0.15rem;
+            align-items: center;
         }
+        #recents-clear {
+            font-size: 0.72rem;
+            color: #ccc;
+            background: none;
+            border: none;
+            cursor: pointer;
+            padding: 0.3rem 0.5rem;
+            line-height: 1;
+            white-space: nowrap;
+        }
+        #recents-clear:hover { color: #999; }
 
         @keyframes copy-flash {
             0%   { transform: scale(1);   filter: brightness(1); }
@@ -268,10 +269,7 @@
 <body>
 
 <div id="recents-wrap" hidden>
-    <div id="recents-header">
-        <span id="recents-label">Zuletzt benutzt</span>
-        <button id="recents-clear">löschen</button>
-    </div>
+    <p id="recents-label">Zuletzt benutzt</p>
     <div id="recents"></div>
 </div>
 
