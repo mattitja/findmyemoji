@@ -61,18 +61,12 @@
 
         function renderRecents() {
             const recents = getRecents();
-            const wordmark = document.getElementById('wordmark');
-            const wrap = document.getElementById('recents-wrap');
+            const slot = document.getElementById('top-slot');
             const row = document.getElementById('recents');
 
-            if (!recents.length) {
-                wordmark.style.visibility = 'visible';
-                wrap.style.visibility = 'hidden';
-                return;
-            }
+            slot.classList.toggle('has-history', recents.length > 0);
+            if (!recents.length) return;
 
-            wordmark.style.visibility = 'hidden';
-            wrap.style.visibility = 'visible';
             row.innerHTML = '';
             const frag = document.createDocumentFragment();
             for (const char of recents) {
@@ -83,7 +77,7 @@
             }
             const btn = document.createElement('button');
             btn.id = 'recents-clear';
-            btn.textContent = 'clear history';
+            btn.textContent = 'clear my history';
             frag.appendChild(btn);
             row.appendChild(frag);
         }
@@ -189,15 +183,17 @@
             font-family: system-ui, -apple-system, sans-serif;
         }
 
-        /* ── sticky search header ── */
-        #search-header {
+        /* ── sticky wrapper — logo + search bar scroll together ── */
+        #sticky-header {
             position: sticky;
             top: 0;
             z-index: 10;
-            background: var(--header-bg);
-            padding: 1.5rem 1rem 0.75rem;
-            /* promote to own compositor layer so scroll doesn't trigger repaints */
-            transform: translateZ(0);
+            background: var(--bg);
+            transform: translateZ(0); /* own compositor layer */
+        }
+
+        #search-header {
+            padding: 0.5rem 1rem 0.75rem;
         }
 
         #search-header .inner {
@@ -276,34 +272,48 @@
             position: relative;
             max-width: 52rem;
             margin: 0 auto;
+            height: 3.6rem; /* 0.75 + 2.6 + 0.25 — fixed so search bar never jumps */
+            overflow: hidden;
+        }
+
+        /* wordmark and recents share the same absolute footprint */
+        #wordmark,
+        #recents-wrap {
+            position: absolute;
+            inset: 0;
             padding: 0.75rem 1rem 0.25rem;
+            display: flex;
+            align-items: center;
         }
 
         #wordmark {
-            height: 2.6rem;
-            display: flex;
-            align-items: center;
             justify-content: center;
             font-size: 1.5rem;
             font-weight: 700;
             letter-spacing: -0.03em;
             color: #111;
             user-select: none;
+            transition: transform 0.5s cubic-bezier(0.34, 1.15, 0.64, 1), opacity 0.35s ease;
         }
         #wordmark-tld {
             color: #bbb;
             font-weight: 400;
         }
+        #top-slot.has-history #wordmark {
+            transform: translateX(72%);
+            opacity: 0.35;
+        }
 
         #recents-wrap {
-            position: absolute;
-            top: 0.75rem;
-            left: 1rem;
-            right: 1rem;
-            bottom: 0.25rem;
-            display: flex;
-            align-items: center;
-            visibility: hidden;
+            opacity: 0;
+            transform: translateX(-10px);
+            pointer-events: none;
+            transition: transform 0.5s cubic-bezier(0.34, 1.15, 0.64, 1), opacity 0.35s ease;
+        }
+        #top-slot.has-history #recents-wrap {
+            opacity: 1;
+            transform: translateX(0);
+            pointer-events: auto;
         }
         #recents {
             display: flex;
@@ -355,25 +365,26 @@
 
 <div id="toast" aria-live="polite"></div>
 
-<div id="top-slot">
-    <div id="wordmark">whatsmoji<span id="wordmark-tld">.com</span></div>
-    <div id="recents-wrap">
-        <div id="recents"></div>
+<div id="sticky-header">
+    <div id="top-slot">
+        <div id="wordmark">whatsmoji<span id="wordmark-tld">.com</span></div>
+        <div id="recents-wrap">
+            <div id="recents"></div>
+        </div>
     </div>
-</div>
-
-<div id="search-header">
-    <div class="inner">
-        <input
-            id="search"
-            type="text"
-            placeholder="Herz, fire, thumbs up, lachen, sad…"
-            autofocus
-            autocomplete="off"
-            autocorrect="off"
-            spellcheck="false"
-        />
-        <p id="count"></p>
+    <div id="search-header">
+        <div class="inner">
+            <input
+                id="search"
+                type="text"
+                placeholder="Herz, fire, thumbs up, lachen, sad…"
+                autofocus
+                autocomplete="off"
+                autocorrect="off"
+                spellcheck="false"
+            />
+            <p id="count"></p>
+        </div>
     </div>
 </div>
 
