@@ -1,0 +1,23 @@
+{
+  "name": "findmyemoji",
+  "version": "1.0.0",
+  "description": "The world's best emoji finder",
+  "scripts": {
+    "build": "node generate.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mattitja/findmyemoji.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/mattitja/findmyemoji/issues"
+  },
+  "homepage": "https://github.com/mattitja/findmyemoji#readme",
+  "devDependencies": {
+    "emojibase-data": "^17.0.0"
+  }
+}

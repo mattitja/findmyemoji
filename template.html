@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>findmyemoji – Emoji Suche</title>
+    <script>
+        /* EMOJI_DATA */
+
+        function searchEmojis(query) {
+            if (!query) return emojis;
+            const words = query.toLowerCase().trim().split(/\s+/);
+
+            const scored = [];
+            for (const emoji of emojis) {
+                let score = 0;
+                for (const kw of emoji.keywords) {
+                    for (const word of words) {
+                        if (kw === word)            score += 100;
+                        else if (kw.startsWith(word)) score += 50;
+                        else if (kw.includes(word))   score += 10;
+                    }
+                }
+                if (score > 0) scored.push({ emoji, score });
+            }
+
+            scored.sort((a, b) => b.score - a.score);
+            return scored.map(x => x.emoji);
+        }
+
+        function updateResults() {
+            const query = document.getElementById("search").value.trim();
+            const matches = searchEmojis(query);
+            const container = document.getElementById("results");
+            container.innerHTML = "";
+
+            const countEl = document.getElementById("count");
+            countEl.textContent = query
+                ? `${matches.length} Treffer für „${query}"`
+                : `${emojis.length} Emojis`;
+
+            const fragment = document.createDocumentFragment();
+            for (const e of matches) {
+                const span = document.createElement("span");
+                span.textContent = e.char;
+                span.title = e.label;
+                span.className = "emoji-item";
+                span.onclick = () => {
+                    navigator.clipboard.writeText(e.char);
+                    span.classList.add("copied");
+                    setTimeout(() => span.classList.remove("copied"), 600);
+                };
+                fragment.appendChild(span);
+            }
+            container.appendChild(fragment);
+        }
+
+        window.addEventListener("DOMContentLoaded", () => {
+            document.getElementById("search").addEventListener("input", updateResults);
+            updateResults();
+        });
+    </script>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <style>
+        .emoji-item {
+            font-size: 2rem;
+            cursor: pointer;
+            display: inline-block;
+            padding: 0.25rem;
+            border-radius: 0.5rem;
+            transition: transform 0.15s ease;
+            user-select: none;
+            line-height: 1;
+        }
+        .emoji-item:hover { transform: scale(1.3); }
+
+        @keyframes copy-flash {
+            0%   { transform: scale(1);   filter: brightness(1); }
+            40%  { transform: scale(1.6); filter: brightness(1.4) drop-shadow(0 0 6px #3b82f6); }
+            100% { transform: scale(1);   filter: brightness(1); }
+        }
+        .emoji-item.copied { animation: copy-flash 0.6s ease-out forwards; }
+    </style>
+</head>
+<body class="bg-white text-black p-4 min-h-screen">
+<main class="max-w-4xl mx-auto">
+    <input
+        id="search"
+        type="text"
+        placeholder="🔍 Emoji suchen… z.B. lampe, herz, lachen"
+        class="w-full p-3 text-lg border border-gray-200 rounded-xl shadow-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+        autofocus
+        autocomplete="off"
+        autocorrect="off"
+        spellcheck="false"
+    />
+    <p id="count" class="text-sm text-gray-400 mt-2 mb-4 text-right tabular-nums"></p>
+    <div id="results" class="flex flex-wrap gap-1"></div>
+</main>
+</body>
+</html>
