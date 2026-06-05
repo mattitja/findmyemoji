@@ -33,7 +33,7 @@ npm run generate   # index.html neu bauen
 |---|---|
 | ~~Umlaut-Normalisierung~~ | ✅ "mude" → "müde", "ae/oe/ue" → Umlaute, pre-normalisierter Cache |
 | ~~Zuletzt benutzt~~ | ✅ Letzte ~12 Emojis via localStorage, bei leerem Suchfeld sichtbar |
-| PWA | manifest.json + Service Worker → installierbar, offline |
+| ~~PWA~~ | ✅ manifest.json + Service Worker → installierbar, offline (icons noch ausstehend) |
 | Tippfehlertoleranz | Fuzzy Matching, damit 0-Treffer so gut wie nie vorkommt |
 | Keyboard-Navigation | Pfeiltasten + Enter + Escape |
 | 0-Treffer-Feedback | Vorschläge statt leere Seite |
