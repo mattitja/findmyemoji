@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "The world's best emoji finder",
   "scripts": {
-    "build": "node generate.mjs"
+    "build": "node generate.mjs",
+    "generate": "node generate.mjs"
   },
   "repository": {
     "type": "git",
