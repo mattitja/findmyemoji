@@ -75,7 +75,7 @@
             }
             const btn = document.createElement('button');
             btn.id = 'recents-clear';
-            btn.textContent = 'clear history';
+            btn.textContent = 'clear personal history';
             frag.appendChild(btn);
             row.appendChild(frag);
         }
@@ -238,6 +238,7 @@
         #results {
             display: flex;
             flex-wrap: wrap;
+            justify-content: center;
             gap: 0.15rem;
             contain: layout style; /* browser can skip off-screen subtree during scroll */
         }
