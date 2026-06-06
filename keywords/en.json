@@ -105,7 +105,10 @@
       "computer"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work",
+      "tech"
+    ]
   },
   "2600": {
     "char": "☀️",
@@ -117,7 +120,11 @@
       "weather"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "sun",
+      "yellow"
+    ]
   },
   "2601": {
     "char": "☁️",
@@ -125,7 +132,11 @@
       "weather"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "rain",
+      "clouds",
+      "white"
+    ]
   },
   "2602": {
     "char": "☂️",
@@ -134,7 +145,9 @@
       "rain"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "rain"
+    ]
   },
   "2603": {
     "char": "☃️",
@@ -144,7 +157,12 @@
       "snow"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "winter",
+      "snow",
+      "christmas",
+      "white"
+    ]
   },
   "2604": {
     "char": "☄️",
@@ -180,7 +198,9 @@
       "weather"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "rain"
+    ]
   },
   "2615": {
     "char": "☕️",
@@ -197,7 +217,11 @@
       "tea"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "morning",
+      "coffee",
+      "tea"
+    ]
   },
   "2618": {
     "char": "☘️",
@@ -206,7 +230,11 @@
       "plant"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "nature",
+      "garden"
+    ]
   },
   "2620": {
     "char": "☠️",
@@ -220,7 +248,10 @@
       "skull"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "halloween",
+      "body"
+    ]
   },
   "2622": {
     "char": "☢️",
@@ -228,7 +259,9 @@
       "sign"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tech"
+    ]
   },
   "2623": {
     "char": "☣️",
@@ -269,7 +302,9 @@
       "sad"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sad"
+    ]
   },
   "2640": {
     "char": "♀️",
@@ -334,7 +369,9 @@
       "zodiac"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "yellow"
+    ]
   },
   "2652": {
     "char": "♒️",
@@ -346,7 +383,10 @@
       "zodiac"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "blue"
+    ]
   },
   "2653": {
     "char": "♓️",
@@ -357,7 +397,10 @@
       "zodiac"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets"
+    ]
   },
   "2660": {
     "char": "♠️",
@@ -368,7 +411,9 @@
       "suit"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "2663": {
     "char": "♣️",
@@ -380,7 +425,9 @@
       "suit"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "2665": {
     "char": "♥️",
@@ -393,7 +440,12 @@
       "suit"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "sports",
+      "body"
+    ]
   },
   "2666": {
     "char": "♦️",
@@ -404,7 +456,9 @@
       "suit"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "2668": {
     "char": "♨️",
@@ -415,7 +469,10 @@
       "steaming"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "wedding"
+    ]
   },
   "2692": {
     "char": "⚒️",
@@ -490,7 +547,9 @@
       "tool"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "2702": {
     "char": "✂️",
@@ -542,7 +601,9 @@
       "letter"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work"
+    ]
   },
   "2712": {
     "char": "✒️",
@@ -552,7 +613,10 @@
       "pen"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school",
+      "black"
+    ]
   },
   "2714": {
     "char": "✔️",
@@ -592,7 +656,10 @@
       "star"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night",
+      "yellow"
+    ]
   },
   "2728": {
     "char": "✨️",
@@ -603,7 +670,10 @@
       "star"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night",
+      "yellow"
+    ]
   },
   "2733": {
     "char": "✳️",
@@ -623,7 +693,10 @@
       "star"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night",
+      "yellow"
+    ]
   },
   "2744": {
     "char": "❄️",
@@ -633,7 +706,13 @@
       "weather"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "winter",
+      "snow",
+      "christmas",
+      "blue",
+      "white"
+    ]
   },
   "2747": {
     "char": "❇️",
@@ -653,7 +732,9 @@
       "red"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "red"
+    ]
   },
   "2754": {
     "char": "❔️",
@@ -666,7 +747,9 @@
       "white"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "white"
+    ]
   },
   "2755": {
     "char": "❕️",
@@ -679,7 +762,9 @@
       "white"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "white"
+    ]
   },
   "2757": {
     "char": "❗️",
@@ -691,7 +776,9 @@
       "red"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "red"
+    ]
   },
   "2763": {
     "char": "❣️",
@@ -703,7 +790,11 @@
       "punctuation"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "2764": {
     "char": "❤️",
@@ -714,7 +805,12 @@
       "red"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body",
+      "red"
+    ]
   },
   "2795": {
     "char": "➕️",
@@ -932,7 +1028,9 @@
       "r"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "red"
+    ]
   },
   "1F004": {
     "char": "🀄️",
@@ -943,7 +1041,10 @@
       "red"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports",
+      "red"
+    ]
   },
   "1F0CF": {
     "char": "🃏",
@@ -953,7 +1054,9 @@
       "wildcard"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "1F170": {
     "char": "🅰️",
@@ -1147,7 +1250,9 @@
       "flag"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring"
+    ]
   },
   "1F1E6-1F1EE": {
     "char": "🇦🇮",
@@ -1282,7 +1387,9 @@
       "flag"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "happy"
+    ]
   },
   "1F1E7-1F1EA": {
     "char": "🇧🇪",
@@ -1318,7 +1425,9 @@
       "flag"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "rain"
+    ]
   },
   "1F1E7-1F1EE": {
     "char": "🇧🇮",
@@ -1426,7 +1535,9 @@
       "flag"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "birds"
+    ]
   },
   "1F1E7-1F1FE": {
     "char": "🇧🇾",
@@ -1615,7 +1726,9 @@
       "flag"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas"
+    ]
   },
   "1F1E8-1F1FE": {
     "char": "🇨🇾",
@@ -1912,7 +2025,9 @@
       "flag"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "green"
+    ]
   },
   "1F1EC-1F1F2": {
     "char": "🇬🇲",
@@ -2020,7 +2135,9 @@
       "flag"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F1ED-1F1F3": {
     "char": "🇭🇳",
@@ -2065,7 +2182,9 @@
       "flag"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "pets"
+    ]
   },
   "1F1EE-1F1E9": {
     "char": "🇮🇩",
@@ -2119,7 +2238,9 @@
       "flag"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "blue"
+    ]
   },
   "1F1EE-1F1F6": {
     "char": "🇮🇶",
@@ -2146,7 +2267,10 @@
       "flag"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "winter"
+    ]
   },
   "1F1EE-1F1F9": {
     "char": "🇮🇹",
@@ -2758,7 +2882,9 @@
       "flag"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "forest"
+    ]
   },
   "1F1F5-1F1F0": {
     "char": "🇵🇰",
@@ -2965,7 +3091,10 @@
       "flag"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love"
+    ]
   },
   "1F1F8-1F1EF": {
     "char": "🇸🇯",
@@ -3244,7 +3373,9 @@
       "flag"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "rain"
+    ]
   },
   "1F1FA-1F1EC": {
     "char": "🇺🇬",
@@ -3456,7 +3587,10 @@
       "service"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "winter"
+    ]
   },
   "1F21A": {
     "char": "🈚️",
@@ -3561,7 +3695,10 @@
       "japanese"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "pets",
+      "black"
+    ]
   },
   "1F239": {
     "char": "🈹",
@@ -3584,7 +3721,10 @@
       "open"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work",
+      "school"
+    ]
   },
   "1F250": {
     "char": "🉐",
@@ -3606,7 +3746,9 @@
       "japanese"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work"
+    ]
   },
   "1F300": {
     "char": "🌀",
@@ -3626,7 +3768,10 @@
       "fog"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "rain",
+      "clouds"
+    ]
   },
   "1F302": {
     "char": "🌂",
@@ -3637,7 +3782,9 @@
       "umbrella"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "rain"
+    ]
   },
   "1F303": {
     "char": "🌃",
@@ -3647,7 +3794,11 @@
       "stars"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night",
+      "yellow",
+      "black"
+    ]
   },
   "1F304": {
     "char": "🌄",
@@ -3659,7 +3810,13 @@
       "sunrise"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "sun",
+      "morning",
+      "nature",
+      "yellow"
+    ]
   },
   "1F305": {
     "char": "🌅",
@@ -3669,7 +3826,12 @@
       "sun"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "sun",
+      "morning",
+      "yellow"
+    ]
   },
   "1F306": {
     "char": "🌆",
@@ -3685,7 +3847,12 @@
       "sunset"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "sun",
+      "nature",
+      "yellow"
+    ]
   },
   "1F307": {
     "char": "🌇",
@@ -3695,7 +3862,11 @@
       "sun"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "sun",
+      "yellow"
+    ]
   },
   "1F308": {
     "char": "🌈",
@@ -3717,7 +3888,10 @@
       "weather"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "rain",
+      "christmas"
+    ]
   },
   "1F309": {
     "char": "🌉",
@@ -3727,7 +3901,10 @@
       "night"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night",
+      "black"
+    ]
   },
   "1F30A": {
     "char": "🌊",
@@ -3741,7 +3918,10 @@
       "wave"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "blue"
+    ]
   },
   "1F30B": {
     "char": "🌋",
@@ -3751,7 +3931,9 @@
       "nature"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "nature"
+    ]
   },
   "1F30C": {
     "char": "🌌",
@@ -3761,7 +3943,9 @@
       "way"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "white"
+    ]
   },
   "1F30D": {
     "char": "🌍️",
@@ -3775,7 +3959,9 @@
       "world"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "nature"
+    ]
   },
   "1F30E": {
     "char": "🌎️",
@@ -3787,7 +3973,9 @@
       "world"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "nature"
+    ]
   },
   "1F30F": {
     "char": "🌏️",
@@ -3801,7 +3989,9 @@
       "world"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "nature"
+    ]
   },
   "1F310": {
     "char": "🌐",
@@ -3815,7 +4005,9 @@
       "worldwide"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "nature"
+    ]
   },
   "1F311": {
     "char": "🌑",
@@ -3826,7 +4018,9 @@
       "space"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night"
+    ]
   },
   "1F312": {
     "char": "🌒",
@@ -3838,7 +4032,9 @@
       "waxing"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night"
+    ]
   },
   "1F313": {
     "char": "🌓",
@@ -3849,7 +4045,10 @@
       "space"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night",
+      "forest"
+    ]
   },
   "1F314": {
     "char": "🌔",
@@ -3860,7 +4059,9 @@
       "waxing"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night"
+    ]
   },
   "1F315": {
     "char": "🌕️",
@@ -3870,7 +4071,9 @@
       "space"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night"
+    ]
   },
   "1F316": {
     "char": "🌖",
@@ -3881,7 +4084,9 @@
       "waning"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night"
+    ]
   },
   "1F317": {
     "char": "🌗",
@@ -3892,7 +4097,9 @@
       "space"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night"
+    ]
   },
   "1F318": {
     "char": "🌘",
@@ -3903,7 +4110,9 @@
       "waning"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night"
+    ]
   },
   "1F319": {
     "char": "🌙",
@@ -3914,7 +4123,9 @@
       "space"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night"
+    ]
   },
   "1F31A": {
     "char": "🌚",
@@ -3925,7 +4136,9 @@
       "space"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night"
+    ]
   },
   "1F31B": {
     "char": "🌛",
@@ -3937,7 +4150,10 @@
       "space"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night",
+      "forest"
+    ]
   },
   "1F31C": {
     "char": "🌜️",
@@ -3949,7 +4165,9 @@
       "quarter"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night"
+    ]
   },
   "1F31D": {
     "char": "🌝",
@@ -3960,7 +4178,9 @@
       "moon"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night"
+    ]
   },
   "1F31E": {
     "char": "🌞",
@@ -3977,7 +4197,11 @@
       "weather"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "sun",
+      "yellow"
+    ]
   },
   "1F31F": {
     "char": "🌟",
@@ -3992,7 +4216,11 @@
       "win"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night",
+      "yellow",
+      "black"
+    ]
   },
   "1F320": {
     "char": "🌠",
@@ -4004,7 +4232,11 @@
       "star"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night",
+      "yellow",
+      "black"
+    ]
   },
   "1F321": {
     "char": "🌡️",
@@ -4023,7 +4255,14 @@
       "weather"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "rain",
+      "sun",
+      "clouds",
+      "yellow",
+      "white"
+    ]
   },
   "1F325": {
     "char": "🌥️",
@@ -4034,7 +4273,14 @@
       "weather"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "rain",
+      "sun",
+      "clouds",
+      "yellow",
+      "white"
+    ]
   },
   "1F326": {
     "char": "🌦️",
@@ -4046,7 +4292,14 @@
       "weather"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "rain",
+      "sun",
+      "clouds",
+      "yellow",
+      "white"
+    ]
   },
   "1F327": {
     "char": "🌧️",
@@ -4056,7 +4309,11 @@
       "weather"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "rain",
+      "clouds",
+      "white"
+    ]
   },
   "1F328": {
     "char": "🌨️",
@@ -4067,7 +4324,13 @@
       "weather"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "winter",
+      "rain",
+      "snow",
+      "clouds",
+      "white"
+    ]
   },
   "1F329": {
     "char": "🌩️",
@@ -4077,7 +4340,12 @@
       "weather"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "rain",
+      "clouds",
+      "storm",
+      "white"
+    ]
   },
   "1F32A": {
     "char": "🌪️",
@@ -4087,7 +4355,12 @@
       "whirlwind"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "rain",
+      "clouds",
+      "wind",
+      "white"
+    ]
   },
   "1F32B": {
     "char": "🌫️",
@@ -4096,7 +4369,11 @@
       "weather"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "rain",
+      "clouds",
+      "white"
+    ]
   },
   "1F32C": {
     "char": "🌬️",
@@ -4107,7 +4384,12 @@
       "wind"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "rain",
+      "clouds",
+      "wind",
+      "white"
+    ]
   },
   "1F32D": {
     "char": "🌭",
@@ -4119,7 +4401,9 @@
       "sausage"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "pets"
+    ]
   },
   "1F32E": {
     "char": "🌮",
@@ -4145,7 +4429,11 @@
       "plant"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "nature",
+      "garden"
+    ]
   },
   "1F331": {
     "char": "🌱",
@@ -4156,7 +4444,11 @@
       "young"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "nature",
+      "garden"
+    ]
   },
   "1F332": {
     "char": "🌲",
@@ -4168,7 +4460,13 @@
       "tree"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas",
+      "nature",
+      "garden",
+      "forest",
+      "green"
+    ]
   },
   "1F333": {
     "char": "🌳",
@@ -4181,7 +4479,13 @@
       "tree"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas",
+      "nature",
+      "garden",
+      "forest",
+      "green"
+    ]
   },
   "1F334": {
     "char": "🌴",
@@ -4193,7 +4497,15 @@
       "tropical"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "summer",
+      "christmas",
+      "nature",
+      "garden",
+      "forest",
+      "green"
+    ]
   },
   "1F335": {
     "char": "🌵",
@@ -4204,7 +4516,12 @@
       "plant"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "nature",
+      "garden",
+      "green"
+    ]
   },
   "1F336": {
     "char": "🌶️",
@@ -4213,7 +4530,9 @@
       "pepper"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "red"
+    ]
   },
   "1F337": {
     "char": "🌷",
@@ -4224,7 +4543,12 @@
       "plant"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "nature",
+      "garden",
+      "flowers"
+    ]
   },
   "1F338": {
     "char": "🌸",
@@ -4237,7 +4561,14 @@
       "springtime"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "nature",
+      "garden",
+      "flowers",
+      "red",
+      "pink"
+    ]
   },
   "1F339": {
     "char": "🌹",
@@ -4251,7 +4582,15 @@
       "valentine"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "valentines day",
+      "nature",
+      "garden",
+      "flowers",
+      "love",
+      "red"
+    ]
   },
   "1F33A": {
     "char": "🌺",
@@ -4260,7 +4599,12 @@
       "plant"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "nature",
+      "garden",
+      "flowers"
+    ]
   },
   "1F33B": {
     "char": "🌻",
@@ -4271,7 +4615,15 @@
       "sun"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "summer",
+      "sun",
+      "nature",
+      "garden",
+      "flowers",
+      "yellow"
+    ]
   },
   "1F33C": {
     "char": "🌼",
@@ -4282,7 +4634,12 @@
       "plant"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "nature",
+      "garden",
+      "flowers"
+    ]
   },
   "1F33D": {
     "char": "🌽",
@@ -4295,7 +4652,10 @@
       "maze"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body",
+      "yellow"
+    ]
   },
   "1F33E": {
     "char": "🌾",
@@ -4308,7 +4668,14 @@
       "sheaf"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "summer",
+      "winter",
+      "nature",
+      "garden",
+      "body"
+    ]
   },
   "1F33F": {
     "char": "🌿",
@@ -4317,7 +4684,14 @@
       "plant"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "autumn",
+      "nature",
+      "garden",
+      "forest",
+      "green"
+    ]
   },
   "1F340": {
     "char": "🍀",
@@ -4332,7 +4706,16 @@
       "plant"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "autumn",
+      "valentines day",
+      "nature",
+      "garden",
+      "forest",
+      "love",
+      "green"
+    ]
   },
   "1F341": {
     "char": "🍁",
@@ -4342,7 +4725,11 @@
       "maple"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "autumn",
+      "forest",
+      "green"
+    ]
   },
   "1F342": {
     "char": "🍂",
@@ -4354,7 +4741,11 @@
       "leaf"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "autumn",
+      "forest",
+      "green"
+    ]
   },
   "1F343": {
     "char": "🍃",
@@ -4366,7 +4757,13 @@
       "wind"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "autumn",
+      "wind",
+      "wedding",
+      "forest",
+      "green"
+    ]
   },
   "1F344": {
     "char": "🍄",
@@ -4398,7 +4795,9 @@
       "veggie"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food"
+    ]
   },
   "1F345": {
     "char": "🍅",
@@ -4408,7 +4807,10 @@
       "vegetable"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food",
+      "red"
+    ]
   },
   "1F346": {
     "char": "🍆",
@@ -4417,7 +4819,13 @@
       "vegetable"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "easter",
+      "nature",
+      "garden",
+      "white"
+    ]
   },
   "1F347": {
     "char": "🍇",
@@ -4444,7 +4852,11 @@
       "fruit"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "red",
+      "blue"
+    ]
   },
   "1F34A": {
     "char": "🍊",
@@ -4467,7 +4879,9 @@
       "sour"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "yellow"
+    ]
   },
   "1F34B-200D-1F7E9": {
     "char": "🍋‍🟩",
@@ -4489,7 +4903,9 @@
       "zest"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "green"
+    ]
   },
   "1F34C": {
     "char": "🍌",
@@ -4498,7 +4914,9 @@
       "potassium"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "yellow"
+    ]
   },
   "1F34D": {
     "char": "🍍",
@@ -4509,7 +4927,10 @@
       "tropical"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "forest",
+      "red"
+    ]
   },
   "1F34E": {
     "char": "🍎",
@@ -4523,7 +4944,10 @@
       "ripe"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food",
+      "red"
+    ]
   },
   "1F34F": {
     "char": "🍏",
@@ -4533,7 +4957,10 @@
       "green"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "red",
+      "green"
+    ]
   },
   "1F350": {
     "char": "🍐",
@@ -4541,7 +4968,9 @@
       "fruit"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F351": {
     "char": "🍑",
@@ -4549,7 +4978,9 @@
       "fruit"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "pink"
+    ]
   },
   "1F352": {
     "char": "🍒",
@@ -4560,7 +4991,10 @@
       "red"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "red"
+    ]
   },
   "1F353": {
     "char": "🍓",
@@ -4569,7 +5003,10 @@
       "fruit"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "red",
+      "pink"
+    ]
   },
   "1F354": {
     "char": "🍔",
@@ -4581,7 +5018,9 @@
       "hungry"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food"
+    ]
   },
   "1F355": {
     "char": "🍕",
@@ -4593,7 +5032,10 @@
       "slice"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food",
+      "white"
+    ]
   },
   "1F356": {
     "char": "🍖",
@@ -4602,7 +5044,9 @@
       "meat"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F357": {
     "char": "🍗",
@@ -4616,7 +5060,10 @@
       "turkey"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "birds",
+      "body"
+    ]
   },
   "1F358": {
     "char": "🍘",
@@ -4626,7 +5073,11 @@
       "rice"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "winter",
+      "food"
+    ]
   },
   "1F359": {
     "char": "🍙",
@@ -4637,7 +5088,11 @@
       "rice"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "winter",
+      "food"
+    ]
   },
   "1F35A": {
     "char": "🍚",
@@ -4647,7 +5102,11 @@
       "rice"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "winter",
+      "food"
+    ]
   },
   "1F35B": {
     "char": "🍛",
@@ -4657,7 +5116,11 @@
       "rice"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "winter",
+      "food"
+    ]
   },
   "1F35C": {
     "char": "🍜",
@@ -4672,7 +5135,12 @@
       "steaming"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas",
+      "birds",
+      "food",
+      "tea"
+    ]
   },
   "1F35D": {
     "char": "🍝",
@@ -4683,7 +5151,9 @@
       "restaurant"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food"
+    ]
   },
   "1F35E": {
     "char": "🍞",
@@ -4697,7 +5167,10 @@
       "wheat"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food",
+      "reading"
+    ]
   },
   "1F35F": {
     "char": "🍟",
@@ -4708,7 +5181,9 @@
       "fries"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food"
+    ]
   },
   "1F360": {
     "char": "🍠",
@@ -4719,7 +5194,10 @@
       "sweet"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food",
+      "sweets"
+    ]
   },
   "1F361": {
     "char": "🍡",
@@ -4731,7 +5209,9 @@
       "sweet"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sweets"
+    ]
   },
   "1F362": {
     "char": "🍢",
@@ -4744,7 +5224,9 @@
       "stick"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food"
+    ]
   },
   "1F363": {
     "char": "🍣",
@@ -4752,7 +5234,9 @@
       "food"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food"
+    ]
   },
   "1F364": {
     "char": "🍤",
@@ -4763,7 +5247,9 @@
       "tempura"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "halloween"
+    ]
   },
   "1F365": {
     "char": "🍥",
@@ -4776,7 +5262,12 @@
       "swirl"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "birthday",
+      "animals",
+      "pets",
+      "food"
+    ]
   },
   "1F366": {
     "char": "🍦",
@@ -4792,7 +5283,12 @@
       "sweet"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "winter",
+      "food",
+      "sweets"
+    ]
   },
   "1F367": {
     "char": "🍧",
@@ -4804,7 +5300,11 @@
       "sweet"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "winter",
+      "sweets"
+    ]
   },
   "1F368": {
     "char": "🍨",
@@ -4817,7 +5317,12 @@
       "sweet"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "winter",
+      "food",
+      "sweets"
+    ]
   },
   "1F369": {
     "char": "🍩",
@@ -4829,7 +5334,11 @@
       "sweet"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "morning",
+      "food",
+      "sweets"
+    ]
   },
   "1F36A": {
     "char": "🍪",
@@ -4840,7 +5349,10 @@
       "sweet"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas",
+      "sweets"
+    ]
   },
   "1F36B": {
     "char": "🍫",
@@ -4854,7 +5366,12 @@
       "tooth"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas",
+      "halloween",
+      "sweets",
+      "body"
+    ]
   },
   "1F36C": {
     "char": "🍬",
@@ -4868,7 +5385,12 @@
       "wrapper"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas",
+      "halloween",
+      "sweets",
+      "body"
+    ]
   },
   "1F36D": {
     "char": "🍭",
@@ -4880,7 +5402,11 @@
       "sweet"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas",
+      "food",
+      "sweets"
+    ]
   },
   "1F36E": {
     "char": "🍮",
@@ -4890,7 +5416,11 @@
       "sweet"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night",
+      "sweets",
+      "yellow"
+    ]
   },
   "1F36F": {
     "char": "🍯",
@@ -4905,7 +5435,11 @@
       "sweet"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wildlife",
+      "food",
+      "sweets"
+    ]
   },
   "1F370": {
     "char": "🍰",
@@ -4917,7 +5451,10 @@
       "sweet"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "birthday",
+      "sweets"
+    ]
   },
   "1F371": {
     "char": "🍱",
@@ -4927,7 +5464,9 @@
       "food"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food"
+    ]
   },
   "1F372": {
     "char": "🍲",
@@ -4938,7 +5477,9 @@
       "stew"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food"
+    ]
   },
   "1F373": {
     "char": "🍳",
@@ -4956,7 +5497,14 @@
       "up"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "summer",
+      "sun",
+      "morning",
+      "easter",
+      "white"
+    ]
   },
   "1F374": {
     "char": "🍴",
@@ -4979,7 +5527,10 @@
       "yummy"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "morning",
+      "food"
+    ]
   },
   "1F375": {
     "char": "🍵",
@@ -4993,7 +5544,10 @@
       "teacup"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tea",
+      "body"
+    ]
   },
   "1F376": {
     "char": "🍶",
@@ -5006,7 +5560,9 @@
       "restaurant"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tea"
+    ]
   },
   "1F377": {
     "char": "🍷",
@@ -5064,7 +5620,9 @@
       "tropics"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "birthday"
+    ]
   },
   "1F37A": {
     "char": "🍺",
@@ -5085,7 +5643,11 @@
       "summer"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "summer",
+      "insects"
+    ]
   },
   "1F37B": {
     "char": "🍻",
@@ -5103,7 +5665,10 @@
       "mugs"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "insects"
+    ]
   },
   "1F37C": {
     "char": "🍼",
@@ -5119,7 +5684,9 @@
       "newborn"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "white"
+    ]
   },
   "1F37D": {
     "char": "🍽️",
@@ -5154,7 +5721,9 @@
       "pop"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "yellow"
+    ]
   },
   "1F380": {
     "char": "🎀",
@@ -5162,7 +5731,9 @@
       "celebration"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas"
+    ]
   },
   "1F381": {
     "char": "🎁",
@@ -5178,7 +5749,11 @@
       "wrapped"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas",
+      "valentines day",
+      "birthday"
+    ]
   },
   "1F382": {
     "char": "🎂",
@@ -5193,7 +5768,11 @@
       "sweet"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "birthday",
+      "sweets",
+      "happy"
+    ]
   },
   "1F383": {
     "char": "🎃",
@@ -5205,7 +5784,9 @@
       "pumpkin"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "halloween"
+    ]
   },
   "1F384": {
     "char": "🎄",
@@ -5215,7 +5796,13 @@
       "tree"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas",
+      "nature",
+      "garden",
+      "forest",
+      "green"
+    ]
   },
   "1F385": {
     "char": "🎅",
@@ -5233,7 +5820,10 @@
       "xmas"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas",
+      "reading"
+    ]
   },
   "1F386": {
     "char": "🎆",
@@ -5244,7 +5834,11 @@
       "yolo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year",
+      "forest",
+      "work"
+    ]
   },
   "1F387": {
     "char": "🎇",
@@ -5265,7 +5859,9 @@
       "celebration"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "birthday"
+    ]
   },
   "1F389": {
     "char": "🎉",
@@ -5282,7 +5878,9 @@
       "woohoo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "birthday"
+    ]
   },
   "1F38A": {
     "char": "🎊",
@@ -5295,7 +5893,9 @@
       "woohoo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "birthday"
+    ]
   },
   "1F38B": {
     "char": "🎋",
@@ -5307,7 +5907,13 @@
       "tree"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas",
+      "nature",
+      "garden",
+      "forest",
+      "green"
+    ]
   },
   "1F38C": {
     "char": "🎌",
@@ -5332,7 +5938,12 @@
       "plant"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "nature",
+      "garden",
+      "forest"
+    ]
   },
   "1F38E": {
     "char": "🎎",
@@ -5365,7 +5976,10 @@
       "wind"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wind",
+      "christmas"
+    ]
   },
   "1F391": {
     "char": "🎑",
@@ -5376,7 +5990,9 @@
       "viewing"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night"
+    ]
   },
   "1F392": {
     "char": "🎒",
@@ -5390,7 +6006,9 @@
       "school"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school"
+    ]
   },
   "1F393": {
     "char": "🎓️",
@@ -5425,7 +6043,9 @@
       "ribbon"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas"
+    ]
   },
   "1F399": {
     "char": "🎙️",
@@ -5436,7 +6056,10 @@
       "studio"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "music",
+      "tech"
+    ]
   },
   "1F39A": {
     "char": "🎚️",
@@ -5446,7 +6069,9 @@
       "slider"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "music"
+    ]
   },
   "1F39B": {
     "char": "🎛️",
@@ -5456,7 +6081,9 @@
       "music"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "music"
+    ]
   },
   "1F39E": {
     "char": "🎞️",
@@ -5523,7 +6150,11 @@
       "sport"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "sports"
+    ]
   },
   "1F3A4": {
     "char": "🎤",
@@ -5535,7 +6166,10 @@
       "sound"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "music",
+      "tech"
+    ]
   },
   "1F3A5": {
     "char": "🎥",
@@ -5549,7 +6183,9 @@
       "record"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tech"
+    ]
   },
   "1F3A6": {
     "char": "🎦",
@@ -5559,7 +6195,9 @@
       "movie"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tech"
+    ]
   },
   "1F3A7": {
     "char": "🎧️",
@@ -5568,7 +6206,10 @@
       "sound"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tech",
+      "body"
+    ]
   },
   "1F3A8": {
     "char": "🎨",
@@ -5658,7 +6299,9 @@
       "video"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "1F3AF": {
     "char": "🎯",
@@ -5672,7 +6315,10 @@
       "target"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports",
+      "body"
+    ]
   },
   "1F3B0": {
     "char": "🎰",
@@ -5686,7 +6332,9 @@
       "slots"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "1F3B1": {
     "char": "🎱",
@@ -5700,7 +6348,9 @@
       "pool"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "1F3B2": {
     "char": "🎲",
@@ -5711,7 +6361,9 @@
       "game"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "1F3B3": {
     "char": "🎳",
@@ -5722,7 +6374,11 @@
       "strike"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas",
+      "birds",
+      "sports"
+    ]
   },
   "1F3B4": {
     "char": "🎴",
@@ -5735,7 +6391,12 @@
       "playing"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "garden",
+      "flowers",
+      "sports"
+    ]
   },
   "1F3B5": {
     "char": "🎵",
@@ -5746,7 +6407,9 @@
       "sound"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "music"
+    ]
   },
   "1F3B6": {
     "char": "🎶",
@@ -5758,7 +6421,9 @@
       "sound"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "music"
+    ]
   },
   "1F3B7": {
     "char": "🎷",
@@ -5768,7 +6433,10 @@
       "sax"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "music",
+      "tech"
+    ]
   },
   "1F3B8": {
     "char": "🎸",
@@ -5778,7 +6446,9 @@
       "strat"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "music"
+    ]
   },
   "1F3B9": {
     "char": "🎹",
@@ -5790,7 +6460,10 @@
       "piano"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "music",
+      "tech"
+    ]
   },
   "1F3BA": {
     "char": "🎺",
@@ -5799,7 +6472,9 @@
       "music"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "music"
+    ]
   },
   "1F3BB": {
     "char": "🎻",
@@ -5808,7 +6483,9 @@
       "music"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "music"
+    ]
   },
   "1F3BC": {
     "char": "🎼",
@@ -5819,7 +6496,9 @@
       "score"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "music"
+    ]
   },
   "1F3BD": {
     "char": "🎽",
@@ -5840,7 +6519,9 @@
       "sport"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "1F3BF": {
     "char": "🎿",
@@ -5850,7 +6531,12 @@
       "sport"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "winter",
+      "snow",
+      "sports",
+      "white"
+    ]
   },
   "1F3C0": {
     "char": "🏀",
@@ -5860,7 +6546,9 @@
       "sport"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "1F3C1": {
     "char": "🏁",
@@ -5877,7 +6565,10 @@
       "win"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports",
+      "red"
+    ]
   },
   "1F3C2": {
     "char": "🏂️",
@@ -5888,7 +6579,12 @@
       "sport"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "winter",
+      "snow",
+      "sports",
+      "white"
+    ]
   },
   "1F3C3": {
     "char": "🏃",
@@ -6018,7 +6714,11 @@
       "waves"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "sports",
+      "blue"
+    ]
   },
   "1F3C4-200D-2640-FE0F": {
     "char": "🏄‍♀️",
@@ -6034,7 +6734,11 @@
       "waves"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "sports",
+      "blue"
+    ]
   },
   "1F3C4-200D-2642-FE0F": {
     "char": "🏄‍♂️",
@@ -6050,7 +6754,11 @@
       "waves"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "sports",
+      "blue"
+    ]
   },
   "1F3C5": {
     "char": "🏅",
@@ -6062,7 +6770,10 @@
       "winner"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports",
+      "yellow"
+    ]
   },
   "1F3C6": {
     "char": "🏆️",
@@ -6077,7 +6788,10 @@
       "winning"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports",
+      "slay"
+    ]
   },
   "1F3C7": {
     "char": "🏇",
@@ -6090,7 +6804,9 @@
       "sport"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "1F3C8": {
     "char": "🏈",
@@ -6103,7 +6819,10 @@
       "super"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports",
+      "body"
+    ]
   },
   "1F3C9": {
     "char": "🏉",
@@ -6114,7 +6833,10 @@
       "sport"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports",
+      "body"
+    ]
   },
   "1F3CA": {
     "char": "🏊️",
@@ -6128,7 +6850,10 @@
       "triathlon"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "sports"
+    ]
   },
   "1F3CA-200D-2640-FE0F": {
     "char": "🏊‍♀️",
@@ -6142,7 +6867,10 @@
       "triathlon"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "sports"
+    ]
   },
   "1F3CA-200D-2642-FE0F": {
     "char": "🏊‍♂️",
@@ -6156,7 +6884,10 @@
       "triathlon"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "sports"
+    ]
   },
   "1F3CB": {
     "char": "🏋️",
@@ -6229,7 +6960,9 @@
       "tee"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "green"
+    ]
   },
   "1F3CC-FE0F-200D-2640-FE0F": {
     "char": "🏌️‍♀️",
@@ -6248,7 +6981,9 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "green"
+    ]
   },
   "1F3CC-FE0F-200D-2642-FE0F": {
     "char": "🏌️‍♂️",
@@ -6267,7 +7002,9 @@
       "tee"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "green"
+    ]
   },
   "1F3CD": {
     "char": "🏍️",
@@ -6296,7 +7033,10 @@
       "game"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "insects",
+      "sports"
+    ]
   },
   "1F3D0": {
     "char": "🏐",
@@ -6305,7 +7045,9 @@
       "game"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "1F3D1": {
     "char": "🏑",
@@ -6317,7 +7059,10 @@
       "stick"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "nature",
+      "sports"
+    ]
   },
   "1F3D2": {
     "char": "🏒",
@@ -6329,7 +7074,11 @@
       "stick"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "winter",
+      "sports"
+    ]
   },
   "1F3D3": {
     "char": "🏓",
@@ -6345,7 +7094,10 @@
       "tennis"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work",
+      "sports"
+    ]
   },
   "1F3D4": {
     "char": "🏔️",
@@ -6356,7 +7108,12 @@
       "snow-capped"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "winter",
+      "snow",
+      "nature",
+      "white"
+    ]
   },
   "1F3D5": {
     "char": "🏕️",
@@ -6373,7 +7130,9 @@
       "umbrella"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer"
+    ]
   },
   "1F3D7": {
     "char": "🏗️",
@@ -6418,7 +7177,9 @@
       "classical"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school"
+    ]
   },
   "1F3DC": {
     "char": "🏜️",
@@ -6469,7 +7230,11 @@
       "where"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "1F3E1": {
     "char": "🏡",
@@ -6488,7 +7253,12 @@
       "where"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "garden",
+      "love",
+      "body"
+    ]
   },
   "1F3E2": {
     "char": "🏢",
@@ -6500,7 +7270,11 @@
       "office"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "winter",
+      "work"
+    ]
   },
   "1F3E3": {
     "char": "🏣",
@@ -6511,7 +7285,11 @@
       "post"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "winter",
+      "work"
+    ]
   },
   "1F3E4": {
     "char": "🏤",
@@ -6522,7 +7300,11 @@
       "post"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "winter",
+      "work"
+    ]
   },
   "1F3E5": {
     "char": "🏥",
@@ -6572,7 +7354,10 @@
       "love"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love"
+    ]
   },
   "1F3EA": {
     "char": "🏪",
@@ -6592,7 +7377,9 @@
       "building"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school"
+    ]
   },
   "1F3EC": {
     "char": "🏬",
@@ -6623,7 +7410,9 @@
       "restaurant"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "red"
+    ]
   },
   "1F3EF": {
     "char": "🏯",
@@ -6652,7 +7441,9 @@
       "white"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "white"
+    ]
   },
   "1F3F3-FE0F-200D-1F308": {
     "char": "🏳️‍🌈",
@@ -6674,7 +7465,10 @@
       "transgender"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "rain",
+      "christmas"
+    ]
   },
   "1F3F3-FE0F-200D-26A7-FE0F": {
     "char": "🏳️‍⚧️",
@@ -6687,7 +7481,11 @@
       "white"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "blue",
+      "pink",
+      "white"
+    ]
   },
   "1F3F4": {
     "char": "🏴",
@@ -6697,7 +7495,9 @@
       "waving"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "black"
+    ]
   },
   "1F3F4-200D-2620-FE0F": {
     "char": "🏴‍☠️",
@@ -6745,7 +7545,14 @@
       "plant"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "valentines day",
+      "nature",
+      "garden",
+      "flowers",
+      "red"
+    ]
   },
   "1F3F7": {
     "char": "🏷️",
@@ -6764,7 +7571,9 @@
       "shuttlecock"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "1F3F9": {
     "char": "🏹",
@@ -6779,7 +7588,9 @@
       "zodiac"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas"
+    ]
   },
   "1F3FA": {
     "char": "🏺",
@@ -6841,7 +7652,9 @@
       "type"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night"
+    ]
   },
   "1F3FF": {
     "char": "🏿",
@@ -6853,7 +7666,9 @@
       "type"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night"
+    ]
   },
   "1F400": {
     "char": "🐀",
@@ -6861,7 +7676,9 @@
       "animal"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F401": {
     "char": "🐁",
@@ -6870,7 +7687,10 @@
       "animals"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "tech"
+    ]
   },
   "1F402": {
     "char": "🐂",
@@ -6883,7 +7703,9 @@
       "zodiac"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F403": {
     "char": "🐃",
@@ -6894,7 +7716,11 @@
       "zoo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "animals",
+      "blue"
+    ]
   },
   "1F404": {
     "char": "🐄",
@@ -6906,7 +7732,10 @@
       "moo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "white"
+    ]
   },
   "1F405": {
     "char": "🐅",
@@ -6918,7 +7747,12 @@
       "zoo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "wildlife",
+      "black"
+    ]
   },
   "1F406": {
     "char": "🐆",
@@ -6930,7 +7764,12 @@
       "zoo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "wildlife",
+      "black"
+    ]
   },
   "1F407": {
     "char": "🐇",
@@ -6940,7 +7779,11 @@
       "pet"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "easter",
+      "animals",
+      "pets"
+    ]
   },
   "1F408": {
     "char": "🐈️",
@@ -6952,7 +7795,11 @@
       "pet"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "black"
+    ]
   },
   "1F408-200D-2B1B": {
     "char": "🐈‍⬛",
@@ -6966,7 +7813,12 @@
       "unlucky"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "halloween",
+      "animals",
+      "pets",
+      "black"
+    ]
   },
   "1F409": {
     "char": "🐉",
@@ -6978,7 +7830,10 @@
       "tale"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "reading"
+    ]
   },
   "1F40A": {
     "char": "🐊",
@@ -6987,7 +7842,9 @@
       "zoo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F40B": {
     "char": "🐋",
@@ -6997,7 +7854,11 @@
       "ocean"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "animals",
+      "blue"
+    ]
   },
   "1F40C": {
     "char": "🐌",
@@ -7009,7 +7870,11 @@
       "slug"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "insects",
+      "garden"
+    ]
   },
   "1F40D": {
     "char": "🐍",
@@ -7021,7 +7886,9 @@
       "zodiac"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F40E": {
     "char": "🐎",
@@ -7033,7 +7900,9 @@
       "racing"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F40F": {
     "char": "🐏",
@@ -7047,7 +7916,9 @@
       "zoo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F410": {
     "char": "🐐",
@@ -7059,7 +7930,10 @@
       "zodiac"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "white"
+    ]
   },
   "1F411": {
     "char": "🐑",
@@ -7074,7 +7948,9 @@
       "wool"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F412": {
     "char": "🐒",
@@ -7083,7 +7959,10 @@
       "banana"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "yellow"
+    ]
   },
   "1F413": {
     "char": "🐓",
@@ -7093,7 +7972,11 @@
       "ornithology"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "birds"
+    ]
   },
   "1F414": {
     "char": "🐔",
@@ -7103,7 +7986,12 @@
       "ornithology"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "easter",
+      "animals",
+      "pets",
+      "birds"
+    ]
   },
   "1F415": {
     "char": "🐕️",
@@ -7114,7 +8002,10 @@
       "pet"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets"
+    ]
   },
   "1F415-200D-1F9BA": {
     "char": "🐕‍🦺",
@@ -7126,7 +8017,12 @@
       "service"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "winter",
+      "animals",
+      "pets"
+    ]
   },
   "1F416": {
     "char": "🐖",
@@ -7138,7 +8034,10 @@
       "sow"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pink"
+    ]
   },
   "1F417": {
     "char": "🐗",
@@ -7147,7 +8046,10 @@
       "pig"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pink"
+    ]
   },
   "1F418": {
     "char": "🐘",
@@ -7155,7 +8057,9 @@
       "animal"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F419": {
     "char": "🐙",
@@ -7165,7 +8069,10 @@
       "ocean"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "blue"
+    ]
   },
   "1F41A": {
     "char": "🐚",
@@ -7178,7 +8085,11 @@
       "spiral"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "animals",
+      "blue"
+    ]
   },
   "1F41B": {
     "char": "🐛",
@@ -7188,7 +8099,10 @@
       "insect"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "garden"
+    ]
   },
   "1F41C": {
     "char": "🐜",
@@ -7198,7 +8112,10 @@
       "insect"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "garden"
+    ]
   },
   "1F41D": {
     "char": "🐝",
@@ -7212,7 +8129,11 @@
       "spring"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "animals",
+      "insects"
+    ]
   },
   "1F41E": {
     "char": "🐞",
@@ -7227,7 +8148,12 @@
       "nature"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "animals",
+      "insects",
+      "garden"
+    ]
   },
   "1F41F": {
     "char": "🐟️",
@@ -7240,7 +8166,10 @@
       "zodiac"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets"
+    ]
   },
   "1F420": {
     "char": "🐠",
@@ -7251,7 +8180,10 @@
       "tropical"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets"
+    ]
   },
   "1F421": {
     "char": "🐡",
@@ -7260,7 +8192,10 @@
       "fish"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets"
+    ]
   },
   "1F422": {
     "char": "🐢",
@@ -7270,7 +8205,9 @@
       "tortoise"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F423": {
     "char": "🐣",
@@ -7283,7 +8220,14 @@
       "hatching"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "easter",
+      "animals",
+      "pets",
+      "birds",
+      "white"
+    ]
   },
   "1F424": {
     "char": "🐤",
@@ -7295,7 +8239,12 @@
       "ornithology"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "easter",
+      "animals",
+      "pets",
+      "birds"
+    ]
   },
   "1F425": {
     "char": "🐥",
@@ -7309,7 +8258,12 @@
       "ornithology"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "easter",
+      "animals",
+      "pets",
+      "birds"
+    ]
   },
   "1F426": {
     "char": "🐦️",
@@ -7318,7 +8272,11 @@
       "ornithology"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "birds"
+    ]
   },
   "1F426-200D-1F525": {
     "char": "🐦‍🔥",
@@ -7357,7 +8315,12 @@
       "rook"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "birds",
+      "black"
+    ]
   },
   "1F427": {
     "char": "🐧",
@@ -7368,7 +8331,12 @@
       "ornithology"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "birds",
+      "school"
+    ]
   },
   "1F428": {
     "char": "🐨",
@@ -7382,7 +8350,10 @@
       "under"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "wildlife"
+    ]
   },
   "1F429": {
     "char": "🐩",
@@ -7392,7 +8363,10 @@
       "fluffy"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets"
+    ]
   },
   "1F42A": {
     "char": "🐪",
@@ -7404,7 +8378,9 @@
       "one"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F42B": {
     "char": "🐫",
@@ -7418,7 +8394,9 @@
       "two-hump"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F42C": {
     "char": "🐬",
@@ -7429,7 +8407,11 @@
       "ocean"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "animals",
+      "blue"
+    ]
   },
   "1F42D": {
     "char": "🐭",
@@ -7439,7 +8421,10 @@
       "mouse"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "tech"
+    ]
   },
   "1F42E": {
     "char": "🐮",
@@ -7452,7 +8437,10 @@
       "moo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "white"
+    ]
   },
   "1F42F": {
     "char": "🐯",
@@ -7465,7 +8453,12 @@
       "tiger"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "wildlife",
+      "black"
+    ]
   },
   "1F430": {
     "char": "🐰",
@@ -7477,7 +8470,11 @@
       "rabbit"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "easter",
+      "animals",
+      "pets"
+    ]
   },
   "1F431": {
     "char": "🐱",
@@ -7490,7 +8487,11 @@
       "pet"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "black"
+    ]
   },
   "1F432": {
     "char": "🐲",
@@ -7503,7 +8504,10 @@
       "tale"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "reading"
+    ]
   },
   "1F433": {
     "char": "🐳",
@@ -7516,7 +8520,11 @@
       "whale"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "animals",
+      "blue"
+    ]
   },
   "1F434": {
     "char": "🐴",
@@ -7530,7 +8538,9 @@
       "horses"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F435": {
     "char": "🐵",
@@ -7541,7 +8551,10 @@
       "monkey"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "yellow"
+    ]
   },
   "1F436": {
     "char": "🐶",
@@ -7555,7 +8568,10 @@
       "puppy"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets"
+    ]
   },
   "1F437": {
     "char": "🐷",
@@ -7568,7 +8584,10 @@
       "pork"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pink"
+    ]
   },
   "1F438": {
     "char": "🐸",
@@ -7577,7 +8596,9 @@
       "face"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F439": {
     "char": "🐹",
@@ -7587,7 +8608,10 @@
       "pet"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets"
+    ]
   },
   "1F43A": {
     "char": "🐺",
@@ -7596,7 +8620,10 @@
       "face"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "wildlife"
+    ]
   },
   "1F43B": {
     "char": "🐻",
@@ -7608,7 +8635,11 @@
       "honey"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "wildlife",
+      "body"
+    ]
   },
   "1F43B-200D-2744-FE0F": {
     "char": "🐻‍❄️",
@@ -7620,7 +8651,12 @@
       "white"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "wildlife",
+      "body",
+      "white"
+    ]
   },
   "1F43C": {
     "char": "🐼",
@@ -7630,7 +8666,10 @@
       "face"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "wildlife"
+    ]
   },
   "1F43D": {
     "char": "🐽",
@@ -7644,7 +8683,11 @@
       "snout"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "body",
+      "pink"
+    ]
   },
   "1F43E": {
     "char": "🐾",
@@ -7665,7 +8708,9 @@
       "squirrel"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F440": {
     "char": "👀",
@@ -7682,7 +8727,9 @@
       "seeing"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F441": {
     "char": "👁️",
@@ -7692,7 +8739,9 @@
       "one"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F441-FE0F-200D-1F5E8-FE0F": {
     "char": "👁️‍🗨️",
@@ -7704,7 +8753,10 @@
       "witness"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "birthday",
+      "body"
+    ]
   },
   "1F442": {
     "char": "👂️",
@@ -7718,7 +8770,9 @@
       "sound"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F443": {
     "char": "👃",
@@ -7731,7 +8785,9 @@
       "smells"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F444": {
     "char": "👄",
@@ -7744,7 +8800,10 @@
       "lipstick"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "body"
+    ]
   },
   "1F445": {
     "char": "👅",
@@ -7754,7 +8813,9 @@
       "slurp"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F446": {
     "char": "👆️",
@@ -7768,7 +8829,9 @@
       "up"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F447": {
     "char": "👇️",
@@ -7782,7 +8845,9 @@
       "pointing"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F448": {
     "char": "👈️",
@@ -7796,7 +8861,9 @@
       "pointing"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F449": {
     "char": "👉️",
@@ -7810,7 +8877,9 @@
       "right"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F44A": {
     "char": "👊",
@@ -7833,7 +8902,9 @@
       "ttyl"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F44B": {
     "char": "👋",
@@ -7856,7 +8927,10 @@
       "you"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "body"
+    ]
   },
   "1F44C": {
     "char": "👌",
@@ -7879,7 +8953,10 @@
       "three"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sweets",
+      "body"
+    ]
   },
   "1F44D": {
     "char": "👍️",
@@ -7893,7 +8970,9 @@
       "yes"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F44E": {
     "char": "👎️",
@@ -7910,7 +8989,9 @@
       "thumbs"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F44F": {
     "char": "👏",
@@ -7933,7 +9014,11 @@
       "yay"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work",
+      "body",
+      "slay"
+    ]
   },
   "1F450": {
     "char": "👐",
@@ -7946,7 +9031,10 @@
       "swerve"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school",
+      "body"
+    ]
   },
   "1F451": {
     "char": "👑",
@@ -7961,7 +9049,10 @@
       "win"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "birds",
+      "black"
+    ]
   },
   "1F452": {
     "char": "👒",
@@ -7976,7 +9067,10 @@
       "woman’s"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "birthday",
+      "garden"
+    ]
   },
   "1F453": {
     "char": "👓️",
@@ -7987,7 +9081,9 @@
       "eyewear"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F454": {
     "char": "👔",
@@ -8016,7 +9112,9 @@
       "weekend"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "blue"
+    ]
   },
   "1F456": {
     "char": "👖",
@@ -8033,7 +9131,9 @@
       "weekend"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "blue"
+    ]
   },
   "1F457": {
     "char": "👗",
@@ -8067,7 +9167,9 @@
       "swim"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer"
+    ]
   },
   "1F45A": {
     "char": "👚",
@@ -8113,7 +9215,9 @@
       "shopping"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F45D": {
     "char": "👝",
@@ -8146,7 +9250,9 @@
       "shopping"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F45F": {
     "char": "👟",
@@ -8224,7 +9330,9 @@
       "walk"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F464": {
     "char": "👤",
@@ -8336,7 +9444,9 @@
       "student"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school"
+    ]
   },
   "1F468-200D-1F3A4": {
     "char": "👨‍🎤",
@@ -8350,7 +9460,11 @@
       "star"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night",
+      "music",
+      "yellow"
+    ]
   },
   "1F468-200D-1F3A8": {
     "char": "👨‍🎨",
@@ -8372,7 +9486,10 @@
       "teacher"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tea",
+      "school"
+    ]
   },
   "1F468-200D-1F3ED": {
     "char": "👨‍🏭",
@@ -8384,7 +9501,9 @@
       "worker"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work"
+    ]
   },
   "1F468-200D-1F466": {
     "char": "👨‍👦",
@@ -8571,7 +9690,10 @@
       "technologist"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work",
+      "tech"
+    ]
   },
   "1F468-200D-1F4BC": {
     "char": "👨‍💼",
@@ -8585,7 +9707,11 @@
       "worker"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "winter",
+      "work"
+    ]
   },
   "1F468-200D-1F527": {
     "char": "👨‍🔧",
@@ -8633,7 +9759,9 @@
       "man"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "forest"
+    ]
   },
   "1F468-200D-1F9AF": {
     "char": "👨‍🦯",
@@ -8646,7 +9774,9 @@
       "white"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "white"
+    ]
   },
   "1F468-200D-1F9AF-200D-27A1-FE0F": {
     "char": "👨‍🦯‍➡️",
@@ -8661,7 +9791,9 @@
       "white"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "white"
+    ]
   },
   "1F468-200D-1F9B0": {
     "char": "👨‍🦰",
@@ -8672,7 +9804,9 @@
       "red hair"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "red"
+    ]
   },
   "1F468-200D-1F9B1": {
     "char": "👨‍🦱",
@@ -8705,7 +9839,9 @@
       "white hair"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "white"
+    ]
   },
   "1F468-200D-1F9BC": {
     "char": "👨‍🦼",
@@ -8767,7 +9903,9 @@
       "worker"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work"
+    ]
   },
   "1F468-200D-2696-FE0F": {
     "char": "👨‍⚖️",
@@ -8810,7 +9948,11 @@
       "you"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "1F468-200D-2764-FE0F-200D-1F48B-200D-1F468": {
     "char": "👨‍❤️‍💋‍👨",
@@ -8832,7 +9974,11 @@
       "xoxo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "1F469": {
     "char": "👩",
@@ -8888,7 +10034,9 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school"
+    ]
   },
   "1F469-200D-1F3A4": {
     "char": "👩‍🎤",
@@ -8902,7 +10050,11 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night",
+      "music",
+      "yellow"
+    ]
   },
   "1F469-200D-1F3A8": {
     "char": "👩‍🎨",
@@ -8924,7 +10076,10 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tea",
+      "school"
+    ]
   },
   "1F469-200D-1F3ED": {
     "char": "👩‍🏭",
@@ -8936,7 +10091,9 @@
       "worker"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work"
+    ]
   },
   "1F469-200D-1F466": {
     "char": "👩‍👦",
@@ -9062,7 +10219,10 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work",
+      "tech"
+    ]
   },
   "1F469-200D-1F4BC": {
     "char": "👩‍💼",
@@ -9076,7 +10236,11 @@
       "worker"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "winter",
+      "work"
+    ]
   },
   "1F469-200D-1F527": {
     "char": "👩‍🔧",
@@ -9124,7 +10288,9 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "forest"
+    ]
   },
   "1F469-200D-1F9AF": {
     "char": "👩‍🦯",
@@ -9137,7 +10303,9 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "white"
+    ]
   },
   "1F469-200D-1F9AF-200D-27A1-FE0F": {
     "char": "👩‍🦯‍➡️",
@@ -9152,7 +10320,9 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "white"
+    ]
   },
   "1F469-200D-1F9B0": {
     "char": "👩‍🦰",
@@ -9163,7 +10333,9 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "red"
+    ]
   },
   "1F469-200D-1F9B1": {
     "char": "👩‍🦱",
@@ -9196,7 +10368,9 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "white"
+    ]
   },
   "1F469-200D-1F9BC": {
     "char": "👩‍🦼",
@@ -9258,7 +10432,9 @@
       "worker"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work"
+    ]
   },
   "1F469-200D-2696-FE0F": {
     "char": "👩‍⚖️",
@@ -9302,7 +10478,11 @@
       "you"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "1F469-200D-2764-FE0F-200D-1F469": {
     "char": "👩‍❤️‍👩",
@@ -9323,7 +10503,11 @@
       "you"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "1F469-200D-2764-FE0F-200D-1F48B-200D-1F468": {
     "char": "👩‍❤️‍💋‍👨",
@@ -9346,7 +10530,11 @@
       "xoxo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "1F469-200D-2764-FE0F-200D-1F48B-200D-1F469": {
     "char": "👩‍❤️‍💋‍👩",
@@ -9368,7 +10556,11 @@
       "xoxo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "1F46A": {
     "char": "👪️",
@@ -9395,7 +10587,9 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F46C": {
     "char": "👬",
@@ -9415,7 +10609,9 @@
       "twins"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F46D": {
     "char": "👭",
@@ -9435,7 +10631,9 @@
       "women"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F46E": {
     "char": "👮",
@@ -9452,7 +10650,11 @@
       "undercover"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "winter",
+      "work"
+    ]
   },
   "1F46E-200D-2640-FE0F": {
     "char": "👮‍♀️",
@@ -9470,7 +10672,11 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "winter",
+      "work"
+    ]
   },
   "1F46E-200D-2642-FE0F": {
     "char": "👮‍♂️",
@@ -9488,7 +10694,11 @@
       "undercover"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "winter",
+      "work"
+    ]
   },
   "1F46F": {
     "char": "👯",
@@ -9510,7 +10720,11 @@
       "twinsies"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "easter",
+      "birthday",
+      "body"
+    ]
   },
   "1F46F-200D-2640-FE0F": {
     "char": "👯‍♀️",
@@ -9533,7 +10747,11 @@
       "women"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "easter",
+      "birthday",
+      "body"
+    ]
   },
   "1F46F-200D-2642-FE0F": {
     "char": "👯‍♂️",
@@ -9556,7 +10774,11 @@
       "twinsies"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "easter",
+      "birthday",
+      "body"
+    ]
   },
   "1F470": {
     "char": "👰",
@@ -9566,7 +10788,9 @@
       "wedding"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding"
+    ]
   },
   "1F470-200D-2640-FE0F": {
     "char": "👰‍♀️",
@@ -9577,7 +10801,9 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding"
+    ]
   },
   "1F470-200D-2642-FE0F": {
     "char": "👰‍♂️",
@@ -9587,7 +10813,9 @@
       "wedding"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding"
+    ]
   },
   "1F471": {
     "char": "👱",
@@ -9637,7 +10865,9 @@
       "skullcap"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "halloween"
+    ]
   },
   "1F473": {
     "char": "👳",
@@ -9647,7 +10877,10 @@
       "wearing"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding",
+      "body"
+    ]
   },
   "1F473-200D-2640-FE0F": {
     "char": "👳‍♀️",
@@ -9657,7 +10890,10 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding",
+      "body"
+    ]
   },
   "1F473-200D-2642-FE0F": {
     "char": "👳‍♂️",
@@ -9667,7 +10903,10 @@
       "wearing"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding",
+      "body"
+    ]
   },
   "1F474": {
     "char": "👴",
@@ -9732,7 +10971,9 @@
       "worker"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work"
+    ]
   },
   "1F477-200D-2640-FE0F": {
     "char": "👷‍♀️",
@@ -9751,7 +10992,9 @@
       "worker"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work"
+    ]
   },
   "1F477-200D-2642-FE0F": {
     "char": "👷‍♂️",
@@ -9769,7 +11012,9 @@
       "worker"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work"
+    ]
   },
   "1F478": {
     "char": "👸",
@@ -9784,7 +11029,9 @@
       "tale"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "reading"
+    ]
   },
   "1F479": {
     "char": "👹",
@@ -9801,7 +11048,10 @@
       "tale"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "reading"
+    ]
   },
   "1F47A": {
     "char": "👺",
@@ -9818,7 +11068,10 @@
       "tale"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "reading"
+    ]
   },
   "1F47B": {
     "char": "👻",
@@ -9838,7 +11091,11 @@
       "tale"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "halloween",
+      "animals",
+      "reading"
+    ]
   },
   "1F47C": {
     "char": "👼",
@@ -9853,7 +11110,9 @@
       "tale"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "reading"
+    ]
   },
   "1F47D": {
     "char": "👽️",
@@ -9870,7 +11129,10 @@
       "ufo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "reading"
+    ]
   },
   "1F47E": {
     "char": "👾",
@@ -9892,7 +11154,11 @@
       "ufo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "sports",
+      "reading"
+    ]
   },
   "1F47F": {
     "char": "👿",
@@ -9913,7 +11179,10 @@
       "tale"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "halloween",
+      "reading"
+    ]
   },
   "1F480": {
     "char": "💀",
@@ -9931,7 +11200,11 @@
       "yolo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "halloween",
+      "reading",
+      "body"
+    ]
   },
   "1F481": {
     "char": "💁",
@@ -9950,7 +11223,9 @@
       "whatever"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F481-200D-2640-FE0F": {
     "char": "💁‍♀️",
@@ -9969,7 +11244,9 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F481-200D-2642-FE0F": {
     "char": "💁‍♂️",
@@ -9988,7 +11265,9 @@
       "whatever"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F482": {
     "char": "💂",
@@ -10149,7 +11428,9 @@
       "style"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding"
+    ]
   },
   "1F487-200D-2640-FE0F": {
     "char": "💇‍♀️",
@@ -10169,7 +11450,9 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding"
+    ]
   },
   "1F487-200D-2642-FE0F": {
     "char": "💇‍♂️",
@@ -10189,7 +11472,9 @@
       "style"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding"
+    ]
   },
   "1F488": {
     "char": "💈",
@@ -10217,7 +11502,9 @@
       "vaccination"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding"
+    ]
   },
   "1F48A": {
     "char": "💊",
@@ -10247,7 +11534,11 @@
       "sexy"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "1F48C": {
     "char": "💌",
@@ -10260,7 +11551,11 @@
       "valentine"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "1F48D": {
     "char": "💍",
@@ -10275,7 +11570,10 @@
       "wedding"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding",
+      "love"
+    ]
   },
   "1F48E": {
     "char": "💎",
@@ -10290,7 +11588,10 @@
       "wedding"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding",
+      "love"
+    ]
   },
   "1F48F": {
     "char": "💏",
@@ -10310,7 +11611,11 @@
       "xoxo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "1F490": {
     "char": "💐",
@@ -10324,7 +11629,15 @@
       "romance"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "valentines day",
+      "birthday",
+      "nature",
+      "garden",
+      "flowers",
+      "love"
+    ]
   },
   "1F491": {
     "char": "💑",
@@ -10344,7 +11657,11 @@
       "you"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "1F492": {
     "char": "💒",
@@ -10355,7 +11672,10 @@
       "romance"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding",
+      "love"
+    ]
   },
   "1F493": {
     "char": "💓",
@@ -10372,7 +11692,11 @@
       "pulse"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "1F494": {
     "char": "💔",
@@ -10387,7 +11711,12 @@
       "sad"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "sad",
+      "love",
+      "body"
+    ]
   },
   "1F495": {
     "char": "💕",
@@ -10407,7 +11736,11 @@
       "xoxo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "1F496": {
     "char": "💖",
@@ -10426,7 +11759,14 @@
       "xoxo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "morning",
+      "night",
+      "valentines day",
+      "love",
+      "body",
+      "black"
+    ]
   },
   "1F497": {
     "char": "💗",
@@ -10445,7 +11785,11 @@
       "xoxo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "1F498": {
     "char": "💘",
@@ -10463,7 +11807,11 @@
       "valentine"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "1F499": {
     "char": "💙",
@@ -10477,7 +11825,12 @@
       "romance"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body",
+      "blue"
+    ]
   },
   "1F49A": {
     "char": "💚",
@@ -10491,7 +11844,12 @@
       "romantic"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body",
+      "green"
+    ]
   },
   "1F49B": {
     "char": "💛",
@@ -10505,7 +11863,12 @@
       "yellow"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body",
+      "yellow"
+    ]
   },
   "1F49C": {
     "char": "💜",
@@ -10519,7 +11882,11 @@
       "purple"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "1F49D": {
     "char": "💝",
@@ -10535,7 +11902,12 @@
       "xoxo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas",
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "1F49E": {
     "char": "💞",
@@ -10549,7 +11921,11 @@
       "revolving"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "1F49F": {
     "char": "💟",
@@ -10563,7 +11939,12 @@
       "white"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body",
+      "white"
+    ]
   },
   "1F4A0": {
     "char": "💠",
@@ -10627,7 +12008,10 @@
       "zzz"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night",
+      "black"
+    ]
   },
   "1F4A5": {
     "char": "💥",
@@ -10658,7 +12042,12 @@
       "workout"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "rain",
+      "work",
+      "blue"
+    ]
   },
   "1F4A7": {
     "char": "💧",
@@ -10674,7 +12063,12 @@
       "weather"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "rain",
+      "sad",
+      "blue"
+    ]
   },
   "1F4A8": {
     "char": "💨",
@@ -10693,7 +12087,11 @@
       "smoke"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "rain",
+      "clouds",
+      "white"
+    ]
   },
   "1F4A9": {
     "char": "💩",
@@ -10739,7 +12137,12 @@
       "weightlift"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "winter",
+      "animals",
+      "flex"
+    ]
   },
   "1F4AB": {
     "char": "💫",
@@ -10751,7 +12154,10 @@
       "stars"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night",
+      "yellow"
+    ]
   },
   "1F4AC": {
     "char": "💬",
@@ -10768,7 +12174,9 @@
       "typing"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "birthday"
+    ]
   },
   "1F4AD": {
     "char": "💭",
@@ -10790,7 +12198,12 @@
       "wonder"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "rain",
+      "clouds",
+      "birthday",
+      "white"
+    ]
   },
   "1F4AE": {
     "char": "💮",
@@ -10799,7 +12212,12 @@
       "white"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "garden",
+      "flowers",
+      "white"
+    ]
   },
   "1F4AF": {
     "char": "💯",
@@ -10822,7 +12240,9 @@
       "yup"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "red"
+    ]
   },
   "1F4B0": {
     "char": "💰️",
@@ -10845,7 +12265,9 @@
       "win"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "yellow"
+    ]
   },
   "1F4B1": {
     "char": "💱",
@@ -10887,7 +12309,9 @@
       "pay"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "red"
+    ]
   },
   "1F4B4": {
     "char": "💴",
@@ -10901,7 +12325,9 @@
       "yen"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "music"
+    ]
   },
   "1F4B5": {
     "char": "💵",
@@ -10915,7 +12341,9 @@
       "note"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "music"
+    ]
   },
   "1F4B6": {
     "char": "💶",
@@ -10931,7 +12359,9 @@
       "rich"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "music"
+    ]
   },
   "1F4B7": {
     "char": "💷",
@@ -10948,7 +12378,9 @@
       "pounds"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "music"
+    ]
   },
   "1F4B8": {
     "char": "💸",
@@ -10967,7 +12399,9 @@
       "wings"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "music"
+    ]
   },
   "1F4B9": {
     "char": "💹",
@@ -10986,7 +12420,9 @@
       "yen"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work"
+    ]
   },
   "1F4BA": {
     "char": "💺",
@@ -10994,7 +12430,9 @@
       "chair"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "blue"
+    ]
   },
   "1F4BB": {
     "char": "💻️",
@@ -11005,7 +12443,10 @@
       "personal"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work",
+      "tech"
+    ]
   },
   "1F4BC": {
     "char": "💼",
@@ -11013,7 +12454,9 @@
       "office"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work"
+    ]
   },
   "1F4BD": {
     "char": "💽",
@@ -11024,7 +12467,10 @@
       "optical"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work",
+      "tech"
+    ]
   },
   "1F4BE": {
     "char": "💾",
@@ -11034,7 +12480,10 @@
       "floppy"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work",
+      "tech"
+    ]
   },
   "1F4BF": {
     "char": "💿️",
@@ -11047,7 +12496,10 @@
       "optical"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work",
+      "tech"
+    ]
   },
   "1F4C0": {
     "char": "📀",
@@ -11059,7 +12511,10 @@
       "optical"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work",
+      "tech"
+    ]
   },
   "1F4C1": {
     "char": "📁",
@@ -11078,7 +12533,9 @@
       "open"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school"
+    ]
   },
   "1F4C3": {
     "char": "📃",
@@ -11118,7 +12575,10 @@
       "tear-off"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tea",
+      "body"
+    ]
   },
   "1F4C7": {
     "char": "📇",
@@ -11130,7 +12590,9 @@
       "school"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school"
+    ]
   },
   "1F4C8": {
     "char": "📈",
@@ -11146,7 +12608,9 @@
       "upward"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work"
+    ]
   },
   "1F4C9": {
     "char": "📉",
@@ -11161,7 +12625,9 @@
       "trend"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work"
+    ]
   },
   "1F4CA": {
     "char": "📊",
@@ -11172,7 +12638,9 @@
       "graph"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work"
+    ]
   },
   "1F4CB": {
     "char": "📋️",
@@ -11182,7 +12650,9 @@
       "notes"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "music"
+    ]
   },
   "1F4CC": {
     "char": "📌",
@@ -11224,7 +12694,9 @@
       "straightedge"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school"
+    ]
   },
   "1F4D0": {
     "char": "📐",
@@ -11239,7 +12711,9 @@
       "triangular"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school"
+    ]
   },
   "1F4D1": {
     "char": "📑",
@@ -11250,7 +12724,10 @@
       "tabs"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school",
+      "reading"
+    ]
   },
   "1F4D2": {
     "char": "📒",
@@ -11266,7 +12743,11 @@
       "notebook"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school",
+      "music",
+      "reading"
+    ]
   },
   "1F4D4": {
     "char": "📔",
@@ -11281,7 +12762,11 @@
       "writing"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school",
+      "music",
+      "reading"
+    ]
   },
   "1F4D5": {
     "char": "📕",
@@ -11291,7 +12776,10 @@
       "education"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school",
+      "reading"
+    ]
   },
   "1F4D6": {
     "char": "📖",
@@ -11306,7 +12794,10 @@
       "reading"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school",
+      "reading"
+    ]
   },
   "1F4D7": {
     "char": "📗",
@@ -11319,7 +12810,11 @@
       "reading"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school",
+      "reading",
+      "green"
+    ]
   },
   "1F4D8": {
     "char": "📘",
@@ -11332,7 +12827,11 @@
       "reading"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school",
+      "reading",
+      "blue"
+    ]
   },
   "1F4D9": {
     "char": "📙",
@@ -11345,7 +12844,10 @@
       "reading"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school",
+      "reading"
+    ]
   },
   "1F4DA": {
     "char": "📚️",
@@ -11361,7 +12863,10 @@
       "study"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school",
+      "reading"
+    ]
   },
   "1F4DB": {
     "char": "📛",
@@ -11389,7 +12894,10 @@
       "pencil"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school",
+      "music"
+    ]
   },
   "1F4DE": {
     "char": "📞",
@@ -11401,7 +12909,9 @@
       "voip"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tech"
+    ]
   },
   "1F4DF": {
     "char": "📟️",
@@ -11432,7 +12942,9 @@
       "science"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food"
+    ]
   },
   "1F4E2": {
     "char": "📢",
@@ -11453,7 +12965,9 @@
       "sound"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tech"
+    ]
   },
   "1F4E4": {
     "char": "📤️",
@@ -11467,7 +12981,10 @@
       "tray"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sun",
+      "work"
+    ]
   },
   "1F4E5": {
     "char": "📥️",
@@ -11482,7 +12999,10 @@
       "zero"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sun",
+      "work"
+    ]
   },
   "1F4E6": {
     "char": "📦️",
@@ -11504,7 +13024,9 @@
       "mail"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work"
+    ]
   },
   "1F4E8": {
     "char": "📨",
@@ -11520,7 +13042,9 @@
       "sent"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work"
+    ]
   },
   "1F4E9": {
     "char": "📩",
@@ -11538,7 +13062,9 @@
       "sent"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work"
+    ]
   },
   "1F4EA": {
     "char": "📪️",
@@ -11551,7 +13077,9 @@
       "postbox"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "red"
+    ]
   },
   "1F4EB": {
     "char": "📫️",
@@ -11578,7 +13106,9 @@
       "raised"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school"
+    ]
   },
   "1F4ED": {
     "char": "📭️",
@@ -11591,7 +13121,10 @@
       "postbox"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school",
+      "red"
+    ]
   },
   "1F4EE": {
     "char": "📮",
@@ -11632,7 +13165,9 @@
       "telephone"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tech"
+    ]
   },
   "1F4F2": {
     "char": "📲",
@@ -11648,7 +13183,9 @@
       "telephone"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tech"
+    ]
   },
   "1F4F3": {
     "char": "📳",
@@ -11662,7 +13199,9 @@
       "vibration"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tech"
+    ]
   },
   "1F4F4": {
     "char": "📴",
@@ -11674,7 +13213,9 @@
       "telephone"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tech"
+    ]
   },
   "1F4F5": {
     "char": "📵",
@@ -11690,7 +13231,9 @@
       "telephone"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tech"
+    ]
   },
   "1F4F6": {
     "char": "📶",
@@ -11706,7 +13249,9 @@
       "telephone"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tech"
+    ]
   },
   "1F4F7": {
     "char": "📷️",
@@ -11719,7 +13264,9 @@
       "video"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tech"
+    ]
   },
   "1F4F8": {
     "char": "📸",
@@ -11729,7 +13276,9 @@
       "video"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tech"
+    ]
   },
   "1F4F9": {
     "char": "📹️",
@@ -11740,7 +13289,9 @@
       "video"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tech"
+    ]
   },
   "1F4FA": {
     "char": "📺️",
@@ -11749,7 +13300,9 @@
       "video"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tech"
+    ]
   },
   "1F4FB": {
     "char": "📻️",
@@ -11759,7 +13312,9 @@
       "video"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tech"
+    ]
   },
   "1F4FC": {
     "char": "📼",
@@ -11772,7 +13327,9 @@
       "video"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school"
+    ]
   },
   "1F4FD": {
     "char": "📽️",
@@ -11796,7 +13353,9 @@
       "religion"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sun"
+    ]
   },
   "1F500": {
     "char": "🔀",
@@ -11845,7 +13404,9 @@
       "vertical"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "1F504": {
     "char": "🔄",
@@ -11862,7 +13423,9 @@
       "vu"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "1F505": {
     "char": "🔅",
@@ -11933,7 +13496,9 @@
       "volume"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "music"
+    ]
   },
   "1F50B": {
     "char": "🔋",
@@ -11997,7 +13562,9 @@
       "privacy"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school"
+    ]
   },
   "1F510": {
     "char": "🔐",
@@ -12053,7 +13620,9 @@
       "sound"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas"
+    ]
   },
   "1F515": {
     "char": "🔕",
@@ -12070,7 +13639,9 @@
       "sound"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas"
+    ]
   },
   "1F516": {
     "char": "🔖",
@@ -12078,7 +13649,10 @@
       "mark"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school",
+      "reading"
+    ]
   },
   "1F517": {
     "char": "🔗",
@@ -12096,7 +13670,9 @@
       "radio"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tech"
+    ]
   },
   "1F519": {
     "char": "🔙",
@@ -12244,7 +13820,9 @@
       "tool"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "forest"
+    ]
   },
   "1F526": {
     "char": "🔦",
@@ -12303,7 +13881,9 @@
       "weapon"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "birds"
+    ]
   },
   "1F52B": {
     "char": "🔫",
@@ -12317,7 +13897,10 @@
       "weapon"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "blue"
+    ]
   },
   "1F52C": {
     "char": "🔬",
@@ -12356,7 +13939,11 @@
       "tool"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "snow",
+      "sad",
+      "reading"
+    ]
   },
   "1F52F": {
     "char": "🔯",
@@ -12369,7 +13956,10 @@
       "star"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night",
+      "yellow"
+    ]
   },
   "1F530": {
     "char": "🔰",
@@ -12384,7 +13974,12 @@
       "yellow"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "autumn",
+      "forest",
+      "yellow",
+      "green"
+    ]
   },
   "1F531": {
     "char": "🔱",
@@ -12408,7 +14003,9 @@
       "square"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "black"
+    ]
   },
   "1F533": {
     "char": "🔳",
@@ -12420,7 +14017,9 @@
       "white"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "white"
+    ]
   },
   "1F534": {
     "char": "🔴",
@@ -12430,7 +14029,9 @@
       "red"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "red"
+    ]
   },
   "1F535": {
     "char": "🔵",
@@ -12440,7 +14041,9 @@
       "geometric"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "blue"
+    ]
   },
   "1F536": {
     "char": "🔶",
@@ -12462,7 +14065,9 @@
       "large"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "blue"
+    ]
   },
   "1F538": {
     "char": "🔸",
@@ -12484,7 +14089,9 @@
       "small"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "blue"
+    ]
   },
   "1F53A": {
     "char": "🔺",
@@ -12496,7 +14103,9 @@
       "up"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "red"
+    ]
   },
   "1F53B": {
     "char": "🔻",
@@ -12508,7 +14117,9 @@
       "triangle"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "red"
+    ]
   },
   "1F53C": {
     "char": "🔼",
@@ -12520,7 +14131,9 @@
       "upwards"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "red"
+    ]
   },
   "1F53D": {
     "char": "🔽",
@@ -12532,7 +14145,9 @@
       "red"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "red"
+    ]
   },
   "1F549": {
     "char": "🕉️",
@@ -12552,7 +14167,11 @@
       "peace"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "birds"
+    ]
   },
   "1F54B": {
     "char": "🕋",
@@ -12613,7 +14232,9 @@
       "time"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "1F551": {
     "char": "🕑️",
@@ -12626,7 +14247,9 @@
       "two"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "1F552": {
     "char": "🕒️",
@@ -12639,7 +14262,9 @@
       "time"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "1F553": {
     "char": "🕓️",
@@ -12652,7 +14277,9 @@
       "time"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "1F554": {
     "char": "🕔️",
@@ -12665,7 +14292,9 @@
       "time"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "1F555": {
     "char": "🕕️",
@@ -12678,7 +14307,9 @@
       "time"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "1F556": {
     "char": "🕖️",
@@ -12691,7 +14322,9 @@
       "seven"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "1F557": {
     "char": "🕗️",
@@ -12704,7 +14337,9 @@
       "time"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "1F558": {
     "char": "🕘️",
@@ -12717,7 +14352,9 @@
       "time"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "1F559": {
     "char": "🕙️",
@@ -12730,7 +14367,9 @@
       "ten"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "1F55A": {
     "char": "🕚️",
@@ -12743,7 +14382,9 @@
       "time"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "1F55B": {
     "char": "🕛️",
@@ -12756,7 +14397,9 @@
       "twelve"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "1F55C": {
     "char": "🕜️",
@@ -12770,7 +14413,9 @@
       "time"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "1F55D": {
     "char": "🕝️",
@@ -12784,7 +14429,9 @@
       "two"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "1F55E": {
     "char": "🕞️",
@@ -12798,7 +14445,9 @@
       "time"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "1F55F": {
     "char": "🕟️",
@@ -12812,7 +14461,9 @@
       "time"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "1F560": {
     "char": "🕠️",
@@ -12826,7 +14477,9 @@
       "time"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "1F561": {
     "char": "🕡️",
@@ -12839,7 +14492,9 @@
       "thirty"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "1F562": {
     "char": "🕢️",
@@ -12852,7 +14507,9 @@
       "thirty"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "1F563": {
     "char": "🕣️",
@@ -12866,7 +14523,9 @@
       "time"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "1F564": {
     "char": "🕤️",
@@ -12880,7 +14539,9 @@
       "time"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "1F565": {
     "char": "🕥️",
@@ -12894,7 +14555,9 @@
       "time"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "1F566": {
     "char": "🕦️",
@@ -12908,7 +14571,9 @@
       "time"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "1F567": {
     "char": "🕧️",
@@ -12922,7 +14587,9 @@
       "twelve"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "1F56F": {
     "char": "🕯️",
@@ -12930,7 +14597,9 @@
       "light"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas"
+    ]
   },
   "1F570": {
     "char": "🕰️",
@@ -12940,7 +14609,9 @@
       "time"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "1F573": {
     "char": "🕳️",
@@ -12959,7 +14630,9 @@
       "suit"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work"
+    ]
   },
   "1F575": {
     "char": "🕵️",
@@ -13001,7 +14674,13 @@
       "glasses"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "sun",
+      "night",
+      "body",
+      "yellow"
+    ]
   },
   "1F577": {
     "char": "🕷️",
@@ -13010,7 +14689,10 @@
       "insect"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "insects"
+    ]
   },
   "1F578": {
     "char": "🕸️",
@@ -13019,7 +14701,10 @@
       "web"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "insects"
+    ]
   },
   "1F579": {
     "char": "🕹️",
@@ -13029,7 +14714,10 @@
       "videogame"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "happy",
+      "sports"
+    ]
   },
   "1F57A": {
     "char": "🕺",
@@ -13067,7 +14755,9 @@
       "ballpoint"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school"
+    ]
   },
   "1F58B": {
     "char": "🖋️",
@@ -13076,7 +14766,9 @@
       "pen"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school"
+    ]
   },
   "1F58C": {
     "char": "🖌️",
@@ -13092,7 +14784,9 @@
       "crayon"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sun"
+    ]
   },
   "1F590": {
     "char": "🖐️",
@@ -13105,7 +14799,9 @@
       "stop"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F595": {
     "char": "🖕",
@@ -13115,7 +14811,9 @@
       "middle"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F596": {
     "char": "🖖",
@@ -13127,7 +14825,9 @@
       "vulcan"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F5A4": {
     "char": "🖤",
@@ -13138,7 +14838,12 @@
       "wicked"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body",
+      "black"
+    ]
   },
   "1F5A5": {
     "char": "🖥️",
@@ -13148,7 +14853,10 @@
       "monitor"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work",
+      "tech"
+    ]
   },
   "1F5A8": {
     "char": "🖨️",
@@ -13156,7 +14864,10 @@
       "computer"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work",
+      "tech"
+    ]
   },
   "1F5B1": {
     "char": "🖱️",
@@ -13165,7 +14876,10 @@
       "mouse"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work",
+      "tech"
+    ]
   },
   "1F5B2": {
     "char": "🖲️",
@@ -13173,7 +14887,10 @@
       "computer"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work",
+      "tech"
+    ]
   },
   "1F5BC": {
     "char": "🖼️",
@@ -13239,7 +14956,9 @@
       "spiral"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "music"
+    ]
   },
   "1F5D3": {
     "char": "🗓️",
@@ -13303,7 +15022,9 @@
       "speaking"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F5E8": {
     "char": "🗨️",
@@ -13315,7 +15036,9 @@
       "speech"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "birthday"
+    ]
   },
   "1F5EF": {
     "char": "🗯️",
@@ -13328,7 +15051,9 @@
       "right"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "birthday"
+    ]
   },
   "1F5F3": {
     "char": "🗳️",
@@ -13357,7 +15082,9 @@
       "nature"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "nature"
+    ]
   },
   "1F5FC": {
     "char": "🗼",
@@ -13418,7 +15145,9 @@
       "teeth"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "happy"
+    ]
   },
   "1F601": {
     "char": "😁",
@@ -13436,7 +15165,10 @@
       "teeth"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "happy",
+      "body"
+    ]
   },
   "1F602": {
     "char": "😂",
@@ -13458,7 +15190,11 @@
       "tear"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tea",
+      "happy",
+      "body"
+    ]
   },
   "1F603": {
     "char": "😃",
@@ -13478,7 +15214,10 @@
       "yay"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "happy",
+      "body"
+    ]
   },
   "1F604": {
     "char": "😄",
@@ -13497,7 +15236,10 @@
       "smiling"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "happy",
+      "body"
+    ]
   },
   "1F605": {
     "char": "😅",
@@ -13517,7 +15259,10 @@
       "sweat"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "happy",
+      "body"
+    ]
   },
   "1F606": {
     "char": "😆",
@@ -13539,7 +15284,10 @@
       "squinting"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "happy",
+      "body"
+    ]
   },
   "1F607": {
     "char": "😇",
@@ -13562,7 +15310,10 @@
       "tale"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "happy",
+      "reading"
+    ]
   },
   "1F608": {
     "char": "😈",
@@ -13582,7 +15333,11 @@
       "tale"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "halloween",
+      "happy",
+      "reading"
+    ]
   },
   "1F609": {
     "char": "😉",
@@ -13613,7 +15368,10 @@
       "smiling"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "happy",
+      "body"
+    ]
   },
   "1F60B": {
     "char": "😋",
@@ -13633,7 +15391,11 @@
       "yummy"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding",
+      "food",
+      "happy"
+    ]
   },
   "1F60C": {
     "char": "😌",
@@ -13667,7 +15429,12 @@
       "xoxo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "happy",
+      "love",
+      "body"
+    ]
   },
   "1F60E": {
     "char": "😎",
@@ -13690,7 +15457,13 @@
       "win"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "sun",
+      "happy",
+      "yellow",
+      "slay"
+    ]
   },
   "1F60F": {
     "char": "😏",
@@ -13736,7 +15509,10 @@
       "whatever"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sad",
+      "cringe"
+    ]
   },
   "1F611": {
     "char": "😑",
@@ -13759,7 +15535,10 @@
       "whatever"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sad",
+      "cringe"
+    ]
   },
   "1F612": {
     "char": "😒",
@@ -13781,7 +15560,9 @@
       "whatever"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sad"
+    ]
   },
   "1F613": {
     "char": "😓",
@@ -13799,7 +15580,9 @@
       "yikes"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sad"
+    ]
   },
   "1F614": {
     "char": "😔",
@@ -13817,7 +15600,10 @@
       "sucks"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sad",
+      "school"
+    ]
   },
   "1F615": {
     "char": "😕",
@@ -13836,7 +15622,9 @@
       "sure"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sad"
+    ]
   },
   "1F616": {
     "char": "😖",
@@ -13853,7 +15641,10 @@
       "sad"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sad",
+      "cringe"
+    ]
   },
   "1F617": {
     "char": "😗",
@@ -13872,7 +15663,10 @@
       "you"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love"
+    ]
   },
   "1F618": {
     "char": "😘",
@@ -13895,7 +15689,11 @@
       "you"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "1F619": {
     "char": "😙",
@@ -13918,7 +15716,14 @@
       "smiling"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night",
+      "valentines day",
+      "happy",
+      "love",
+      "body",
+      "black"
+    ]
   },
   "1F61A": {
     "char": "😚",
@@ -13940,7 +15745,10 @@
       "xoxo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "body"
+    ]
   },
   "1F61B": {
     "char": "😛",
@@ -13955,7 +15763,11 @@
       "tongue"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "birthday",
+      "sweets",
+      "body"
+    ]
   },
   "1F61C": {
     "char": "😜",
@@ -13978,7 +15790,10 @@
       "yolo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "birthday",
+      "body"
+    ]
   },
   "1F61D": {
     "char": "😝",
@@ -13998,7 +15813,9 @@
       "yolo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F61E": {
     "char": "😞",
@@ -14014,7 +15831,9 @@
       "unhappy"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sad"
+    ]
   },
   "1F61F": {
     "char": "😟",
@@ -14032,7 +15851,9 @@
       "worry"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sad"
+    ]
   },
   "1F620": {
     "char": "😠",
@@ -14051,7 +15872,9 @@
       "upset"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sad"
+    ]
   },
   "1F621": {
     "char": "😡",
@@ -14071,7 +15894,10 @@
       "upset"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sad",
+      "red"
+    ]
   },
   "1F622": {
     "char": "😢",
@@ -14088,7 +15914,9 @@
       "unhappy"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sad"
+    ]
   },
   "1F623": {
     "char": "😣",
@@ -14102,7 +15930,9 @@
       "persevering"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding"
+    ]
   },
   "1F624": {
     "char": "😤",
@@ -14123,7 +15953,11 @@
       "won"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tea",
+      "sad",
+      "body"
+    ]
   },
   "1F625": {
     "char": "😥",
@@ -14142,7 +15976,9 @@
       "whew"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sad"
+    ]
   },
   "1F626": {
     "char": "😦",
@@ -14161,7 +15997,10 @@
       "wow"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school",
+      "body"
+    ]
   },
   "1F627": {
     "char": "😧",
@@ -14178,7 +16017,9 @@
       "wow"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sad"
+    ]
   },
   "1F628": {
     "char": "😨",
@@ -14193,7 +16034,9 @@
       "worried"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F629": {
     "char": "😩",
@@ -14212,7 +16055,10 @@
       "weary"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sad",
+      "body"
+    ]
   },
   "1F62A": {
     "char": "😪",
@@ -14228,7 +16074,11 @@
       "tired"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night",
+      "sad",
+      "black"
+    ]
   },
   "1F62B": {
     "char": "😫",
@@ -14242,7 +16092,10 @@
       "tired"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sad",
+      "red"
+    ]
   },
   "1F62C": {
     "char": "😬",
@@ -14258,7 +16111,10 @@
       "smiling"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "happy",
+      "cringe"
+    ]
   },
   "1F62D": {
     "char": "😭",
@@ -14275,7 +16131,9 @@
       "unhappy"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sad"
+    ]
   },
   "1F62E": {
     "char": "😮",
@@ -14296,7 +16154,10 @@
       "you"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school",
+      "body"
+    ]
   },
   "1F62E-200D-1F4A8": {
     "char": "😮‍💨",
@@ -14317,7 +16178,9 @@
       "whistle"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "happy"
+    ]
   },
   "1F62F": {
     "char": "😯",
@@ -14351,7 +16214,10 @@
       "yikes"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body",
+      "blue"
+    ]
   },
   "1F631": {
     "char": "😱",
@@ -14370,7 +16236,9 @@
       "woah"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F632": {
     "char": "😲",
@@ -14408,7 +16276,10 @@
       "wow"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "cringe"
+    ]
   },
   "1F634": {
     "char": "😴",
@@ -14428,7 +16299,10 @@
       "zzz"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night",
+      "black"
+    ]
   },
   "1F635": {
     "char": "😵",
@@ -14445,7 +16319,9 @@
       "tired"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F635-200D-1F4AB": {
     "char": "😵‍💫",
@@ -14464,7 +16340,10 @@
       "woozy"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "happy",
+      "body"
+    ]
   },
   "1F636": {
     "char": "😶",
@@ -14483,7 +16362,10 @@
       "speechless"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body",
+      "cringe"
+    ]
   },
   "1F636-200D-1F32B-FE0F": {
     "char": "😶‍🌫️",
@@ -14495,7 +16377,12 @@
       "head"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "rain",
+      "clouds",
+      "body",
+      "white"
+    ]
   },
   "1F637": {
     "char": "😷",
@@ -14529,7 +16416,13 @@
       "smiling"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "happy",
+      "body",
+      "black"
+    ]
   },
   "1F639": {
     "char": "😹",
@@ -14545,7 +16438,14 @@
       "tears"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "tea",
+      "happy",
+      "body",
+      "black"
+    ]
   },
   "1F63A": {
     "char": "😺",
@@ -14560,7 +16460,13 @@
       "smiling"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "happy",
+      "body",
+      "black"
+    ]
   },
   "1F63B": {
     "char": "😻",
@@ -14576,7 +16482,15 @@
       "smiling"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "animals",
+      "pets",
+      "happy",
+      "love",
+      "body",
+      "black"
+    ]
   },
   "1F63C": {
     "char": "😼",
@@ -14589,7 +16503,12 @@
       "wry"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "happy",
+      "black"
+    ]
   },
   "1F63D": {
     "char": "😽",
@@ -14604,7 +16523,13 @@
       "kissing"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "animals",
+      "pets",
+      "body",
+      "black"
+    ]
   },
   "1F63E": {
     "char": "😾",
@@ -14615,7 +16540,11 @@
       "pouting"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "black"
+    ]
   },
   "1F63F": {
     "char": "😿",
@@ -14629,7 +16558,12 @@
       "tear"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "sad",
+      "black"
+    ]
   },
   "1F640": {
     "char": "🙀",
@@ -14642,7 +16576,12 @@
       "weary"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "body",
+      "black"
+    ]
   },
   "1F641": {
     "char": "🙁",
@@ -14654,7 +16593,9 @@
       "slightly"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sad"
+    ]
   },
   "1F642": {
     "char": "🙂",
@@ -14666,7 +16607,9 @@
       "smiling"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "happy"
+    ]
   },
   "1F642-200D-2194-FE0F": {
     "char": "🙂‍↔️",
@@ -14678,7 +16621,9 @@
       "shaking"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F642-200D-2195-FE0F": {
     "char": "🙂‍↕️",
@@ -14690,7 +16635,9 @@
       "yes"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F643": {
     "char": "🙃",
@@ -14701,7 +16648,9 @@
       "upside-down"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "happy"
+    ]
   },
   "1F644": {
     "char": "🙄",
@@ -14715,7 +16664,9 @@
       "whatever"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F645": {
     "char": "🙅",
@@ -14729,7 +16680,10 @@
       "prohibit"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding",
+      "body"
+    ]
   },
   "1F645-200D-2640-FE0F": {
     "char": "🙅‍♀️",
@@ -14743,7 +16697,10 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding",
+      "body"
+    ]
   },
   "1F645-200D-2642-FE0F": {
     "char": "🙅‍♂️",
@@ -14757,7 +16714,10 @@
       "prohibit"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding",
+      "body"
+    ]
   },
   "1F646": {
     "char": "🙆",
@@ -14771,7 +16731,10 @@
       "person"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding",
+      "body"
+    ]
   },
   "1F646-200D-2640-FE0F": {
     "char": "🙆‍♀️",
@@ -14785,7 +16748,10 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding",
+      "body"
+    ]
   },
   "1F646-200D-2642-FE0F": {
     "char": "🙆‍♂️",
@@ -14799,7 +16765,10 @@
       "omg"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding",
+      "body"
+    ]
   },
   "1F647": {
     "char": "🙇",
@@ -14820,7 +16789,9 @@
       "sorry"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas"
+    ]
   },
   "1F647-200D-2640-FE0F": {
     "char": "🙇‍♀️",
@@ -14841,7 +16812,9 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas"
+    ]
   },
   "1F647-200D-2642-FE0F": {
     "char": "🙇‍♂️",
@@ -14862,7 +16835,9 @@
       "sorry"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas"
+    ]
   },
   "1F648": {
     "char": "🙈",
@@ -14906,7 +16881,10 @@
       "tmi"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "body"
+    ]
   },
   "1F64A": {
     "char": "🙊",
@@ -14927,7 +16905,9 @@
       "stealth"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F64B": {
     "char": "🙋",
@@ -14944,7 +16924,9 @@
       "raising"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F64B-200D-2640-FE0F": {
     "char": "🙋‍♀️",
@@ -14961,7 +16943,9 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F64B-200D-2642-FE0F": {
     "char": "🙋‍♂️",
@@ -14978,7 +16962,9 @@
       "raising"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F64C": {
     "char": "🙌",
@@ -14993,7 +16979,9 @@
       "raising"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F64D": {
     "char": "🙍",
@@ -15120,7 +17108,10 @@
       "thx"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas",
+      "body"
+    ]
   },
   "1F680": {
     "char": "🚀",
@@ -15182,7 +17173,9 @@
       "train"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "rain"
+    ]
   },
   "1F685": {
     "char": "🚅",
@@ -15197,7 +17190,10 @@
       "travel"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "rain",
+      "body"
+    ]
   },
   "1F686": {
     "char": "🚆",
@@ -15207,7 +17203,9 @@
       "railway"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "rain"
+    ]
   },
   "1F687": {
     "char": "🚇️",
@@ -15266,7 +17264,9 @@
       "vehicle"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school"
+    ]
   },
   "1F68D": {
     "char": "🚍️",
@@ -15326,7 +17326,9 @@
       "truck"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "forest"
+    ]
   },
   "1F693": {
     "char": "🚓",
@@ -15338,7 +17340,10 @@
       "police"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "winter"
+    ]
   },
   "1F694": {
     "char": "🚔️",
@@ -15348,7 +17353,10 @@
       "police"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "winter"
+    ]
   },
   "1F695": {
     "char": "🚕",
@@ -15361,7 +17369,9 @@
       "yellow"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "yellow"
+    ]
   },
   "1F696": {
     "char": "🚖",
@@ -15376,7 +17386,9 @@
       "yellow"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "yellow"
+    ]
   },
   "1F697": {
     "char": "🚗",
@@ -15413,7 +17425,9 @@
       "vehicle"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "1F69A": {
     "char": "🚚",
@@ -15467,7 +17481,9 @@
       "trip"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "nature"
+    ]
   },
   "1F69F": {
     "char": "🚟",
@@ -15476,7 +17492,9 @@
       "suspension"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school"
+    ]
   },
   "1F6A0": {
     "char": "🚠",
@@ -15489,7 +17507,9 @@
       "ski"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "nature"
+    ]
   },
   "1F6A1": {
     "char": "🚡",
@@ -15532,7 +17552,9 @@
       "rowing"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "blue"
+    ]
   },
   "1F6A3-200D-2640-FE0F": {
     "char": "🚣‍♀️",
@@ -15552,7 +17574,9 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "blue"
+    ]
   },
   "1F6A3-200D-2642-FE0F": {
     "char": "🚣‍♂️",
@@ -15572,7 +17596,9 @@
       "rowing"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "blue"
+    ]
   },
   "1F6A4": {
     "char": "🚤",
@@ -15586,7 +17612,10 @@
       "travel"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "blue"
+    ]
   },
   "1F6A5": {
     "char": "🚥",
@@ -15639,7 +17668,10 @@
       "siren"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "winter"
+    ]
   },
   "1F6A9": {
     "char": "🚩",
@@ -15718,7 +17750,9 @@
       "prohibited"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding"
+    ]
   },
   "1F6B0": {
     "char": "🚰",
@@ -15728,7 +17762,11 @@
       "water"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "work",
+      "blue"
+    ]
   },
   "1F6B1": {
     "char": "🚱",
@@ -15740,7 +17778,11 @@
       "water"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "work",
+      "blue"
+    ]
   },
   "1F6B2": {
     "char": "🚲️",
@@ -15756,7 +17798,9 @@
       "spinning"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school"
+    ]
   },
   "1F6B3": {
     "char": "🚳",
@@ -15786,7 +17830,9 @@
       "sport"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "1F6B4-200D-2640-FE0F": {
     "char": "🚴‍♀️",
@@ -15802,7 +17848,9 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "1F6B4-200D-2642-FE0F": {
     "char": "🚴‍♂️",
@@ -15818,7 +17866,9 @@
       "sport"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "1F6B5": {
     "char": "🚵",
@@ -15835,7 +17885,10 @@
       "sport"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "nature",
+      "sports"
+    ]
   },
   "1F6B5-200D-2640-FE0F": {
     "char": "🚵‍♀️",
@@ -15852,7 +17905,10 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "nature",
+      "sports"
+    ]
   },
   "1F6B5-200D-2642-FE0F": {
     "char": "🚵‍♂️",
@@ -15869,7 +17925,10 @@
       "sport"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "nature",
+      "sports"
+    ]
   },
   "1F6B6": {
     "char": "🚶",
@@ -16079,7 +18138,10 @@
       "wc"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "blue"
+    ]
   },
   "1F6BF": {
     "char": "🚿",
@@ -16087,7 +18149,10 @@
       "water"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "blue"
+    ]
   },
   "1F6C0": {
     "char": "🛀",
@@ -16116,7 +18181,9 @@
       "passport"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "1F6C3": {
     "char": "🛃",
@@ -16183,7 +18250,10 @@
       "zzz"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night",
+      "black"
+    ]
   },
   "1F6CD": {
     "char": "🛍️",
@@ -16204,7 +18274,9 @@
       "hotel"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas"
+    ]
   },
   "1F6CF": {
     "char": "🛏️",
@@ -16289,7 +18361,9 @@
       "rocks"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "nature"
+    ]
   },
   "1F6DC": {
     "char": "🛜",
@@ -16307,7 +18381,10 @@
       "wlan"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work",
+      "tech"
+    ]
   },
   "1F6DD": {
     "char": "🛝",
@@ -16352,7 +18429,9 @@
       "swim"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding"
+    ]
   },
   "1F6E0": {
     "char": "🛠️",
@@ -16502,7 +18581,11 @@
       "toboggan"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "winter",
+      "snow",
+      "white"
+    ]
   },
   "1F6F8": {
     "char": "🛸",
@@ -16562,7 +18645,9 @@
       "sport"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "1F7E0": {
     "char": "🟠",
@@ -16580,7 +18665,9 @@
       "yellow"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "yellow"
+    ]
   },
   "1F7E2": {
     "char": "🟢",
@@ -16589,7 +18676,9 @@
       "green"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "green"
+    ]
   },
   "1F7E3": {
     "char": "🟣",
@@ -16618,7 +18707,9 @@
       "square"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "red"
+    ]
   },
   "1F7E6": {
     "char": "🟦",
@@ -16627,7 +18718,9 @@
       "square"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "blue"
+    ]
   },
   "1F7E7": {
     "char": "🟧",
@@ -16647,7 +18740,9 @@
       "yellow"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "yellow"
+    ]
   },
   "1F7E9": {
     "char": "🟩",
@@ -16656,7 +18751,9 @@
       "square"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "green"
+    ]
   },
   "1F7EA": {
     "char": "🟪",
@@ -16708,7 +18805,9 @@
       "zip"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F90D": {
     "char": "🤍",
@@ -16718,7 +18817,12 @@
       "white"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body",
+      "white"
+    ]
   },
   "1F90E": {
     "char": "🤎",
@@ -16728,7 +18832,11 @@
       "heart"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "1F90F": {
     "char": "🤏",
@@ -16743,7 +18851,9 @@
       "sort"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F910": {
     "char": "🤐",
@@ -16759,7 +18869,9 @@
       "zipper-mouth"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F911": {
     "char": "🤑",
@@ -16771,7 +18883,9 @@
       "paid"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F912": {
     "char": "🤒",
@@ -16827,7 +18941,9 @@
       "ouch"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F916": {
     "char": "🤖",
@@ -16849,7 +18965,10 @@
       "smiling"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school",
+      "body"
+    ]
   },
   "1F918": {
     "char": "🤘",
@@ -16861,7 +18980,9 @@
       "sign"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F919": {
     "char": "🤙",
@@ -16874,7 +18995,9 @@
       "shaka"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F91A": {
     "char": "🤚",
@@ -16885,7 +19008,9 @@
       "raised"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F91B": {
     "char": "🤛",
@@ -16917,7 +19042,9 @@
       "shake"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F91E": {
     "char": "🤞",
@@ -16930,7 +19057,9 @@
       "luck"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F91F": {
     "char": "🤟",
@@ -16945,7 +19074,11 @@
       "you"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "1F920": {
     "char": "🤠",
@@ -16978,7 +19111,9 @@
       "vomit"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "blue"
+    ]
   },
   "1F923": {
     "char": "🤣",
@@ -17001,7 +19136,9 @@
       "tear"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "happy"
+    ]
   },
   "1F924": {
     "char": "🤤",
@@ -17041,7 +19178,9 @@
       "smh"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer"
+    ]
   },
   "1F926-200D-2640-FE0F": {
     "char": "🤦‍♀️",
@@ -17060,7 +19199,9 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer"
+    ]
   },
   "1F926-200D-2642-FE0F": {
     "char": "🤦‍♂️",
@@ -17079,7 +19220,9 @@
       "smh"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer"
+    ]
   },
   "1F927": {
     "char": "🤧",
@@ -17114,7 +19257,9 @@
       "what"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F929": {
     "char": "🤩",
@@ -17129,7 +19274,11 @@
       "wow"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night",
+      "happy",
+      "yellow"
+    ]
   },
   "1F92A": {
     "char": "🤪",
@@ -17144,7 +19293,9 @@
       "zany"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F92B": {
     "char": "🤫",
@@ -17172,7 +19323,9 @@
       "symbols"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F92D": {
     "char": "🤭",
@@ -17191,7 +19344,9 @@
       "whoops"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F92E": {
     "char": "🤮",
@@ -17225,7 +19380,9 @@
       "way"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F930": {
     "char": "🤰",
@@ -17264,7 +19421,9 @@
       "wish"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer"
+    ]
   },
   "1F933": {
     "char": "🤳",
@@ -17273,7 +19432,9 @@
       "phone"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tech"
+    ]
   },
   "1F934": {
     "char": "🤴",
@@ -17288,7 +19449,9 @@
       "tale"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "reading"
+    ]
   },
   "1F935": {
     "char": "🤵",
@@ -17299,7 +19462,9 @@
       "wedding"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding"
+    ]
   },
   "1F935-200D-2640-FE0F": {
     "char": "🤵‍♀️",
@@ -17310,7 +19475,9 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding"
+    ]
   },
   "1F935-200D-2642-FE0F": {
     "char": "🤵‍♂️",
@@ -17322,7 +19489,9 @@
       "wedding"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding"
+    ]
   },
   "1F936": {
     "char": "🤶",
@@ -17341,7 +19510,10 @@
       "xmas"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas",
+      "reading"
+    ]
   },
   "1F937": {
     "char": "🤷",
@@ -17417,7 +19589,9 @@
       "somersault"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "happy"
+    ]
   },
   "1F938-200D-2640-FE0F": {
     "char": "🤸‍♀️",
@@ -17433,7 +19607,9 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "happy"
+    ]
   },
   "1F938-200D-2642-FE0F": {
     "char": "🤸‍♂️",
@@ -17449,7 +19625,9 @@
       "somersault"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "happy"
+    ]
   },
   "1F939": {
     "char": "🤹",
@@ -17526,7 +19704,9 @@
       "wrestling"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding"
+    ]
   },
   "1F93C-200D-2640-FE0F": {
     "char": "🤼‍♀️",
@@ -17541,7 +19721,9 @@
       "wrestling"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding"
+    ]
   },
   "1F93C-200D-2642-FE0F": {
     "char": "🤼‍♂️",
@@ -17556,7 +19738,9 @@
       "wrestling"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding"
+    ]
   },
   "1F93D": {
     "char": "🤽",
@@ -17570,7 +19754,11 @@
       "waterpolo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "sports",
+      "blue"
+    ]
   },
   "1F93D-200D-2640-FE0F": {
     "char": "🤽‍♀️",
@@ -17584,7 +19772,11 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "sports",
+      "blue"
+    ]
   },
   "1F93D-200D-2642-FE0F": {
     "char": "🤽‍♂️",
@@ -17598,7 +19790,11 @@
       "waterpolo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "sports",
+      "blue"
+    ]
   },
   "1F93E": {
     "char": "🤾",
@@ -17618,7 +19814,10 @@
       "toss"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports",
+      "body"
+    ]
   },
   "1F93E-200D-2640-FE0F": {
     "char": "🤾‍♀️",
@@ -17638,7 +19837,10 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports",
+      "body"
+    ]
   },
   "1F93E-200D-2642-FE0F": {
     "char": "🤾‍♂️",
@@ -17658,7 +19860,10 @@
       "toss"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports",
+      "body"
+    ]
   },
   "1F93F": {
     "char": "🤿",
@@ -17679,7 +19884,11 @@
       "wilted"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "garden",
+      "flowers"
+    ]
   },
   "1F941": {
     "char": "🥁",
@@ -17688,7 +19897,9 @@
       "music"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "music"
+    ]
   },
   "1F942": {
     "char": "🥂",
@@ -17745,7 +19956,9 @@
       "place"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "yellow"
+    ]
   },
   "1F948": {
     "char": "🥈",
@@ -17778,7 +19991,10 @@
       "glove"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love"
+    ]
   },
   "1F94B": {
     "char": "🥋",
@@ -17802,7 +20018,9 @@
       "stone"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "1F94D": {
     "char": "🥍",
@@ -17847,7 +20065,10 @@
       "roll"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "morning",
+      "food"
+    ]
   },
   "1F951": {
     "char": "🥑",
@@ -17856,7 +20077,9 @@
       "fruit"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food"
+    ]
   },
   "1F952": {
     "char": "🥒",
@@ -17866,7 +20089,9 @@
       "vegetable"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food"
+    ]
   },
   "1F953": {
     "char": "🥓",
@@ -17876,7 +20101,10 @@
       "meat"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "morning",
+      "food"
+    ]
   },
   "1F954": {
     "char": "🥔",
@@ -17885,7 +20113,9 @@
       "vegetable"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food"
+    ]
   },
   "1F955": {
     "char": "🥕",
@@ -17894,7 +20124,9 @@
       "vegetable"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food"
+    ]
   },
   "1F956": {
     "char": "🥖",
@@ -17905,7 +20137,10 @@
       "french"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food",
+      "reading"
+    ]
   },
   "1F957": {
     "char": "🥗",
@@ -17915,7 +20150,10 @@
       "salad"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food",
+      "green"
+    ]
   },
   "1F958": {
     "char": "🥘",
@@ -17927,7 +20165,9 @@
       "shallow"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food"
+    ]
   },
   "1F959": {
     "char": "🥙",
@@ -17940,7 +20180,10 @@
       "stuffed"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food",
+      "reading"
+    ]
   },
   "1F95A": {
     "char": "🥚",
@@ -17949,7 +20192,13 @@
       "food"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "morning",
+      "easter",
+      "food",
+      "white"
+    ]
   },
   "1F95B": {
     "char": "🥛",
@@ -17959,7 +20208,9 @@
       "milk"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "white"
+    ]
   },
   "1F95C": {
     "char": "🥜",
@@ -17970,7 +20221,9 @@
       "vegetable"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food"
+    ]
   },
   "1F95D": {
     "char": "🥝",
@@ -17980,7 +20233,9 @@
       "kiwi"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food"
+    ]
   },
   "1F95E": {
     "char": "🥞",
@@ -17992,7 +20247,11 @@
       "pancake"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "morning",
+      "birthday",
+      "food"
+    ]
   },
   "1F95F": {
     "char": "🥟",
@@ -18014,7 +20273,9 @@
       "prophecy"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas"
+    ]
   },
   "1F961": {
     "char": "🥡",
@@ -18028,7 +20289,9 @@
       "takeout"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food"
+    ]
   },
   "1F962": {
     "char": "🥢",
@@ -18052,7 +20315,11 @@
       "spoon"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "morning",
+      "christmas",
+      "birds"
+    ]
   },
   "1F964": {
     "char": "🥤",
@@ -18067,7 +20334,11 @@
       "water"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "tea",
+      "blue"
+    ]
   },
   "1F965": {
     "char": "🥥",
@@ -18077,7 +20348,9 @@
       "piña"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer"
+    ]
   },
   "1F966": {
     "char": "🥦",
@@ -18086,7 +20359,9 @@
       "wild"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "green"
+    ]
   },
   "1F967": {
     "char": "🥧",
@@ -18100,7 +20375,10 @@
       "slice"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "halloween",
+      "red"
+    ]
   },
   "1F968": {
     "char": "🥨",
@@ -18123,7 +20401,9 @@
       "steak"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "red"
+    ]
   },
   "1F96A": {
     "char": "🥪",
@@ -18141,7 +20421,9 @@
       "food"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food"
+    ]
   },
   "1F96C": {
     "char": "🥬",
@@ -18157,7 +20439,11 @@
       "salad"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "autumn",
+      "forest",
+      "green"
+    ]
   },
   "1F96D": {
     "char": "🥭",
@@ -18167,7 +20453,9 @@
       "tropical"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food"
+    ]
   },
   "1F96E": {
     "char": "🥮",
@@ -18179,7 +20467,11 @@
       "yuèbǐng"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "autumn",
+      "night",
+      "birthday"
+    ]
   },
   "1F96F": {
     "char": "🥯",
@@ -18190,7 +20482,9 @@
       "schmear"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "morning"
+    ]
   },
   "1F970": {
     "char": "🥰",
@@ -18209,7 +20503,12 @@
       "you"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "happy",
+      "love",
+      "body"
+    ]
   },
   "1F971": {
     "char": "🥱",
@@ -18229,7 +20528,10 @@
       "zzz"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night",
+      "black"
+    ]
   },
   "1F972": {
     "char": "🥲",
@@ -18249,7 +20551,12 @@
       "touched"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tea",
+      "happy",
+      "body",
+      "flex"
+    ]
   },
   "1F973": {
     "char": "🥳",
@@ -18268,7 +20575,10 @@
       "partying"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "birthday",
+      "happy"
+    ]
   },
   "1F974": {
     "char": "🥴",
@@ -18285,7 +20595,9 @@
       "woozy"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F975": {
     "char": "🥵",
@@ -18302,7 +20614,10 @@
       "tongue"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "body"
+    ]
   },
   "1F976": {
     "char": "🥶",
@@ -18318,7 +20633,9 @@
       "teeth"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "blue"
+    ]
   },
   "1F977": {
     "char": "🥷",
@@ -18355,7 +20672,9 @@
       "tash"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F979": {
     "char": "🥹",
@@ -18378,7 +20697,13 @@
       "tears"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tea",
+      "happy",
+      "sad",
+      "body",
+      "flex"
+    ]
   },
   "1F97A": {
     "char": "🥺",
@@ -18397,7 +20722,9 @@
       "why"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sad"
+    ]
   },
   "1F97B": {
     "char": "🥻",
@@ -18422,7 +20749,9 @@
       "white"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "white"
+    ]
   },
   "1F97D": {
     "char": "🥽",
@@ -18435,7 +20764,10 @@
       "welding"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "body"
+    ]
   },
   "1F97E": {
     "char": "🥾",
@@ -18490,7 +20822,10 @@
       "zodiac"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "wildlife"
+    ]
   },
   "1F982": {
     "char": "🦂",
@@ -18500,7 +20835,9 @@
       "zodiac"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "insects"
+    ]
   },
   "1F983": {
     "char": "🦃",
@@ -18510,7 +20847,11 @@
       "thanksgiving"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "birds"
+    ]
   },
   "1F984": {
     "char": "🦄",
@@ -18518,7 +20859,9 @@
       "face"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "yellow"
+    ]
   },
   "1F985": {
     "char": "🦅",
@@ -18528,7 +20871,11 @@
       "ornithology"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "birds"
+    ]
   },
   "1F986": {
     "char": "🦆",
@@ -18538,7 +20885,11 @@
       "ornithology"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "birds"
+    ]
   },
   "1F987": {
     "char": "🦇",
@@ -18547,7 +20898,10 @@
       "vampire"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "halloween",
+      "animals"
+    ]
   },
   "1F988": {
     "char": "🦈",
@@ -18556,7 +20910,10 @@
       "fish"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets"
+    ]
   },
   "1F989": {
     "char": "🦉",
@@ -18567,7 +20924,11 @@
       "wise"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "birds"
+    ]
   },
   "1F98A": {
     "char": "🦊",
@@ -18576,7 +20937,10 @@
       "face"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "wildlife"
+    ]
   },
   "1F98B": {
     "char": "🦋",
@@ -18585,7 +20949,11 @@
       "pretty"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "animals",
+      "insects"
+    ]
   },
   "1F98C": {
     "char": "🦌",
@@ -18593,7 +20961,10 @@
       "animal"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "wildlife"
+    ]
   },
   "1F98D": {
     "char": "🦍",
@@ -18601,7 +20972,9 @@
       "animal"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F98E": {
     "char": "🦎",
@@ -18610,7 +20983,9 @@
       "reptile"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F98F": {
     "char": "🦏",
@@ -18618,7 +20993,9 @@
       "animal"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F990": {
     "char": "🦐",
@@ -18628,7 +21005,10 @@
       "small"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "halloween",
+      "food"
+    ]
   },
   "1F991": {
     "char": "🦑",
@@ -18638,7 +21018,10 @@
       "mollusk"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "food"
+    ]
   },
   "1F992": {
     "char": "🦒",
@@ -18647,7 +21030,10 @@
       "spots"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "wildlife"
+    ]
   },
   "1F993": {
     "char": "🦓",
@@ -18656,7 +21042,10 @@
       "stripe"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "wildlife"
+    ]
   },
   "1F994": {
     "char": "🦔",
@@ -18665,7 +21054,9 @@
       "spiny"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F995": {
     "char": "🦕",
@@ -18700,7 +21091,10 @@
       "orthoptera"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "insects"
+    ]
   },
   "1F998": {
     "char": "🦘",
@@ -18711,7 +21105,9 @@
       "marsupial"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F999": {
     "char": "🦙",
@@ -18723,7 +21119,9 @@
       "wool"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F99A": {
     "char": "🦚",
@@ -18738,7 +21136,12 @@
       "proud"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "birds",
+      "flex"
+    ]
   },
   "1F99B": {
     "char": "🦛",
@@ -18747,7 +21150,9 @@
       "hippo"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F99C": {
     "char": "🦜",
@@ -18759,7 +21164,11 @@
       "talk"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "birds"
+    ]
   },
   "1F99D": {
     "char": "🦝",
@@ -18769,7 +21178,10 @@
       "sly"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "wildlife"
+    ]
   },
   "1F99E": {
     "char": "🦞",
@@ -18780,7 +21192,9 @@
       "seafood"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F99F": {
     "char": "🦟",
@@ -18794,7 +21208,9 @@
       "virus"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F9A0": {
     "char": "🦠",
@@ -18815,7 +21231,9 @@
       "pester"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F9A2": {
     "char": "🦢",
@@ -18828,7 +21246,12 @@
       "ugly"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "animals",
+      "pets",
+      "birds"
+    ]
   },
   "1F9A3": {
     "char": "🦣",
@@ -18840,7 +21263,9 @@
       "wooly"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F9A4": {
     "char": "🦤",
@@ -18852,7 +21277,11 @@
       "ornithology"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "birds"
+    ]
   },
   "1F9A5": {
     "char": "🦥",
@@ -18871,7 +21300,9 @@
       "playful"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F9A7": {
     "char": "🦧",
@@ -18881,7 +21312,9 @@
       "monkey"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F9A8": {
     "char": "🦨",
@@ -18890,7 +21323,9 @@
       "stink"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F9A9": {
     "char": "🦩",
@@ -18902,7 +21337,12 @@
       "tropical"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "birds",
+      "pink"
+    ]
   },
   "1F9AA": {
     "char": "🦪",
@@ -18921,7 +21361,9 @@
       "teeth"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F9AC": {
     "char": "🦬",
@@ -18932,7 +21374,9 @@
       "wisent"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F9AD": {
     "char": "🦭",
@@ -18943,7 +21387,11 @@
       "sea"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "wildlife",
+      "blue"
+    ]
   },
   "1F9AE": {
     "char": "🦮",
@@ -18955,7 +21403,10 @@
       "guide"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets"
+    ]
   },
   "1F9AF": {
     "char": "🦯",
@@ -18967,7 +21418,9 @@
       "white"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "white"
+    ]
   },
   "1F9B0": {
     "char": "🦰",
@@ -18978,7 +21431,9 @@
       "redhead"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "red"
+    ]
   },
   "1F9B1": {
     "char": "🦱",
@@ -19012,7 +21467,9 @@
       "white"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "white"
+    ]
   },
   "1F9B4": {
     "char": "🦴",
@@ -19023,7 +21480,11 @@
       "wishbone"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "halloween",
+      "pets",
+      "body"
+    ]
   },
   "1F9B5": {
     "char": "🦵",
@@ -19035,7 +21496,9 @@
       "limb"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F9B6": {
     "char": "🦶",
@@ -19046,7 +21509,9 @@
       "stomp"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F9B7": {
     "char": "🦷",
@@ -19057,7 +21522,10 @@
       "white"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body",
+      "white"
+    ]
   },
   "1F9B8": {
     "char": "🦸",
@@ -19154,7 +21622,10 @@
       "hearing"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding",
+      "body"
+    ]
   },
   "1F9BC": {
     "char": "🦼",
@@ -19205,7 +21676,9 @@
       "wedge"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "white"
+    ]
   },
   "1F9C1": {
     "char": "🧁",
@@ -19218,7 +21691,11 @@
       "treat"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "birthday",
+      "sweets",
+      "tea"
+    ]
   },
   "1F9C2": {
     "char": "🧂",
@@ -19244,7 +21721,9 @@
       "sweet"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sweets"
+    ]
   },
   "1F9C4": {
     "char": "🧄",
@@ -19279,7 +21758,9 @@
       "iron"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "morning"
+    ]
   },
   "1F9C8": {
     "char": "🧈",
@@ -19305,7 +21786,10 @@
       "iceberg"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "winter"
+    ]
   },
   "1F9CB": {
     "char": "🧋",
@@ -19318,7 +21802,11 @@
       "tea"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food",
+      "tea",
+      "white"
+    ]
   },
   "1F9CC": {
     "char": "🧌",
@@ -19330,7 +21818,9 @@
       "trolling"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "reading"
+    ]
   },
   "1F9CD": {
     "char": "🧍",
@@ -19445,7 +21935,9 @@
       "person"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F9CF-200D-2640-FE0F": {
     "char": "🧏‍♀️",
@@ -19458,7 +21950,9 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F9CF-200D-2642-FE0F": {
     "char": "🧏‍♂️",
@@ -19471,7 +21965,9 @@
       "man"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F9D0": {
     "char": "🧐",
@@ -19542,7 +22038,10 @@
       "xmas"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas",
+      "reading"
+    ]
   },
   "1F9D1-200D-1F393": {
     "char": "🧑‍🎓",
@@ -19550,7 +22049,9 @@
       "graduate"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school"
+    ]
   },
   "1F9D1-200D-1F3A4": {
     "char": "🧑‍🎤",
@@ -19562,7 +22063,11 @@
       "star"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night",
+      "music",
+      "yellow"
+    ]
   },
   "1F9D1-200D-1F3A8": {
     "char": "🧑‍🎨",
@@ -19580,7 +22085,10 @@
       "professor"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tea",
+      "school"
+    ]
   },
   "1F9D1-200D-1F3ED": {
     "char": "🧑‍🏭",
@@ -19591,7 +22099,9 @@
       "worker"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work"
+    ]
   },
   "1F9D1-200D-1F4BB": {
     "char": "🧑‍💻",
@@ -19603,7 +22113,10 @@
       "software"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work",
+      "tech"
+    ]
   },
   "1F9D1-200D-1F4BC": {
     "char": "🧑‍💼",
@@ -19616,7 +22129,11 @@
       "worker"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "winter",
+      "work"
+    ]
   },
   "1F9D1-200D-1F527": {
     "char": "🧑‍🔧",
@@ -19656,7 +22173,9 @@
       "firetruck"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "forest"
+    ]
   },
   "1F9D1-200D-1F91D-200D-1F9D1": {
     "char": "🧑‍🤝‍🧑",
@@ -19674,7 +22193,9 @@
       "twins"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F9D1-200D-1F9AF": {
     "char": "🧑‍🦯",
@@ -19687,7 +22208,9 @@
       "white"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "white"
+    ]
   },
   "1F9D1-200D-1F9AF-200D-27A1-FE0F": {
     "char": "🧑‍🦯‍➡️",
@@ -19702,7 +22225,9 @@
       "white"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "white"
+    ]
   },
   "1F9D1-200D-1F9B0": {
     "char": "🧑‍🦰",
@@ -19712,7 +22237,9 @@
       "red hair"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "red"
+    ]
   },
   "1F9D1-200D-1F9B1": {
     "char": "🧑‍🦱",
@@ -19742,7 +22269,9 @@
       "white hair"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "white"
+    ]
   },
   "1F9D1-200D-1F9BC": {
     "char": "🧑‍🦼",
@@ -19852,7 +22381,9 @@
       "worker"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work"
+    ]
   },
   "1F9D1-200D-2696-FE0F": {
     "char": "🧑‍⚖️",
@@ -19906,7 +22437,10 @@
       "whiskers"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wildlife",
+      "body"
+    ]
   },
   "1F9D4-200D-2640-FE0F": {
     "char": "🧔‍♀️",
@@ -19917,7 +22451,10 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wildlife",
+      "body"
+    ]
   },
   "1F9D4-200D-2642-FE0F": {
     "char": "🧔‍♂️",
@@ -19928,7 +22465,10 @@
       "whiskers"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wildlife",
+      "body"
+    ]
   },
   "1F9D5": {
     "char": "🧕",
@@ -19943,7 +22483,9 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1F9D6": {
     "char": "🧖",
@@ -19961,7 +22503,9 @@
       "unwind"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tea"
+    ]
   },
   "1F9D6-200D-2640-FE0F": {
     "char": "🧖‍♀️",
@@ -19979,7 +22523,9 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tea"
+    ]
   },
   "1F9D6-200D-2642-FE0F": {
     "char": "🧖‍♂️",
@@ -19997,7 +22543,9 @@
       "unwind"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tea"
+    ]
   },
   "1F9D7": {
     "char": "🧗",
@@ -20012,7 +22560,9 @@
       "up"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "nature"
+    ]
   },
   "1F9D7-200D-2640-FE0F": {
     "char": "🧗‍♀️",
@@ -20027,7 +22577,9 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "nature"
+    ]
   },
   "1F9D7-200D-2642-FE0F": {
     "char": "🧗‍♂️",
@@ -20042,7 +22594,9 @@
       "up"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "nature"
+    ]
   },
   "1F9D8": {
     "char": "🧘",
@@ -20062,7 +22616,9 @@
       "zen"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "1F9D8-200D-2640-FE0F": {
     "char": "🧘‍♀️",
@@ -20082,7 +22638,9 @@
       "zen"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "1F9D8-200D-2642-FE0F": {
     "char": "🧘‍♂️",
@@ -20102,7 +22660,9 @@
       "zen"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "1F9D9": {
     "char": "🧙",
@@ -20119,7 +22679,9 @@
       "wizard"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "halloween"
+    ]
   },
   "1F9D9-200D-2640-FE0F": {
     "char": "🧙‍♀️",
@@ -20138,7 +22700,9 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "halloween"
+    ]
   },
   "1F9D9-200D-2642-FE0F": {
     "char": "🧙‍♂️",
@@ -20157,7 +22721,9 @@
       "wizard"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "halloween"
+    ]
   },
   "1F9DA": {
     "char": "🧚",
@@ -20171,7 +22737,9 @@
       "wings"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "reading"
+    ]
   },
   "1F9DA-200D-2640-FE0F": {
     "char": "🧚‍♀️",
@@ -20188,7 +22756,9 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "reading"
+    ]
   },
   "1F9DA-200D-2642-FE0F": {
     "char": "🧚‍♂️",
@@ -20206,7 +22776,9 @@
       "wings"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "reading"
+    ]
   },
   "1F9DB": {
     "char": "🧛",
@@ -20221,7 +22793,9 @@
       "undead"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "halloween"
+    ]
   },
   "1F9DB-200D-2640-FE0F": {
     "char": "🧛‍♀️",
@@ -20237,7 +22811,9 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "halloween"
+    ]
   },
   "1F9DB-200D-2642-FE0F": {
     "char": "🧛‍♂️",
@@ -20253,7 +22829,9 @@
       "vampire"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "halloween"
+    ]
   },
   "1F9DC": {
     "char": "🧜",
@@ -20267,7 +22845,10 @@
       "trident"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "blue"
+    ]
   },
   "1F9DC-200D-2640-FE0F": {
     "char": "🧜‍♀️",
@@ -20282,7 +22863,10 @@
       "trident"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "blue"
+    ]
   },
   "1F9DC-200D-2642-FE0F": {
     "char": "🧜‍♂️",
@@ -20299,7 +22883,10 @@
       "triton"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "blue"
+    ]
   },
   "1F9DD": {
     "char": "🧝",
@@ -20405,7 +22992,9 @@
       "walking"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "halloween"
+    ]
   },
   "1F9DF-200D-2640-FE0F": {
     "char": "🧟‍♀️",
@@ -20421,7 +23010,9 @@
       "zombie"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "halloween"
+    ]
   },
   "1F9DF-200D-2642-FE0F": {
     "char": "🧟‍♂️",
@@ -20437,7 +23028,9 @@
       "zombie"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "halloween"
+    ]
   },
   "1F9E0": {
     "char": "🧠",
@@ -20446,7 +23039,10 @@
       "smart"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "rain",
+      "body"
+    ]
   },
   "1F9E1": {
     "char": "🧡",
@@ -20456,7 +23052,11 @@
       "orange"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "1F9E2": {
     "char": "🧢",
@@ -20488,7 +23088,11 @@
       "hand"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "1F9E5": {
     "char": "🧥",
@@ -20508,7 +23112,9 @@
       "stocking"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas"
+    ]
   },
   "1F9E7": {
     "char": "🧧",
@@ -20524,7 +23130,12 @@
       "see"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas",
+      "valentines day",
+      "birthday",
+      "red"
+    ]
   },
   "1F9E8": {
     "char": "🧨",
@@ -20539,7 +23150,9 @@
       "spark"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "forest"
+    ]
   },
   "1F9E9": {
     "char": "🧩",
@@ -20579,7 +23192,9 @@
       "petri"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food"
+    ]
   },
   "1F9EC": {
     "char": "🧬",
@@ -20602,7 +23217,9 @@
       "orienteering"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school"
+    ]
   },
   "1F9EE": {
     "char": "🧮",
@@ -20622,7 +23239,9 @@
       "quench"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "forest"
+    ]
   },
   "1F9F0": {
     "char": "🧰",
@@ -20634,7 +23253,9 @@
       "tool"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "red"
+    ]
   },
   "1F9F1": {
     "char": "🧱",
@@ -20694,7 +23315,9 @@
       "string"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "reading"
+    ]
   },
   "1F9F6": {
     "char": "🧶",
@@ -20729,7 +23352,10 @@
       "toy"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wildlife",
+      "body"
+    ]
   },
   "1F9F9": {
     "char": "🧹",
@@ -20739,7 +23365,9 @@
       "witch"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "halloween"
+    ]
   },
   "1F9FA": {
     "char": "🧺",
@@ -20810,7 +23438,9 @@
       "talisman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "blue"
+    ]
   },
   "1FA70": {
     "char": "🩰",
@@ -20871,7 +23501,9 @@
       "zōri"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer"
+    ]
   },
   "1FA75": {
     "char": "🩵",
@@ -20891,7 +23523,12 @@
       "teal"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body",
+      "blue"
+    ]
   },
   "1FA76": {
     "char": "🩶",
@@ -20908,7 +23545,11 @@
       "special"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "1FA77": {
     "char": "🩷",
@@ -20926,7 +23567,13 @@
       "sweet"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "sweets",
+      "love",
+      "body",
+      "pink"
+    ]
   },
   "1FA78": {
     "char": "🩸",
@@ -20940,7 +23587,9 @@
       "menstruation"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "rain"
+    ]
   },
   "1FA79": {
     "char": "🩹",
@@ -20959,7 +23608,11 @@
       "medicine"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "1FA7B": {
     "char": "🩻",
@@ -20972,7 +23625,11 @@
       "xray"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sun",
+      "halloween",
+      "body"
+    ]
   },
   "1FA7C": {
     "char": "🩼",
@@ -21037,7 +23694,9 @@
       "wizard"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "halloween"
+    ]
   },
   "1FA85": {
     "char": "🪅",
@@ -21054,7 +23713,11 @@
       "pinata"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas",
+      "birthday",
+      "sweets"
+    ]
   },
   "1FA86": {
     "char": "🪆",
@@ -21069,7 +23732,9 @@
       "russia"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "easter"
+    ]
   },
   "1FA87": {
     "char": "🪇",
@@ -21085,7 +23750,10 @@
       "shaker"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "birthday",
+      "music"
+    ]
   },
   "1FA88": {
     "char": "🪈",
@@ -21103,7 +23771,9 @@
       "woodwind"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "music"
+    ]
   },
   "1FA89": {
     "char": "🪉",
@@ -21115,7 +23785,11 @@
       "orchestra"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "music"
+    ]
   },
   "1FA8A": {
     "char": "🪊",
@@ -21128,7 +23802,11 @@
       "slide"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sad",
+      "music",
+      "body"
+    ]
   },
   "1FA8E": {
     "char": "🪎",
@@ -21144,7 +23822,9 @@
       "wealth"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "yellow"
+    ]
   },
   "1FA8F": {
     "char": "🪏",
@@ -21159,7 +23839,14 @@
       "spade"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "winter",
+      "snow",
+      "nature",
+      "garden",
+      "white"
+    ]
   },
   "1FA90": {
     "char": "🪐",
@@ -21170,7 +23857,9 @@
       "saturnine"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding"
+    ]
   },
   "1FA91": {
     "char": "🪑",
@@ -21220,7 +23909,9 @@
       "stringed"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "music"
+    ]
   },
   "1FA96": {
     "char": "🪖",
@@ -21246,7 +23937,9 @@
       "squeezebox"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "music"
+    ]
   },
   "1FA98": {
     "char": "🪘",
@@ -21259,7 +23952,9 @@
       "rhythm"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "music"
+    ]
   },
   "1FA99": {
     "char": "🪙",
@@ -21274,7 +23969,9 @@
       "treasure"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "yellow"
+    ]
   },
   "1FA9A": {
     "char": "🪚",
@@ -21288,7 +23985,9 @@
       "trim"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school"
+    ]
   },
   "1FA9B": {
     "char": "🪛",
@@ -21346,7 +24045,9 @@
       "view"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wind"
+    ]
   },
   "1FAA0": {
     "char": "🪠",
@@ -21359,7 +24060,10 @@
       "toilet"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tea",
+      "body"
+    ]
   },
   "1FAA1": {
     "char": "🪡",
@@ -21411,7 +24115,10 @@
       "trap"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tech",
+      "white"
+    ]
   },
   "1FAA5": {
     "char": "🪥",
@@ -21425,7 +24132,9 @@
       "toiletry"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1FAA6": {
     "char": "🪦",
@@ -21440,7 +24149,9 @@
       "tombstone"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1FAA7": {
     "char": "🪧",
@@ -21479,7 +24190,9 @@
       "party"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "birthday"
+    ]
   },
   "1FAAA": {
     "char": "🪪",
@@ -21493,7 +24206,10 @@
       "security"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "pets",
+      "black"
+    ]
   },
   "1FAAB": {
     "char": "🪫",
@@ -21506,7 +24222,9 @@
       "power"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tech"
+    ]
   },
   "1FAAC": {
     "char": "🪬",
@@ -21523,7 +24241,10 @@
       "protection"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "body"
+    ]
   },
   "1FAAD": {
     "char": "🪭",
@@ -21542,7 +24263,9 @@
       "shy"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1FAAE": {
     "char": "🪮",
@@ -21554,7 +24277,9 @@
       "pick"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wedding"
+    ]
   },
   "1FAAF": {
     "char": "🪯",
@@ -21568,7 +24293,9 @@
       "tegh"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1FAB0": {
     "char": "🪰",
@@ -21581,7 +24308,9 @@
       "rotting"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1FAB1": {
     "char": "🪱",
@@ -21592,7 +24321,9 @@
       "parasite"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1FAB2": {
     "char": "🪲",
@@ -21602,7 +24333,11 @@
       "insect"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "animals",
+      "insects"
+    ]
   },
   "1FAB3": {
     "char": "🪳",
@@ -21613,7 +24348,9 @@
       "roach"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1FAB4": {
     "char": "🪴",
@@ -21627,7 +24364,11 @@
       "potted"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "nature",
+      "garden"
+    ]
   },
   "1FAB5": {
     "char": "🪵",
@@ -21648,7 +24389,11 @@
       "plumage"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "birds"
+    ]
   },
   "1FAB7": {
     "char": "🪷",
@@ -21663,7 +24408,11 @@
       "serenity"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "garden",
+      "flowers"
+    ]
   },
   "1FAB8": {
     "char": "🪸",
@@ -21675,7 +24424,9 @@
       "sea"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "blue"
+    ]
   },
   "1FAB9": {
     "char": "🪹",
@@ -21687,7 +24438,9 @@
       "nesting"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "easter"
+    ]
   },
   "1FABA": {
     "char": "🪺",
@@ -21700,7 +24453,14 @@
       "nesting"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "easter",
+      "animals",
+      "pets",
+      "birds",
+      "white"
+    ]
   },
   "1FABB": {
     "char": "🪻",
@@ -21720,7 +24480,12 @@
       "violet"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring",
+      "nature",
+      "garden",
+      "flowers"
+    ]
   },
   "1FABC": {
     "char": "🪼",
@@ -21741,7 +24506,11 @@
       "tentacles"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "blue"
+    ]
   },
   "1FABD": {
     "char": "🪽",
@@ -21757,7 +24526,11 @@
       "soar"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "birds"
+    ]
   },
   "1FABE": {
     "char": "🪾",
@@ -21774,7 +24547,15 @@
       "wood"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "autumn",
+      "winter",
+      "christmas",
+      "nature",
+      "garden",
+      "forest",
+      "green"
+    ]
   },
   "1FABF": {
     "char": "🪿",
@@ -21792,7 +24573,11 @@
       "silly"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "pets",
+      "birds"
+    ]
   },
   "1FAC0": {
     "char": "🫀",
@@ -21808,7 +24593,12 @@
       "red"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body",
+      "red"
+    ]
   },
   "1FAC1": {
     "char": "🫁",
@@ -21822,7 +24612,9 @@
       "respiration"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1FAC2": {
     "char": "🫂",
@@ -21840,7 +24632,10 @@
       "thanks"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love"
+    ]
   },
   "1FAC3": {
     "char": "🫃",
@@ -21881,7 +24676,10 @@
       "royalty"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "birds",
+      "black"
+    ]
   },
   "1FAC6": {
     "char": "🫆",
@@ -21897,7 +24695,9 @@
       "trace"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1FAC8": {
     "char": "🫈",
@@ -21912,7 +24712,11 @@
       "yeti"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals",
+      "nature",
+      "forest"
+    ]
   },
   "1FACD": {
     "char": "🫍",
@@ -21922,7 +24726,9 @@
       "whale"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "blue"
+    ]
   },
   "1FACE": {
     "char": "🫎",
@@ -21934,7 +24740,9 @@
       "mammal"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1FACF": {
     "char": "🫏",
@@ -21948,7 +24756,9 @@
       "stubborn"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1FAD0": {
     "char": "🫐",
@@ -21962,7 +24772,10 @@
       "fruit"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food",
+      "blue"
+    ]
   },
   "1FAD1": {
     "char": "🫑",
@@ -21974,7 +24787,12 @@
       "vegetable"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas",
+      "food",
+      "red",
+      "green"
+    ]
   },
   "1FAD2": {
     "char": "🫒",
@@ -21982,7 +24800,9 @@
       "food"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food"
+    ]
   },
   "1FAD3": {
     "char": "🫓",
@@ -21996,7 +24816,10 @@
       "pita"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food",
+      "reading"
+    ]
   },
   "1FAD4": {
     "char": "🫔",
@@ -22007,7 +24830,9 @@
       "wrapped"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food"
+    ]
   },
   "1FAD5": {
     "char": "🫕",
@@ -22020,7 +24845,10 @@
       "ski"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food",
+      "white"
+    ]
   },
   "1FAD6": {
     "char": "🫖",
@@ -22032,7 +24860,10 @@
       "tea"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food",
+      "tea"
+    ]
   },
   "1FAD7": {
     "char": "🫗",
@@ -22049,7 +24880,11 @@
       "water"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "wedding",
+      "blue"
+    ]
   },
   "1FAD8": {
     "char": "🫘",
@@ -22060,7 +24895,9 @@
       "small"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "food"
+    ]
   },
   "1FAD9": {
     "char": "🫙",
@@ -22087,7 +24924,9 @@
       "spice"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "nature"
+    ]
   },
   "1FADB": {
     "char": "🫛",
@@ -22119,7 +24958,12 @@
       "vegetarian"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "garden",
+      "food",
+      "work",
+      "green"
+    ]
   },
   "1FADF": {
     "char": "🫟",
@@ -22134,7 +24978,9 @@
       "stain"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "coffee"
+    ]
   },
   "1FAE0": {
     "char": "🫠",
@@ -22154,7 +25000,9 @@
       "sarcastic"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer"
+    ]
   },
   "1FAE1": {
     "char": "🫡",
@@ -22195,7 +25043,10 @@
       "surprise"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school",
+      "body"
+    ]
   },
   "1FAE3": {
     "char": "🫣",
@@ -22214,7 +25065,9 @@
       "stare"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1FAE4": {
     "char": "🫤",
@@ -22236,7 +25089,9 @@
       "wtv"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1FAE5": {
     "char": "🫥",
@@ -22276,7 +25131,9 @@
       "worry"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day"
+    ]
   },
   "1FAE7": {
     "char": "🫧",
@@ -22326,7 +25183,9 @@
       "weary"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1FAEA": {
     "char": "🫪",
@@ -22353,7 +25212,11 @@
       "wrestle"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "rain",
+      "clouds",
+      "white"
+    ]
   },
   "1FAF0": {
     "char": "🫰",
@@ -22371,7 +25234,11 @@
       "thumb"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "1FAF1": {
     "char": "🫱",
@@ -22386,7 +25253,9 @@
       "shake"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1FAF2": {
     "char": "🫲",
@@ -22401,7 +25270,9 @@
       "shake"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1FAF3": {
     "char": "🫳",
@@ -22417,7 +25288,11 @@
       "up"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "rain",
+      "body"
+    ]
   },
   "1FAF4": {
     "char": "🫴",
@@ -22435,7 +25310,10 @@
       "tell"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "body"
+    ]
   },
   "1FAF5": {
     "char": "🫵",
@@ -22450,7 +25328,9 @@
       "you"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1FAF6": {
     "char": "🫶",
@@ -22462,7 +25342,11 @@
       "you"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "1FAF7": {
     "char": "🫷",
@@ -22484,7 +25368,9 @@
       "wait"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "1FAF8": {
     "char": "🫸",
@@ -22506,7 +25392,9 @@
       "wait"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "203C": {
     "char": "‼️",
@@ -22551,7 +25439,9 @@
       "time"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "231B": {
     "char": "⌛️",
@@ -22676,7 +25566,9 @@
       "waiting"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "23F1": {
     "char": "⏱️",
@@ -22685,7 +25577,9 @@
       "time"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "23F2": {
     "char": "⏲️",
@@ -22694,7 +25588,9 @@
       "timer"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "new year"
+    ]
   },
   "23F3": {
     "char": "⏳️",
@@ -22763,7 +25659,9 @@
       "square"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "black"
+    ]
   },
   "25AB": {
     "char": "▫️",
@@ -22774,7 +25672,9 @@
       "white"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "white"
+    ]
   },
   "25B6": {
     "char": "▶️",
@@ -22809,7 +25709,9 @@
       "white"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "white"
+    ]
   },
   "25FC": {
     "char": "◼️",
@@ -22820,7 +25722,9 @@
       "square"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "black"
+    ]
   },
   "25FD": {
     "char": "◽️",
@@ -22831,7 +25735,9 @@
       "white"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "white"
+    ]
   },
   "25FE": {
     "char": "◾️",
@@ -22842,7 +25748,9 @@
       "square"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "black"
+    ]
   },
   "260E": {
     "char": "☎️",
@@ -22850,7 +25758,9 @@
       "phone"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tech"
+    ]
   },
   "261D": {
     "char": "☝️",
@@ -22864,7 +25774,9 @@
       "up"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "262A": {
     "char": "☪️",
@@ -22877,7 +25789,10 @@
       "star"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night",
+      "yellow"
+    ]
   },
   "262E": {
     "char": "☮️",
@@ -22917,7 +25832,9 @@
       "smiling"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "happy"
+    ]
   },
   "264A": {
     "char": "♊️",
@@ -22950,7 +25867,9 @@
       "zodiac"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "wildlife"
+    ]
   },
   "264D": {
     "char": "♍️",
@@ -22985,7 +25904,9 @@
       "zodiac"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "insects"
+    ]
   },
   "265F": {
     "char": "♟️",
@@ -23070,7 +25991,9 @@
       "zap"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "storm"
+    ]
   },
   "26A7": {
     "char": "⚧️",
@@ -23089,7 +26012,9 @@
       "white"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "white"
+    ]
   },
   "26AB": {
     "char": "⚫️",
@@ -23099,7 +26024,9 @@
       "geometric"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "black"
+    ]
   },
   "26B0": {
     "char": "⚰️",
@@ -23109,7 +26036,9 @@
       "vampire"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "halloween"
+    ]
   },
   "26B1": {
     "char": "⚱️",
@@ -23132,7 +26061,9 @@
       "sport"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "26BE": {
     "char": "⚾️",
@@ -23141,7 +26072,9 @@
       "sport"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "26C4": {
     "char": "⛄️",
@@ -23152,7 +26085,12 @@
       "snowman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "winter",
+      "snow",
+      "christmas",
+      "white"
+    ]
   },
   "26C5": {
     "char": "⛅️",
@@ -23164,7 +26102,14 @@
       "weather"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "rain",
+      "sun",
+      "clouds",
+      "yellow",
+      "white"
+    ]
   },
   "26C8": {
     "char": "⛈️",
@@ -23176,7 +26121,12 @@
       "thunderstorm"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "rain",
+      "clouds",
+      "storm",
+      "white"
+    ]
   },
   "26CE": {
     "char": "⛎️",
@@ -23212,7 +26162,9 @@
       "worker’s"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "work"
+    ]
   },
   "26D3": {
     "char": "⛓️",
@@ -23279,7 +26231,9 @@
       "mountain"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "nature"
+    ]
   },
   "26F1": {
     "char": "⛱️",
@@ -23290,7 +26244,12 @@
       "umbrella"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "rain",
+      "sun",
+      "yellow"
+    ]
   },
   "26F2": {
     "char": "⛲️",
@@ -23309,7 +26268,9 @@
       "sport"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "26F4": {
     "char": "⛴️",
@@ -23330,7 +26291,9 @@
       "yacht"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "blue"
+    ]
   },
   "26F7": {
     "char": "⛷️",
@@ -23339,7 +26302,12 @@
       "snow"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "winter",
+      "snow",
+      "sports",
+      "white"
+    ]
   },
   "26F8": {
     "char": "⛸️",
@@ -23349,7 +26317,10 @@
       "skating"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "summer",
+      "winter"
+    ]
   },
   "26F9": {
     "char": "⛹️",
@@ -23366,7 +26337,9 @@
       "throw"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "26F9-FE0F-200D-2640-FE0F": {
     "char": "⛹️‍♀️",
@@ -23383,7 +26356,9 @@
       "woman"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "26F9-FE0F-200D-2642-FE0F": {
     "char": "⛹️‍♂️",
@@ -23400,7 +26375,9 @@
       "throw"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "sports"
+    ]
   },
   "26FA": {
     "char": "⛺️",
@@ -23435,7 +26412,9 @@
       "solidarity"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "270B": {
     "char": "✋️",
@@ -23448,7 +26427,9 @@
       "stop"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "270C": {
     "char": "✌️",
@@ -23459,7 +26440,9 @@
       "victory"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "270D": {
     "char": "✍️",
@@ -23469,7 +26452,9 @@
       "writing"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "body"
+    ]
   },
   "270F": {
     "char": "✏️",
@@ -23477,7 +26462,9 @@
       "pencil"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "school"
+    ]
   },
   "271D": {
     "char": "✝️",
@@ -23531,7 +26518,12 @@
       "sacred"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "forest",
+      "love",
+      "body"
+    ]
   },
   "2764-FE0F-200D-1FA79": {
     "char": "❤️‍🩹",
@@ -23545,7 +26537,11 @@
       "well"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "valentines day",
+      "love",
+      "body"
+    ]
   },
   "27A1": {
     "char": "➡️",
@@ -23625,7 +26621,9 @@
       "square"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "black"
+    ]
   },
   "2B1C": {
     "char": "⬜️",
@@ -23636,7 +26634,9 @@
       "white"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "white"
+    ]
   },
   "2B50": {
     "char": "⭐️",
@@ -23647,7 +26647,11 @@
       "white"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "night",
+      "yellow",
+      "white"
+    ]
   },
   "2B55": {
     "char": "⭕️",
@@ -23660,7 +26664,9 @@
       "red"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "red"
+    ]
   },
   "303D": {
     "char": "〽️",
@@ -23671,5 +26677,239 @@
     ],
     "synonyms": [],
     "themes": []
+  },
+  "1F1E6": {
+    "char": "",
+    "name": [],
+    "synonyms": [],
+    "themes": [
+      "pets",
+      "black"
+    ]
+  },
+  "1F1E7": {
+    "char": "",
+    "name": [],
+    "synonyms": [],
+    "themes": [
+      "pets",
+      "black"
+    ]
+  },
+  "1F1E8": {
+    "char": "",
+    "name": [],
+    "synonyms": [],
+    "themes": [
+      "pets",
+      "black"
+    ]
+  },
+  "1F1E9": {
+    "char": "",
+    "name": [],
+    "synonyms": [],
+    "themes": [
+      "pets",
+      "black"
+    ]
+  },
+  "1F1EA": {
+    "char": "",
+    "name": [],
+    "synonyms": [],
+    "themes": [
+      "pets",
+      "black"
+    ]
+  },
+  "1F1EB": {
+    "char": "",
+    "name": [],
+    "synonyms": [],
+    "themes": [
+      "pets",
+      "black"
+    ]
+  },
+  "1F1EC": {
+    "char": "",
+    "name": [],
+    "synonyms": [],
+    "themes": [
+      "pets",
+      "black"
+    ]
+  },
+  "1F1ED": {
+    "char": "",
+    "name": [],
+    "synonyms": [],
+    "themes": [
+      "pets",
+      "black"
+    ]
+  },
+  "1F1EE": {
+    "char": "",
+    "name": [],
+    "synonyms": [],
+    "themes": [
+      "pets",
+      "black"
+    ]
+  },
+  "1F1EF": {
+    "char": "",
+    "name": [],
+    "synonyms": [],
+    "themes": [
+      "pets",
+      "black"
+    ]
+  },
+  "1F1F0": {
+    "char": "",
+    "name": [],
+    "synonyms": [],
+    "themes": [
+      "pets",
+      "black"
+    ]
+  },
+  "1F1F1": {
+    "char": "",
+    "name": [],
+    "synonyms": [],
+    "themes": [
+      "pets",
+      "black"
+    ]
+  },
+  "1F1F2": {
+    "char": "",
+    "name": [],
+    "synonyms": [],
+    "themes": [
+      "pets",
+      "black"
+    ]
+  },
+  "1F1F3": {
+    "char": "",
+    "name": [],
+    "synonyms": [],
+    "themes": [
+      "pets",
+      "black"
+    ]
+  },
+  "1F1F4": {
+    "char": "",
+    "name": [],
+    "synonyms": [],
+    "themes": [
+      "pets",
+      "black"
+    ]
+  },
+  "1F1F5": {
+    "char": "",
+    "name": [],
+    "synonyms": [],
+    "themes": [
+      "pets",
+      "black"
+    ]
+  },
+  "1F1F6": {
+    "char": "",
+    "name": [],
+    "synonyms": [],
+    "themes": [
+      "pets",
+      "black"
+    ]
+  },
+  "1F1F7": {
+    "char": "",
+    "name": [],
+    "synonyms": [],
+    "themes": [
+      "pets",
+      "black"
+    ]
+  },
+  "1F1F8": {
+    "char": "",
+    "name": [],
+    "synonyms": [],
+    "themes": [
+      "pets",
+      "black"
+    ]
+  },
+  "1F1F9": {
+    "char": "",
+    "name": [],
+    "synonyms": [],
+    "themes": [
+      "pets",
+      "black"
+    ]
+  },
+  "1F1FA": {
+    "char": "",
+    "name": [],
+    "synonyms": [],
+    "themes": [
+      "pets",
+      "black"
+    ]
+  },
+  "1F1FB": {
+    "char": "",
+    "name": [],
+    "synonyms": [],
+    "themes": [
+      "pets",
+      "black"
+    ]
+  },
+  "1F1FC": {
+    "char": "",
+    "name": [],
+    "synonyms": [],
+    "themes": [
+      "pets",
+      "black"
+    ]
+  },
+  "1F1FD": {
+    "char": "",
+    "name": [],
+    "synonyms": [],
+    "themes": [
+      "pets",
+      "black"
+    ]
+  },
+  "1F1FE": {
+    "char": "",
+    "name": [],
+    "synonyms": [],
+    "themes": [
+      "pets",
+      "black"
+    ]
+  },
+  "1F1FF": {
+    "char": "",
+    "name": [],
+    "synonyms": [],
+    "themes": [
+      "pets",
+      "black"
+    ]
   }
 }
