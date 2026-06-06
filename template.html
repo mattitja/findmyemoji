@@ -81,18 +81,19 @@
             if (!recents.length) return;
 
             row.innerHTML = '';
-            const frag = document.createDocumentFragment();
+            const emojiWrap = document.createElement('div');
+            emojiWrap.id = 'recents-emojis';
             for (const char of recents) {
                 const span = document.createElement('span');
                 span.textContent = char;
                 span.className = 'emoji-item';
-                frag.appendChild(span);
+                emojiWrap.appendChild(span);
             }
             const btn = document.createElement('button');
             btn.id = 'recents-clear';
             btn.textContent = STRINGS.clearHistory;
-            frag.appendChild(btn);
-            row.appendChild(frag);
+            row.appendChild(emojiWrap);
+            row.appendChild(btn);
         }
 
         function buildEmojiSpan(e) {
@@ -161,8 +162,8 @@
         function updateWordmarkShift() {
             const slot = document.getElementById('top-slot');
             const inner = document.getElementById('wordmark-inner');
-            // shift needed to move centered text to right-aligned (1rem from right edge)
-            const shift = (slot.offsetWidth - inner.offsetWidth) / 2 - 16;
+            // shift to push wordmark completely off the right edge of the slot
+            const shift = (slot.offsetWidth + inner.offsetWidth) / 2 + 32;
             slot.style.setProperty('--wm-shift', `${shift}px`);
         }
 
@@ -320,7 +321,7 @@
             letter-spacing: -0.03em;
             color: #111;
             user-select: none;
-            transition: transform 0.5s cubic-bezier(0.34, 1.15, 0.64, 1), opacity 0.4s ease;
+            transition: transform 0.5s cubic-bezier(0.34, 1.15, 0.64, 1);
         }
         #wordmark-tld {
             color: #bbb;
@@ -332,7 +333,6 @@
         }
         #top-slot.has-history #wordmark-inner {
             transform: translateX(var(--wm-shift, 0px));
-            opacity: 0.45;
         }
 
         #recents-wrap {
@@ -351,8 +351,17 @@
             flex-wrap: nowrap;
             gap: 0.15rem;
             align-items: center;
-            overflow: hidden;
             width: 100%;
+            min-width: 0;
+        }
+        #recents-emojis {
+            display: flex;
+            flex-wrap: nowrap;
+            gap: 0.15rem;
+            align-items: center;
+            overflow: hidden;
+            flex: 1;
+            min-width: 0;
         }
         #recents-clear {
             font-size: 0.72rem;
