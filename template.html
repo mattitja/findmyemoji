@@ -177,6 +177,9 @@
                 updateResults();
             });
             window.addEventListener('resize', updateWordmarkShift);
+            window.addEventListener('scroll', () => {
+                document.getElementById('sticky-header').classList.toggle('scrolled', window.scrollY > 0);
+            }, { passive: true });
             document.fonts.ready.then(updateWordmarkShift);
 
             document.getElementById("results").addEventListener("click", e => {
@@ -238,6 +241,11 @@
             height: 1.5rem;
             background: linear-gradient(to bottom, var(--bg), transparent);
             pointer-events: none;
+            opacity: 0;
+            transition: opacity 0.2s ease;
+        }
+        #sticky-header.scrolled::after {
+            opacity: 1;
         }
 
         #search-header {
