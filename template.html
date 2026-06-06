@@ -380,6 +380,17 @@
             transform: translateX(0);
             pointer-events: auto;
         }
+        #recents-label {
+            font-size: 0.62rem;
+            color: #ccc;
+            letter-spacing: 0.06em;
+            text-transform: uppercase;
+            white-space: nowrap;
+            flex-shrink: 0;
+            margin-right: 0.5rem;
+            user-select: none;
+        }
+
         #recents {
             display: flex;
             flex-wrap: nowrap;
@@ -463,6 +474,7 @@
     <div id="top-slot">
         <div id="wordmark"><span id="wordmark-inner">emojis<span id="wordmark-tld">.coffee</span><span id="wordmark-icon">☕</span></span></div>
         <div id="recents-wrap">
+            <span id="recents-label">{{RECENTS_LABEL}}</span>
             <div id="recents"></div>
         </div>
     </div>
