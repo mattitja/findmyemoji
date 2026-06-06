@@ -90,8 +90,11 @@
             const btn = document.createElement('button');
             btn.id = 'recents-clear';
             btn.setAttribute('aria-label', STRINGS.clearHistory);
-            btn.textContent = '✕';
+            btn.innerHTML = `<span class="clear-x">✕</span><span class="clear-text">${STRINGS.clearHistory}</span>`;
             row.appendChild(btn);
+            requestAnimationFrame(() => {
+                btn.classList.toggle('full', row.scrollWidth > row.clientWidth);
+            });
         }
 
         function buildEmojiSpan(e) {
@@ -380,17 +383,6 @@
             transform: translateX(0);
             pointer-events: auto;
         }
-        #recents-label {
-            font-size: 0.62rem;
-            color: #ccc;
-            letter-spacing: 0.06em;
-            text-transform: uppercase;
-            white-space: nowrap;
-            flex-shrink: 0;
-            margin-right: 0.5rem;
-            user-select: none;
-        }
-
         #recents {
             display: flex;
             flex-wrap: nowrap;
@@ -407,16 +399,30 @@
             position: sticky;
             right: 0;
             flex-shrink: 0;
-            font-size: 0.72rem;
+            display: flex;
+            align-items: center;
+            gap: 0.25rem;
             color: #ccc;
-            background: var(--bg);
+            background: linear-gradient(to right, transparent, var(--bg) 28%);
             border: none;
             cursor: pointer;
-            padding: 0.3rem 0.5rem 0.3rem 0.75rem;
+            padding: 0.3rem 0.5rem 0.3rem 1rem;
             line-height: 1;
             white-space: nowrap;
         }
         #recents-clear:hover { color: #999; }
+        .clear-x { font-size: 0.72rem; }
+        .clear-text {
+            font-size: 0.6rem;
+            letter-spacing: 0.04em;
+            text-transform: uppercase;
+        }
+        #recents-clear.full {
+            padding-left: 1.75rem;
+            gap: 0.35rem;
+        }
+        #recents-clear.full .clear-x { font-size: 0.82rem; }
+        #recents-clear.full .clear-text { font-size: 0.68rem; }
 
         #toast {
             position: fixed;
@@ -474,7 +480,6 @@
     <div id="top-slot">
         <div id="wordmark"><span id="wordmark-inner">emojis<span id="wordmark-tld">.coffee</span><span id="wordmark-icon">☕</span></span></div>
         <div id="recents-wrap">
-            <span id="recents-label">{{RECENTS_LABEL}}</span>
             <div id="recents"></div>
         </div>
     </div>

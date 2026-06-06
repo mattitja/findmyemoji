@@ -24,7 +24,6 @@ const LOCALES = {
             countSingular: 'result for',
             countPlural: 'results for',
             placeholder: 'e.g. smiley, cat, Fahrrad, Affe, rofl, :D...',
-            recentsLabel: 'Favourites',
         },
         subpage: {
             titleSuffix: 'Emoji — Copy & Meaning | emojis.coffee',
@@ -52,7 +51,6 @@ const LOCALES = {
             countSingular: 'Ergebnis für',
             countPlural: 'Ergebnisse für',
             placeholder: 'z.B. Smiley, Katze, bicycle, monkey, rofl, :D...',
-            recentsLabel: 'Favoriten',
         },
         subpage: {
             titleSuffix: 'Emoji — Kopieren & Bedeutung | emojis.coffee',
@@ -155,7 +153,6 @@ function renderMainPage(locale) {
         .replace('{{OG_LOCALE}}', locale.ogLocale)
         .replace('{{OG_URL}}', locale.canonical)
         .replace('{{PLACEHOLDER}}', locale.strings.placeholder)
-        .replace('{{RECENTS_LABEL}}', locale.strings.recentsLabel)
         .replace('{{LANG_SWITCH_HREF}}', locale.switchHref)
         .replace('{{LANG_SWITCH_LABEL}}', locale.switchLabel)
         .replace('/* EMOJI_DATA */', dataScript)
