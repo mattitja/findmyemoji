@@ -1,51 +1,57 @@
 # whatsmoji.com
 
-Instant-Emoji-Suche für den deutsch/englischsprachigen Raum. Kein Login, keine Werbung, kein Framework. Eine HTML-Datei.
+Instant-Emoji-Suche für den deutsch/englischsprachigen Raum. Kein Login, keine Werbung, kein Framework.
 
 **Kern-Versprechen:** Tippe ein Wort → Emoji erscheint → Klick → kopiert. Unter 2 Sekunden, immer.
 
 ## Architektur
 
 ```
-generate.mjs   Baut index.html aus template.html + emojibase-data (de + en, gemergt nach Hexcode)
-template.html  Quellcode — hier werden Änderungen gemacht
-index.html     Generierte Ausgabe — nie direkt bearbeiten
+template.html        Haupt-App (EN + DE via Platzhalter)
+emoji-template.html  Emoji-Subpages (SEO, ~3800 Seiten)
+generate.mjs         Baut dist/ aus Templates + emojibase-data
+seed-keywords.mjs    Befüllt keywords/{en,de}.json einmalig aus emojibase-Tags
+keywords/en.json     Keyword-Liste EN (editierbar, nie überschrieben)
+keywords/de.json     Keyword-Liste DE (editierbar, nie überschrieben)
+dist/                Generierter Output — nie direkt bearbeiten (gitignored)
 ```
 
 ```bash
-npm run generate   # index.html neu bauen
+npm run seed-keywords   # keywords/{en,de}.json initial befüllen (einmalig)
+npm run generate        # dist/ neu bauen
+npx serve dist          # lokal testen
 ```
 
-**Stack:** Vanilla JS, Tailwind CDN, kein Build-Tool. Alle Logik inline in template.html.
+**Deploy:** GitHub Actions → baut bei jedem Push → GitHub Pages.
 
-**Daten:** emojibase `de/data.json` + `en/data.json` → deduplizierter Keyword-Pool pro Emoji. 1900+ Emojis. Scoring: Exakt-Match 100 Pkt, startsWith 50, includes 10.
+**Stack:** Vanilla JS, kein Framework, kein Build-Tool. Alle Logik inline in den Templates.
+
+**Daten:** emojibase `de/data.json` + `en/data.json` + `keywords/{en,de}.json` → bilingualer Keyword-Pool pro Emoji. 1900+ Emojis. Scoring: Exakt-Match 100 Pkt, startsWith 50, includes 10.
+
+**Output:** `/` + `/de/` (Hauptseiten), `/emoji/<slug>/` + `/de/emoji/<slug>/` (~3800 Subpages), `sitemap.xml`, `robots.txt`, `CNAME`.
 
 ## Features (implementiert)
 
 - Instant-Suche mit Scoring-Ranking, kein Submit nötig
-- Bilinguale Keywords (DE + EN gleichwertig)
-- 1-Klick kopieren mit visuellem Feedback + "copied" Toast
+- Bilinguale Keywords (DE + EN gleichwertig, locale-first)
+- 1-Klick kopieren mit visuellem Feedback + Toast
 - Sticky Header, kein Layout-Shift, kein Scrollbar-Jank
-- Wordmark "whatsmoji.com" über der Suchleiste — verschwindet wenn History vorhanden, gleiche Höhe → Suchleiste springt nie
+- Wordmark über der Suchleiste — weicht zurück wenn History vorhanden
+- SEO: Meta-Tags, hreflang, OG, JSON-LD, Sitemap, Emoji-Subpages
+- PWA: manifest.json + Service Worker (offline, on-demand caching)
 
 ## Roadmap (Priorität absteigend)
 
 | Feature | Beschreibung |
 |---|---|
-| ~~Umlaut-Normalisierung~~ | ✅ "mude" → "müde", "ae/oe/ue" → Umlaute, pre-normalisierter Cache |
-| ~~Zuletzt benutzt~~ | ✅ Letzte ~12 Emojis via localStorage, bei leerem Suchfeld sichtbar |
-| ~~PWA~~ | ✅ manifest.json + Service Worker → installierbar, offline (icons noch ausstehend) |
+| ~~Umlaut-Normalisierung~~ | ✅ "mude" → "müde", pre-normalisierter Cache |
+| ~~Zuletzt benutzt~~ | ✅ Letzte ~12 Emojis via localStorage |
+| ~~PWA~~ | ✅ manifest.json + Service Worker |
+| ~~SEO / Subpages~~ | ✅ ~3800 Emoji-Subpages, Sitemap, hreflang |
+| `og-image.png` + `favicon.ico` | Statische Assets noch ausstehend |
 | Tippfehlertoleranz | Fuzzy Matching, damit 0-Treffer so gut wie nie vorkommt |
 | Keyboard-Navigation | Pfeiltasten + Enter + Escape |
 | 0-Treffer-Feedback | Vorschläge statt leere Seite |
-| Skin Tone Picker | Hautfarbe für Handgesten-Emojis |
-
-## User Journeys
-
-1. **Ziel-Emoji:** Öffnen → tippen → klicken → fertig
-2. **Vibe-Emoji:** Stimmung eintippen ("müde", "aufgeregt") → browsen → klicken
-3. **Wiederkehrend:** Letzte 12 kopierten Emojis erscheinen bei leerem Suchfeld
-4. **Kein Treffer:** *(blocked on: Tippfehlertoleranz + 0-Treffer-Feedback)*
 
 ## Prinzipien
 
