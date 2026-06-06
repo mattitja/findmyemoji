@@ -286,6 +286,14 @@
             box-shadow: 0 0 0 3px rgba(167,139,250,0.15), 0 1px 3px rgba(0,0,0,0.06);
         }
         #search::placeholder { color: #bbb; }
+        /* drop the native type=search clear button — we ship our own */
+        #search::-webkit-search-decoration,
+        #search::-webkit-search-cancel-button,
+        #search::-webkit-search-results-button,
+        #search::-webkit-search-results-decoration {
+            -webkit-appearance: none;
+            appearance: none;
+        }
         #search-clear {
             position: absolute;
             right: 0;
@@ -519,7 +527,8 @@
             <div id="search-wrap">
                 <input
                     id="search"
-                    type="text"
+                    type="search"
+                    name="q"
                     placeholder="{{PLACEHOLDER}}"
                     autofocus
                     autocomplete="off"
@@ -527,6 +536,7 @@
                     autocapitalize="none"
                     spellcheck="false"
                     inputmode="search"
+                    enterkeyhint="search"
                 />
                 <button id="search-clear" aria-label="clear search">✕</button>
             </div>
