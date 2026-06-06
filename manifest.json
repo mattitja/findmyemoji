@@ -1,6 +1,6 @@
 {
-  "name": "whatsmoji",
-  "short_name": "whatsmoji",
+  "name": "emojis.coffee",
+  "short_name": "emojis.coffee",
   "description": "Instant emoji search in German and English",
   "start_url": "/",
   "display": "standalone",

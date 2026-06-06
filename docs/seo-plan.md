@@ -1,4 +1,4 @@
-# SEO-Plan whatsmoji.com
+# SEO-Plan emojis.coffee
 
 Eine Domain, Subdirectory-Split: `/` = EN, `/de/` = DE. Ein Repo, ein Deploy, ein CNAME.
 
@@ -12,7 +12,7 @@ dist/
     de/emoji/<slug>/index.html      → /de/emoji/<slug>/      (×~1900)
     sitemap.xml
     robots.txt
-    CNAME                           "whatsmoji.com"
+    CNAME                           "emojis.coffee"
     manifest.json, sw.js
     favicon.ico, og-image.png, icon-192.png, icon-512.png
 ```
@@ -32,8 +32,8 @@ dist/
 - JSON-LD `WebApplication` (top-level, schlank: `name`, `url`, `description`, `inLanguage`)
 
 **Titles:**
-- EN: `Whatsmoji — Instant Emoji Search & Copy (No Ads, No Tracking)`
-- DE: `Whatsmoji — Sofort-Emoji-Suche & Kopieren (werbefrei)`
+- EN: `emojis.coffee — Instant Emoji Search & Copy (No Ads, No Tracking)`
+- DE: `emojis.coffee — Sofort-Emoji-Suche & Kopieren (werbefrei)`
 
 **Descriptions:**
 - EN: `Find any emoji in 2 seconds. Type a word, click to copy. 1900+ emojis, no ads, no signup, works offline.`
@@ -115,8 +115,8 @@ const kwDe = JSON.parse(readFileSync('keywords/de.json', 'utf-8'));
 - hreflang Cross-Link zur anderen Sprach-Variante
 
 **Title:**
-- EN: `🤡 Clown Face Emoji — Copy & Meaning | Whatsmoji`
-- DE: `🤡 Clown-Gesicht Emoji — Kopieren & Bedeutung | Whatsmoji`
+- EN: `🤡 Clown Face Emoji — Copy & Meaning | emojis.coffee`
+- DE: `🤡 Clown-Gesicht Emoji — Kopieren & Bedeutung | emojis.coffee`
 
 **Generator:**
 ```js
@@ -176,7 +176,7 @@ for (const locale of Object.values(LOCALES)) {
 
 ## Später (out-of-scope)
 
-- `whatsmoji.de` registrieren + 301 auf `/de/`
+- `emojis.coffee/de` als primäre DE-URL etablieren
 - GitHub Action für Auto-Deploy nach `dist/`
 - SW-Cache-Eviction-Strategie
 - Search-Console anbinden, Keyword-Files datengetrieben erweitern

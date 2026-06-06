@@ -1,4 +1,4 @@
-# whatsmoji.com
+# emojis.coffee
 
 Instant-Emoji-Suche für den deutsch/englischsprachigen Raum. Kein Login, keine Werbung, kein Framework.
 

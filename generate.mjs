@@ -5,14 +5,14 @@ const require = createRequire(import.meta.url);
 const deData = require('emojibase-data/de/data.json');
 const enData = require('emojibase-data/en/data.json');
 
-const BASE_URL = 'https://whatsmoji.com';
+const BASE_URL = 'https://emojis.coffee';
 
 const LOCALES = {
     en: {
         lang: 'en',
         outDir: 'dist',
         canonical: `${BASE_URL}/`,
-        title: 'Whatsmoji — Instant Emoji Search & Copy (No Ads, No Tracking)',
+        title: 'emojis.coffee — Instant Emoji Search & Copy (No Ads, No Tracking)',
         description: 'Find any emoji in 2 seconds. Type a word, click to copy. 1900+ emojis, no ads, no signup, works offline.',
         ogLocale: 'en_US',
         switchHref: '/de/',
@@ -26,7 +26,7 @@ const LOCALES = {
             placeholder: 'e.g. smiley, cat, Fahrrad, Affe, rofl, :D...',
         },
         subpage: {
-            titleSuffix: 'Emoji — Copy & Meaning | Whatsmoji',
+            titleSuffix: 'Emoji — Copy & Meaning | emojis.coffee',
             h1Suffix: 'Emoji',
             meaning: (label) => `${label} is an emoji used to express emotions, ideas, or objects visually in digital communication.`,
             backLabel: '← All emojis',
@@ -39,7 +39,7 @@ const LOCALES = {
         lang: 'de',
         outDir: 'dist/de',
         canonical: `${BASE_URL}/de/`,
-        title: 'Whatsmoji — Sofort-Emoji-Suche & Kopieren (werbefrei)',
+        title: 'emojis.coffee — Sofort-Emoji-Suche & Kopieren (werbefrei)',
         description: 'Jedes Emoji in 2 Sekunden finden. Wort tippen, Klick zum Kopieren. 1900+ Emojis, werbefrei, ohne Anmeldung, offline.',
         ogLocale: 'de_DE',
         switchHref: '/',
@@ -53,7 +53,7 @@ const LOCALES = {
             placeholder: 'z.B. Smiley, Katze, bicycle, monkey, rofl, :D...',
         },
         subpage: {
-            titleSuffix: 'Emoji — Kopieren & Bedeutung | Whatsmoji',
+            titleSuffix: 'Emoji — Kopieren & Bedeutung | emojis.coffee',
             h1Suffix: 'Emoji',
             meaning: (label) => `${label} ist ein Emoji, das in der digitalen Kommunikation genutzt wird, um Gefühle, Ideen oder Objekte visuell auszudrücken.`,
             backLabel: '← Alle Emojis',
@@ -190,7 +190,7 @@ function renderEmojiPage(emoji, locale) {
 
     const codepoint = 'U+' + emoji.hexcode.split('-').map(p => p.toUpperCase()).join(' U+');
     const titleName = `${emoji.char} ${label}`;
-    const emojiDesc = `${label} emoji — ${locale.lang === 'de' ? 'Bedeutung, Keywords und verwandte Emojis' : 'meaning, keywords and related emojis'} | Whatsmoji`;
+    const emojiDesc = `${label} emoji — ${locale.lang === 'de' ? 'Bedeutung, Keywords und verwandte Emojis' : 'meaning, keywords and related emojis'} | emojis.coffee`;
 
     return tpl
         .replace(/\{\{LANG\}\}/g, locale.lang)
@@ -264,7 +264,7 @@ const sitemap = [
 writeFileSync('dist/sitemap.xml', sitemap);
 
 // ── CNAME ──
-writeFileSync('dist/CNAME', 'whatsmoji.com\n');
+writeFileSync('dist/CNAME', 'emojis.coffee\n');
 
 // ── Static assets ──
 for (const asset of ['manifest.json', 'sw.js', 'icon-192.png', 'icon-512.png', 'favicon.ico', 'og-image.png']) {
