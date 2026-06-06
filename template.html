@@ -185,7 +185,7 @@
             });
 
             document.getElementById("recents").addEventListener("click", e => {
-                if (e.target.id === 'recents-clear') {
+                if (e.target.closest('#recents-clear')) {
                     localStorage.removeItem(RECENTS_KEY);
                     renderRecents();
                     return;
