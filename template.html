@@ -201,7 +201,10 @@
             --header-bg: #faf9f6;
         }
 
-        html { overflow-y: scroll; } /* prevents layout shift from scrollbar appearing */
+        html {
+            overflow-x: clip;       /* prevent horizontal scroll without breaking sticky */
+            scrollbar-gutter: stable; /* reserve scrollbar space symmetrically */
+        }
 
         body {
             background: var(--bg);
@@ -231,6 +234,7 @@
         /* search input */
         #search-wrap {
             position: relative;
+            width: 100%;
         }
         #search {
             width: 100%;
