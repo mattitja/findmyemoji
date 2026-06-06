@@ -229,7 +229,13 @@
       "wahlurne",
       "✓"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "natur"
     ]
@@ -296,7 +302,12 @@
       "tot",
       "totenkopf"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": [
       "halloween",
       "körper"
@@ -513,7 +524,10 @@
       "herz",
       "kartenspiel"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi"
+    ],
     "themes": [
       "valentinstag",
       "liebe",
@@ -644,7 +658,13 @@
       "erledigt",
       "weißes häkchen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -696,7 +716,13 @@
       "häkchen",
       "kräftiges häkchen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": []
   },
   "2716": {
@@ -709,7 +735,11 @@
       "x",
       "×"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kotzen",
+      "speien",
+      "auskotzen"
+    ],
     "themes": []
   },
   "2721": {
@@ -734,7 +764,12 @@
       "funkelnde sterne",
       "sterne"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fancy",
+      "extra",
+      "sparkle",
+      "blingbling"
+    ],
     "themes": [
       "nacht",
       "gelb"
@@ -797,7 +832,12 @@
       "grün",
       "quadrat"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fancy",
+      "extra",
+      "sparkle",
+      "blingbling"
+    ],
     "themes": [
       "grün"
     ]
@@ -882,7 +922,10 @@
       "herz als ausrufezeichen",
       "satzzeichen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -900,7 +943,10 @@
       "herz",
       "rotes herz"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi"
+    ],
     "themes": [
       "valentinstag",
       "liebe",
@@ -997,7 +1043,13 @@
       "japanisches schriftzeichen",
       "schriftzeichen für „gratulation“"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -1013,7 +1065,13 @@
       "japanisches schriftzeichen",
       "schriftzeichen für „geheimnis“"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -1179,7 +1237,16 @@
       "jokerkarte",
       "spielkarte"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": []
   },
   "1F170": {
@@ -1349,7 +1416,16 @@
       "taste",
       "tastenkappe"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "schule",
       "lesen",
@@ -1770,7 +1846,16 @@
       "cc",
       "flagge"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": []
   },
   "1F1E8-1F1E9": {
@@ -1828,7 +1913,16 @@
       "ck",
       "flagge"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": []
   },
   "1F1E8-1F1F1": {
@@ -2504,7 +2598,13 @@
       "jm",
       "flagge"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": []
   },
   "1F1EF-1F1F4": {
@@ -2522,7 +2622,13 @@
       "jp",
       "flagge"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": []
   },
   "1F1F0-1F1EA": {
@@ -2733,7 +2839,16 @@
       "ma",
       "flagge"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": []
   },
   "1F1F2-1F1E8": {
@@ -3315,7 +3430,13 @@
       "sj",
       "flagge"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "natur"
     ]
@@ -3501,7 +3622,16 @@
       "tk",
       "flagge"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": []
   },
   "1F1F9-1F1F1": {
@@ -3807,7 +3937,16 @@
       "schriftzeichen „koko“",
       "„koko“"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -3822,7 +3961,13 @@
       "schriftzeichen „sa“",
       "„sa“"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -3839,7 +3984,13 @@
       "schriftzeichen für „verhandlung“",
       "verhandlung"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -3856,7 +4007,13 @@
       "schriftzeichen für „finger“",
       "schriftzeichen für „reserviert“"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -3873,7 +4030,13 @@
       "schriftzeichen für „verbieten“",
       "verbieten"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -3891,7 +4054,13 @@
       "schriftzeichen für „zimmer frei“",
       "zimmer frei"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -3910,7 +4079,13 @@
       "schriftzeichen für „zusammen“",
       "zusammen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -3932,7 +4107,13 @@
       "schriftzeichen für „fülle“",
       "schriftzeichen für „kein zimmer frei“"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -3950,7 +4131,13 @@
       "schriftzeichen",
       "taste"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -3968,7 +4155,13 @@
       "schriftzeichen",
       "taste"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "frühling",
       "nacht",
@@ -3985,7 +4178,13 @@
       "japanisches schriftzeichen",
       "schriftzeichen für „anwenden“"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -4002,7 +4201,13 @@
       "schriftzeichen für „teilen“",
       "teilen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -4020,7 +4225,13 @@
       "schriftzeichen für „betrieb“",
       "schriftzeichen für „geöffnet“"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -4037,7 +4248,13 @@
       "schriftzeichen für „vorteil“",
       "vorteil"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -4052,7 +4269,13 @@
       "japanisch",
       "schriftzeichen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -4494,7 +4717,12 @@
       "glitzern",
       "stern"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fancy",
+      "extra",
+      "sparkle",
+      "blingbling"
+    ],
     "themes": [
       "nacht",
       "gelb"
@@ -4682,7 +4910,13 @@
       "wurst",
       "würstchen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "wurst",
+      "würstchen",
+      "wienerle",
+      "frankfurter",
+      "leberwurst"
+    ],
     "themes": [
       "essen"
     ]
@@ -4777,7 +5011,16 @@
       "strand",
       "tropen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "frühling",
       "sommer",
@@ -5109,7 +5352,10 @@
       "aubergine",
       "gemüse"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "schwanz",
+      "glied"
+    ],
     "themes": [
       "natur"
     ]
@@ -5270,7 +5516,13 @@
       "obst",
       "pfirsich"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "po",
+      "arsch",
+      "hintern",
+      "popo",
+      "steißbein"
+    ],
     "themes": [
       "rosa"
     ]
@@ -5376,7 +5628,13 @@
       "reis",
       "reisbällchen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "frühling",
       "sommer",
@@ -5455,7 +5713,16 @@
       "weizen",
       "weißbrot"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "brötchen",
+      "semmel",
+      "schrippe",
+      "weckle",
+      "wecken",
+      "rundstück",
+      "bier",
+      "halbe"
+    ],
     "themes": [
       "essen",
       "rot"
@@ -5493,7 +5760,13 @@
       "mochi-kugeln auf einem spieß",
       "restaurant"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": []
   },
   "1F362": {
@@ -5503,7 +5776,13 @@
       "oden",
       "restaurant"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": []
   },
   "1F363": {
@@ -5513,7 +5792,13 @@
       "restaurant",
       "sushi"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": []
   },
   "1F364": {
@@ -5613,7 +5898,16 @@
       "keks",
       "plätchen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "weihnachten"
     ]
@@ -5626,7 +5920,16 @@
       "schokoladentafel",
       "süßigkeit"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "essen",
       "schule"
@@ -5665,7 +5968,16 @@
       "schokolade",
       "soße"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": []
   },
   "1F36F": {
@@ -5702,7 +6014,13 @@
       "japanisches essen",
       "sushi"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": []
   },
   "1F372": {
@@ -5840,7 +6158,16 @@
       "prost",
       "weizenbier"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "bier",
+      "halbe",
+      "maß",
+      "kaltes",
+      "pils",
+      "hellen",
+      "fettes lob",
+      "passt"
+    ],
     "themes": []
   },
   "1F37B": {
@@ -5854,7 +6181,16 @@
       "prost",
       "weizen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "bier",
+      "halbe",
+      "maß",
+      "kaltes",
+      "pils",
+      "hellen",
+      "fettes lob",
+      "passt"
+    ],
     "themes": []
   },
   "1F37C": {
@@ -6031,7 +6367,14 @@
       "feuerwerk",
       "silvester"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "feuer",
+      "krass",
+      "fett",
+      "geil",
+      "stark",
+      "hot"
+    ],
     "themes": [
       "weihnachten",
       "neujahr"
@@ -6045,7 +6388,14 @@
       "party",
       "wunderkerze"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "feuer",
+      "krass",
+      "fett",
+      "geil",
+      "stark",
+      "hot"
+    ],
     "themes": [
       "weihnachten",
       "neujahr"
@@ -6105,7 +6455,13 @@
       "tanabata-baum",
       "zettel"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "natur",
       "garten",
@@ -6120,7 +6476,13 @@
       "japanische flaggen",
       "überkreuzte flaggen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": []
   },
   "1F38D": {
@@ -6130,7 +6492,13 @@
       "neujahrsfest",
       "piniendekoration"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": []
   },
   "1F38E": {
@@ -6139,7 +6507,13 @@
       "japanische puppen",
       "puppenfest japan"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": []
   },
   "1F38F": {
@@ -6150,7 +6524,13 @@
       "traditionelle japanische windsäcke",
       "windsäcke"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "wind",
       "geburtstag"
@@ -6165,7 +6545,13 @@
       "japanisches windspiel",
       "wind"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "wind",
       "weihnachten",
@@ -6181,7 +6567,13 @@
       "mondfest",
       "traditionelles mondfest"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "nacht"
     ]
@@ -6207,7 +6599,16 @@
       "diplom",
       "doktorhut"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": []
   },
   "1F396": {
@@ -6349,7 +6750,16 @@
       "singen",
       "unterhaltung"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": []
   },
   "1F3A5": {
@@ -6385,7 +6795,12 @@
       "musik",
       "unterhaltung"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": [
       "musik",
       "körper"
@@ -6413,7 +6828,12 @@
       "zylinder",
       "zylinderhut"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": []
   },
   "1F3AA": {
@@ -6552,7 +6972,13 @@
       "japanische blumenkarte",
       "karte"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "frühling",
       "garten",
@@ -6945,7 +7371,16 @@
       "sport",
       "trophäe"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "sport"
     ]
@@ -7009,7 +7444,12 @@
       "triathlon",
       "wasser"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "scheiße",
+      "kacke",
+      "kacken",
+      "popo"
+    ],
     "themes": [
       "sommer",
       "sport",
@@ -7027,7 +7467,12 @@
       "schwimmerin",
       "sport"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "scheiße",
+      "kacke",
+      "kacken",
+      "popo"
+    ],
     "themes": [
       "sommer",
       "sport"
@@ -7042,7 +7487,12 @@
       "schwimmen",
       "schwimmer"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "scheiße",
+      "kacke",
+      "kacken",
+      "popo"
+    ],
     "themes": [
       "sommer",
       "sport"
@@ -7427,7 +7877,13 @@
       "japanisches postgebäude",
       "post"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": []
   },
   "1F3E4": {
@@ -7510,7 +7966,12 @@
       "lebensmittel",
       "minimarkt"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "deal",
+      "abgemacht",
+      "geschäft",
+      "einigung"
+    ],
     "themes": [
       "essen",
       "arbeit"
@@ -7537,7 +7998,12 @@
       "kaufhaus",
       "shoppen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "deal",
+      "abgemacht",
+      "geschäft",
+      "einigung"
+    ],
     "themes": [
       "arbeit"
     ]
@@ -7560,7 +8026,16 @@
       "japanisches lokal",
       "rote papierlaterne"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "rot"
     ]
@@ -7575,7 +8050,13 @@
       "japanisches schloss",
       "schloss"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": []
   },
   "1F3F0": {
@@ -7902,7 +8383,11 @@
       "tier",
       "zoo"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "mieze",
+      "miezekatze",
+      "stubentiger"
+    ],
     "themes": [
       "tiere",
       "wildtiere"
@@ -7918,7 +8403,12 @@
       "nagetier",
       "tier"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "häschen",
+      "hasi",
+      "häsle",
+      "möhre"
+    ],
     "themes": [
       "ostern",
       "tiere",
@@ -7933,7 +8423,11 @@
       "miau",
       "tier"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "mieze",
+      "miezekatze",
+      "stubentiger"
+    ],
     "themes": [
       "tiere",
       "haustiere",
@@ -7953,7 +8447,11 @@
       "tier",
       "unglück"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "mieze",
+      "miezekatze",
+      "stubentiger"
+    ],
     "themes": [
       "tiere",
       "haustiere",
@@ -7968,7 +8466,13 @@
       "märchen",
       "tier"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "tiere",
       "lesen"
@@ -7982,7 +8486,16 @@
       "schnappi",
       "tier"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "tiere"
     ]
@@ -8048,7 +8561,10 @@
       "tierkreis",
       "widder"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "lamm",
+      "wollkopf"
+    ],
     "themes": []
   },
   "1F410": {
@@ -8075,7 +8591,10 @@
       "widder",
       "wolle"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "lamm",
+      "wollkopf"
+    ],
     "themes": [
       "tiere"
     ]
@@ -8112,7 +8631,12 @@
       "tier",
       "tierkopf"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": [
       "tiere",
       "vögel"
@@ -8127,7 +8651,12 @@
       "wau",
       "wuff"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "hundi",
+      "wauwau",
+      "fellnase",
+      "dackel"
+    ],
     "themes": [
       "tiere",
       "haustiere"
@@ -8143,7 +8672,12 @@
       "hund",
       "tier"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "hundi",
+      "wauwau",
+      "fellnase",
+      "dackel"
+    ],
     "themes": [
       "tiere",
       "haustiere"
@@ -8203,7 +8737,16 @@
       "tier",
       "tintenfisch"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "tiere",
       "blau"
@@ -8267,7 +8810,13 @@
       "summ",
       "tier"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "frühling",
       "tiere",
@@ -8378,7 +8927,12 @@
       "kükenkopf",
       "tier"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": [
       "tiere"
     ]
@@ -8406,7 +8960,14 @@
       "vogel",
       "vogelkopf"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "lora",
+      "ara",
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": [
       "tiere",
       "haustiere",
@@ -8427,7 +8988,14 @@
       "vogel",
       "wiedergeburt"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "feuer",
+      "krass",
+      "fett",
+      "geil",
+      "stark",
+      "hot"
+    ],
     "themes": [
       "weihnachten",
       "tiere",
@@ -8464,7 +9032,12 @@
       "tier",
       "vogel"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": [
       "tiere",
       "haustiere",
@@ -8491,7 +9064,12 @@
       "pudel",
       "tier"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "hundi",
+      "wauwau",
+      "fellnase",
+      "dackel"
+    ],
     "themes": [
       "tiere",
       "haustiere"
@@ -8578,7 +9156,11 @@
       "tiger",
       "tigergesicht"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "mieze",
+      "miezekatze",
+      "stubentiger"
+    ],
     "themes": [
       "tiere",
       "wildtiere"
@@ -8598,7 +9180,12 @@
       "nagetier",
       "tier"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "häschen",
+      "hasi",
+      "häsle",
+      "möhre"
+    ],
     "themes": [
       "ostern",
       "tiere",
@@ -8616,7 +9203,11 @@
       "miezekatze",
       "tier"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "mieze",
+      "miezekatze",
+      "stubentiger"
+    ],
     "themes": [
       "tiere",
       "haustiere",
@@ -8662,7 +9253,12 @@
       "pferdekopf",
       "tier"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": [
       "tiere",
       "natur"
@@ -8696,7 +9292,12 @@
       "wau",
       "wuff"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "hundi",
+      "wauwau",
+      "fellnase",
+      "dackel"
+    ],
     "themes": [
       "tiere",
       "haustiere"
@@ -8931,7 +9532,12 @@
       "lippenstift",
       "mund"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "knutschen",
+      "küsschen",
+      "schmatz",
+      "bussi"
+    ],
     "themes": [
       "valentinstag",
       "körper"
@@ -9090,7 +9696,16 @@
       "perfekt",
       "super"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -9118,7 +9733,16 @@
       "super",
       "top"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "daumen drücken",
+      "viel glück",
+      "sieg",
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up"
+    ],
     "themes": [
       "schule",
       "körper"
@@ -9168,7 +9792,13 @@
       "umarmen",
       "umarmung"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": []
   },
   "1F451": {
@@ -9180,7 +9810,12 @@
       "königin",
       "majestät"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": []
   },
   "1F452": {
@@ -9193,7 +9828,12 @@
       "kopfbedeckung",
       "schleife"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": [
       "weihnachten"
     ]
@@ -9262,7 +9902,13 @@
       "kleid",
       "kleidung"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": []
   },
   "1F459": {
@@ -9519,7 +10165,16 @@
       "student",
       "uni"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "schule"
     ]
@@ -9839,7 +10494,10 @@
       "labor",
       "wissenschaftler"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "lamm",
+      "wollkopf"
+    ],
     "themes": []
   },
   "1F468-200D-1F680": {
@@ -9861,7 +10519,14 @@
       "feuerwehrmann",
       "mann"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "feuer",
+      "krass",
+      "fett",
+      "geil",
+      "stark",
+      "hot"
+    ],
     "themes": [
       "weihnachten"
     ]
@@ -10025,7 +10690,16 @@
       "krankenpfleger",
       "pfleger"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": []
   },
   "1F468-200D-2696-FE0F": {
@@ -10059,7 +10733,10 @@
       "mann",
       "paar"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi"
+    ],
     "themes": [
       "valentinstag",
       "liebe",
@@ -10078,7 +10755,14 @@
       "mann",
       "sich küssendes paar"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi",
+      "knutschen",
+      "küsschen",
+      "schmatz",
+      "bussi"
+    ],
     "themes": [
       "valentinstag",
       "liebe",
@@ -10148,7 +10832,16 @@
       "studentin",
       "uni"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "schule"
     ]
@@ -10398,7 +11091,10 @@
       "labor",
       "wissenschaftlerin"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "lamm",
+      "wollkopf"
+    ],
     "themes": []
   },
   "1F469-200D-1F680": {
@@ -10419,7 +11115,14 @@
       "feuerwehrhelm",
       "frau"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "feuer",
+      "krass",
+      "fett",
+      "geil",
+      "stark",
+      "hot"
+    ],
     "themes": [
       "weihnachten"
     ]
@@ -10581,7 +11284,16 @@
       "pflegerin",
       "ärztin"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": []
   },
   "1F469-200D-2696-FE0F": {
@@ -10616,7 +11328,10 @@
       "mann",
       "paar"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi"
+    ],
     "themes": [
       "valentinstag",
       "liebe",
@@ -10634,7 +11349,10 @@
       "mann",
       "paar"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi"
+    ],
     "themes": [
       "valentinstag",
       "liebe",
@@ -10653,7 +11371,14 @@
       "mann",
       "sich küssendes paar"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi",
+      "knutschen",
+      "küsschen",
+      "schmatz",
+      "bussi"
+    ],
     "themes": [
       "valentinstag",
       "liebe",
@@ -10672,7 +11397,14 @@
       "mann",
       "sich küssendes paar"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi",
+      "knutschen",
+      "küsschen",
+      "schmatz",
+      "bussi"
+    ],
     "themes": [
       "valentinstag",
       "liebe",
@@ -10794,7 +11526,12 @@
       "tänzerinnen",
       "zwillinge"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "häschen",
+      "hasi",
+      "häsle",
+      "möhre"
+    ],
     "themes": [
       "ostern",
       "körper"
@@ -10809,7 +11546,12 @@
       "hasenohren",
       "party"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "häschen",
+      "hasi",
+      "häsle",
+      "möhre"
+    ],
     "themes": [
       "ostern",
       "körper"
@@ -10826,7 +11568,12 @@
       "tanzen",
       "zwillinge"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "häschen",
+      "hasi",
+      "häsle",
+      "möhre"
+    ],
     "themes": [
       "ostern",
       "körper"
@@ -11094,7 +11841,13 @@
       "oger",
       "ungeheuer"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "lesen"
     ]
@@ -11114,7 +11867,13 @@
       "ungeheuer",
       "wütend"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "halloween",
       "lesen"
@@ -11228,7 +11987,12 @@
       "totenkopf",
       "yolo"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": [
       "halloween",
       "lesen",
@@ -11406,7 +12170,12 @@
       "spa",
       "therapie"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -11434,7 +12203,12 @@
       "therapie",
       "verspannung"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -11454,7 +12228,12 @@
       "massage",
       "salon"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -11477,7 +12256,13 @@
       "person beim haareschneiden",
       "schere"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "po",
+      "arsch",
+      "hintern",
+      "popo",
+      "steißbein"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -11493,7 +12278,13 @@
       "haarschnitt",
       "schere"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "po",
+      "arsch",
+      "hintern",
+      "popo",
+      "steißbein"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -11511,7 +12302,13 @@
       "salon",
       "schere"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "po",
+      "arsch",
+      "hintern",
+      "popo",
+      "steißbein"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -11570,7 +12367,12 @@
       "romantisch",
       "sexy"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "knutschen",
+      "küsschen",
+      "schmatz",
+      "bussi"
+    ],
     "themes": [
       "valentinstag",
       "liebe"
@@ -11586,7 +12388,10 @@
       "post",
       "siegel"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi"
+    ],
     "themes": [
       "valentinstag",
       "liebe",
@@ -11632,7 +12437,14 @@
       "mann",
       "sich küssendes paar"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi",
+      "knutschen",
+      "küsschen",
+      "schmatz",
+      "bussi"
+    ],
     "themes": [
       "valentinstag",
       "liebe",
@@ -11664,7 +12476,10 @@
       "mann",
       "paar"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi"
+    ],
     "themes": [
       "valentinstag",
       "liebe",
@@ -11679,7 +12494,10 @@
       "hochzeit",
       "kirche"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -11702,7 +12520,10 @@
       "pulsieren",
       "schlagen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi"
+    ],
     "themes": [
       "valentinstag",
       "liebe",
@@ -11724,7 +12545,10 @@
       "trennung",
       "zerbrochen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi"
+    ],
     "themes": [
       "valentinstag",
       "traurig",
@@ -11749,7 +12573,16 @@
       "xoxo",
       "zwei"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi",
+      "knutschen",
+      "küsschen",
+      "schmatz",
+      "bussi",
+      "richtig",
+      "ja"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -11774,7 +12607,14 @@
       "rosa",
       "xoxo"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi",
+      "fancy",
+      "extra",
+      "sparkle",
+      "blingbling"
+    ],
     "themes": [
       "morgen",
       "nacht",
@@ -11802,7 +12642,14 @@
       "wachsen",
       "xoxo"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi",
+      "knutschen",
+      "küsschen",
+      "schmatz",
+      "bussi"
+    ],
     "themes": [
       "valentinstag",
       "liebe",
@@ -11818,7 +12665,10 @@
       "liebe",
       "pfeil"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -11838,7 +12688,10 @@
       "liebe",
       "romantisch"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi"
+    ],
     "themes": [
       "valentinstag",
       "liebe",
@@ -11856,7 +12709,10 @@
       "liebe",
       "romantisch"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi"
+    ],
     "themes": [
       "valentinstag",
       "liebe",
@@ -11874,7 +12730,10 @@
       "herzlich",
       "liebe"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi"
+    ],
     "themes": [
       "valentinstag",
       "liebe",
@@ -11895,7 +12754,10 @@
       "lilafarben",
       "violett"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi"
+    ],
     "themes": [
       "valentinstag",
       "liebe",
@@ -11916,7 +12778,16 @@
       "valentinstag",
       "xoxo"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi",
+      "knutschen",
+      "küsschen",
+      "schmatz",
+      "bussi",
+      "richtig",
+      "ja"
+    ],
     "themes": [
       "frühling",
       "weihnachten",
@@ -11941,7 +12812,15 @@
       "liebe",
       "süß"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi",
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "frühling",
       "sommer",
@@ -11967,7 +12846,10 @@
       "violett",
       "weiß"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi"
+    ],
     "themes": [
       "valentinstag",
       "liebe",
@@ -12116,7 +12998,12 @@
       "kothaufen",
       "mist"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "scheiße",
+      "kacke",
+      "kacken",
+      "popo"
+    ],
     "themes": []
   },
   "1F4AA": {
@@ -12180,7 +13067,16 @@
       "gedankenblase",
       "nachdenken"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "danke",
+      "bitte",
+      "beten",
+      "respekt",
+      "namaste",
+      "denken",
+      "nachdenken",
+      "grübeln"
+    ],
     "themes": []
   },
   "1F4AE": {
@@ -12376,7 +13272,16 @@
       "notebook",
       "pc"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "arbeit",
       "technik"
@@ -12443,7 +13348,16 @@
       "geschlossen",
       "ordner"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "arbeit"
     ]
@@ -12456,7 +13370,16 @@
       "offen",
       "ordner"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": []
   },
   "1F4C3": {
@@ -12467,7 +13390,16 @@
       "seite",
       "teilweise eingerolltes blatt"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "frühling",
       "sommer",
@@ -12485,7 +13417,16 @@
       "seite",
       "vorderseite eines blattes"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "frühling",
       "herbst",
@@ -12580,7 +13521,12 @@
       "klemmbrett",
       "zwischenablage"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kopieren",
+      "einfügen",
+      "zwischenablage",
+      "clipboard"
+    ],
     "themes": []
   },
   "1F4CC": {
@@ -12613,7 +13559,16 @@
     "name": [
       "büroklammer"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "arbeit"
     ]
@@ -13165,7 +14120,16 @@
       "videokamera",
       "videos"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "technik"
     ]
@@ -13202,7 +14166,16 @@
       "video",
       "videokassette"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": []
   },
   "1F4FD": {
@@ -13735,7 +14708,14 @@
       "flamme",
       "heiß"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "feuer",
+      "krass",
+      "fett",
+      "geil",
+      "stark",
+      "hot"
+    ],
     "themes": [
       "weihnachten"
     ]
@@ -13809,7 +14789,10 @@
       "untersuchen",
       "wissenschaft"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "lamm",
+      "wollkopf"
+    ],
     "themes": []
   },
   "1F52D": {
@@ -13849,7 +14832,13 @@
       "japanisches anfänger-zeichen",
       "japanisches symbol"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -14524,7 +15513,12 @@
       "mann",
       "schwebender mann im anzug"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "deal",
+      "abgemacht",
+      "geschäft",
+      "einigung"
+    ],
     "themes": []
   },
   "1F575": {
@@ -14568,7 +15562,14 @@
       "dunkel",
       "sonnenbrille"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "bier",
+      "halbe",
+      "maß",
+      "kaltes",
+      "pils",
+      "hellen"
+    ],
     "themes": [
       "sommer",
       "sonne",
@@ -14637,7 +15638,16 @@
       "verhakt",
       "verhakte büroklammern"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "arbeit"
     ]
@@ -14746,7 +15756,10 @@
       "schwarz",
       "schwarzes herz"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi"
+    ],
     "themes": [
       "valentinstag",
       "liebe",
@@ -14951,7 +15964,12 @@
       "sprechende person",
       "sprechender kopf"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": [
       "körper"
     ]
@@ -15020,7 +16038,16 @@
       "tokio",
       "tokyo tower"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": []
   },
   "1F5FD": {
@@ -15044,7 +16071,13 @@
       "karte",
       "umriss von japan"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": []
   },
   "1F5FF": {
@@ -15091,7 +16124,12 @@
       "strahlen",
       "zähne"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "ich bin tot",
+      "lol",
+      "umgefallen",
+      "zu tode lachen"
+    ],
     "themes": [
       "sonne",
       "glücklich",
@@ -15164,7 +16202,12 @@
       "smiley",
       "witzig"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "ich bin tot",
+      "lol",
+      "umgefallen",
+      "zu tode lachen"
+    ],
     "themes": [
       "glücklich",
       "körper"
@@ -15301,7 +16344,12 @@
       "rot",
       "wangen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "ich bin tot",
+      "lol",
+      "umgefallen",
+      "zu tode lachen"
+    ],
     "themes": [
       "glücklich",
       "körper",
@@ -15463,7 +16511,12 @@
       "schweiß",
       "smiley"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -15517,7 +16570,12 @@
       "verwirrt",
       "verzweifelt"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kopf gegen wand",
+      "facepalm",
+      "verzweifeln",
+      "ungläubigkeit"
+    ],
     "themes": [
       "glücklich"
     ]
@@ -15534,7 +16592,12 @@
       "smiley",
       "xoxo"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "knutschen",
+      "küsschen",
+      "schmatz",
+      "bussi"
+    ],
     "themes": [
       "valentinstag",
       "glücklich"
@@ -15552,7 +16615,12 @@
       "smiley",
       "zuwerfen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "knutschen",
+      "küsschen",
+      "schmatz",
+      "bussi"
+    ],
     "themes": [
       "valentinstag",
       "glücklich"
@@ -15570,7 +16638,12 @@
       "lächeln",
       "smiley"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "knutschen",
+      "küsschen",
+      "schmatz",
+      "bussi"
+    ],
     "themes": [
       "valentinstag",
       "glücklich",
@@ -15591,7 +16664,12 @@
       "ugen",
       "wangen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "knutschen",
+      "küsschen",
+      "schmatz",
+      "bussi"
+    ],
     "themes": [
       "valentinstag",
       "glücklich",
@@ -15752,7 +16830,16 @@
       "konzentrieren",
       "kopfschmerzen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "denken",
+      "nachdenken",
+      "grübeln"
+    ],
     "themes": []
   },
   "1F624": {
@@ -15841,7 +16928,12 @@
       "smiley",
       "unglücklich"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "falsch",
+      "nein",
+      "abgelehnt",
+      "nicht ok"
+    ],
     "themes": [
       "glücklich",
       "traurig"
@@ -16142,7 +17234,12 @@
       "gesicht in wolken",
       "kopf in wolken"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": [
       "regen",
       "wolken",
@@ -16184,7 +17281,15 @@
       "smiley",
       "tier"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "mieze",
+      "miezekatze",
+      "stubentiger",
+      "ich bin tot",
+      "lol",
+      "umgefallen",
+      "zu tode lachen"
+    ],
     "themes": [
       "tiere",
       "haustiere",
@@ -16206,7 +17311,11 @@
       "tier",
       "tränen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "mieze",
+      "miezekatze",
+      "stubentiger"
+    ],
     "themes": [
       "tiere",
       "haustiere",
@@ -16229,7 +17338,11 @@
       "smiley",
       "tier"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "mieze",
+      "miezekatze",
+      "stubentiger"
+    ],
     "themes": [
       "tiere",
       "haustiere",
@@ -16254,7 +17367,15 @@
       "tier",
       "verliebt"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "mieze",
+      "miezekatze",
+      "stubentiger",
+      "ich bin tot",
+      "lol",
+      "umgefallen",
+      "zu tode lachen"
+    ],
     "themes": [
       "valentinstag",
       "tiere",
@@ -16280,7 +17401,11 @@
       "tier",
       "verwegen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "mieze",
+      "miezekatze",
+      "stubentiger"
+    ],
     "themes": [
       "tiere",
       "haustiere",
@@ -16305,7 +17430,15 @@
       "tier",
       "wangen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "mieze",
+      "miezekatze",
+      "stubentiger",
+      "knutschen",
+      "küsschen",
+      "schmatz",
+      "bussi"
+    ],
     "themes": [
       "valentinstag",
       "tiere",
@@ -16327,7 +17460,11 @@
       "tier",
       "verärgert"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "mieze",
+      "miezekatze",
+      "stubentiger"
+    ],
     "themes": [
       "tiere",
       "haustiere",
@@ -16347,7 +17484,11 @@
       "träne",
       "weinen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "mieze",
+      "miezekatze",
+      "stubentiger"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -16376,7 +17517,11 @@
       "tier",
       "überrascht"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "mieze",
+      "miezekatze",
+      "stubentiger"
+    ],
     "themes": [
       "tiere",
       "haustiere",
@@ -16422,7 +17567,16 @@
       "nein",
       "schütteln"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung",
+      "falsch",
+      "nein",
+      "abgelehnt",
+      "nicht ok"
+    ],
     "themes": [
       "körper"
     ]
@@ -16434,7 +17588,16 @@
       "kopfnicken",
       "nicken"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung",
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt"
+    ],
     "themes": [
       "körper"
     ]
@@ -16449,7 +17612,12 @@
       "stehen",
       "umgekehrt"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": [
       "glücklich"
     ]
@@ -16487,7 +17655,12 @@
       "verboten",
       "überkreuzt"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "falsch",
+      "nein",
+      "abgelehnt",
+      "nicht ok"
+    ],
     "themes": []
   },
   "1F645-200D-2640-FE0F": {
@@ -16513,7 +17686,12 @@
       "verboten",
       "überkreuzt"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "falsch",
+      "nein",
+      "abgelehnt",
+      "nicht ok"
+    ],
     "themes": []
   },
   "1F646": {
@@ -16528,7 +17706,16 @@
       "über kopf",
       "übung"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "denken",
+      "nachdenken",
+      "grübeln"
+    ],
     "themes": [
       "körper"
     ]
@@ -16545,7 +17732,16 @@
       "über kopf",
       "übung"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "denken",
+      "nachdenken",
+      "grübeln"
+    ],
     "themes": [
       "körper"
     ]
@@ -16562,7 +17758,16 @@
       "über kopf",
       "übung"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "denken",
+      "nachdenken",
+      "grübeln"
+    ],
     "themes": [
       "körper"
     ]
@@ -16637,7 +17842,12 @@
       "verstecken",
       "zuhalten"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "falsch",
+      "nein",
+      "abgelehnt",
+      "nicht ok"
+    ],
     "themes": [
       "tiere",
       "körper"
@@ -16660,7 +17870,12 @@
       "zuhalten",
       "zuhören"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "falsch",
+      "nein",
+      "abgelehnt",
+      "nicht ok"
+    ],
     "themes": [
       "tiere",
       "körper"
@@ -16688,7 +17903,12 @@
       "verboten",
       "zuhalten"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "falsch",
+      "nein",
+      "abgelehnt",
+      "nicht ok"
+    ],
     "themes": [
       "tiere",
       "körper"
@@ -16788,7 +18008,12 @@
       "unzufrieden",
       "verärgert"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kopf gegen wand",
+      "facepalm",
+      "verzweifeln",
+      "ungläubigkeit"
+    ],
     "themes": []
   },
   "1F64D-200D-2640-FE0F": {
@@ -16803,7 +18028,12 @@
       "unzufrieden",
       "verärgert"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kopf gegen wand",
+      "facepalm",
+      "verzweifeln",
+      "ungläubigkeit"
+    ],
     "themes": []
   },
   "1F64D-200D-2642-FE0F": {
@@ -16818,7 +18048,12 @@
       "unzufrieden",
       "verärgert"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kopf gegen wand",
+      "facepalm",
+      "verzweifeln",
+      "ungläubigkeit"
+    ],
     "themes": [
       "wildtiere"
     ]
@@ -16835,7 +18070,13 @@
       "schmollend",
       "verärgert"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": []
   },
   "1F64E-200D-2640-FE0F": {
@@ -16850,7 +18091,13 @@
       "schmollend",
       "verärgert"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": []
   },
   "1F64E-200D-2642-FE0F": {
@@ -16865,7 +18112,13 @@
       "schmollend",
       "verärgert"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": []
   },
   "1F64F": {
@@ -16882,7 +18135,13 @@
       "handflächen",
       "zusammengelegt"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "danke",
+      "bitte",
+      "beten",
+      "respekt",
+      "namaste"
+    ],
     "themes": [
       "körper"
     ]
@@ -16920,7 +18179,16 @@
       "schiene",
       "zug"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": []
   },
   "1F683": {
@@ -16971,7 +18239,13 @@
       "shinkansen",
       "zug"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "frühling",
       "wind",
@@ -17121,7 +18395,14 @@
       "feuerwehrauto",
       "löschfahrzeug"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "feuer",
+      "krass",
+      "fett",
+      "geil",
+      "stark",
+      "hot"
+    ],
     "themes": [
       "weihnachten"
     ]
@@ -17253,7 +18534,10 @@
       "traktor",
       "trecker"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "lamm",
+      "wollkopf"
+    ],
     "themes": []
   },
   "1F69D": {
@@ -17796,7 +19080,12 @@
       "straßenschild",
       "vorsicht"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "achtung",
+      "vorsicht",
+      "warnung",
+      "gefahr"
+    ],
     "themes": []
   },
   "1F6B9": {
@@ -17806,7 +19095,12 @@
       "herrentoilette",
       "wc"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "klo",
+      "klospülung",
+      "scheißhaus",
+      "lokus"
+    ],
     "themes": []
   },
   "1F6BA": {
@@ -17816,7 +19110,12 @@
       "damentoilette",
       "wc"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "klo",
+      "klospülung",
+      "scheißhaus",
+      "lokus"
+    ],
     "themes": []
   },
   "1F6BB": {
@@ -17826,7 +19125,12 @@
       "toiletten",
       "wc"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "klo",
+      "klospülung",
+      "scheißhaus",
+      "lokus"
+    ],
     "themes": []
   },
   "1F6BC": {
@@ -17846,7 +19150,12 @@
       "toilette",
       "wc"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "klo",
+      "klospülung",
+      "scheißhaus",
+      "lokus"
+    ],
     "themes": []
   },
   "1F6BE": {
@@ -17855,7 +19164,12 @@
       "toilette",
       "wc"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "klo",
+      "klospülung",
+      "scheißhaus",
+      "lokus"
+    ],
     "themes": []
   },
   "1F6BF": {
@@ -17864,7 +19178,12 @@
       "dusche",
       "duschkopf"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": []
   },
   "1F6C0": {
@@ -17990,7 +19309,12 @@
       "schlafen",
       "übernachtung"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "achtung",
+      "vorsicht",
+      "warnung",
+      "gefahr"
+    ],
     "themes": []
   },
   "1F6D0": {
@@ -18614,7 +19938,10 @@
       "weiß",
       "weißes herz"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -18632,7 +19959,10 @@
       "braunes herz",
       "herz"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi"
+    ],
     "themes": [
       "valentinstag",
       "liebe",
@@ -18751,7 +20081,12 @@
       "smiley",
       "wundern"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": [
       "glücklich"
     ]
@@ -18768,7 +20103,12 @@
       "verband",
       "verletzung"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": [
       "glücklich",
       "körper"
@@ -18783,7 +20123,12 @@
       "robotergesicht",
       "roboterkopf"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": []
   },
   "1F917": {
@@ -18887,7 +20232,12 @@
       "händeschütteln",
       "vereinbarung"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "deal",
+      "abgemacht",
+      "geschäft",
+      "einigung"
+    ],
     "themes": [
       "körper"
     ]
@@ -18963,7 +20313,11 @@
       "übelkeit",
       "übergeben"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kotzen",
+      "speien",
+      "auskotzen"
+    ],
     "themes": [
       "glücklich",
       "grün"
@@ -19032,7 +20386,16 @@
       "unglaublich",
       "verzweifelt"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kopf gegen wand",
+      "facepalm",
+      "verzweifeln",
+      "ungläubigkeit",
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": [
       "körper"
     ]
@@ -19052,7 +20415,16 @@
       "unglaublich",
       "verzweifelt"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kopf gegen wand",
+      "facepalm",
+      "verzweifeln",
+      "ungläubigkeit",
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": [
       "körper"
     ]
@@ -19072,7 +20444,16 @@
       "unglaublich",
       "verzweifelt"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kopf gegen wand",
+      "facepalm",
+      "verzweifeln",
+      "ungläubigkeit",
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": [
       "körper"
     ]
@@ -19236,7 +20617,11 @@
       "übel",
       "übergeben"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kotzen",
+      "speien",
+      "auskotzen"
+    ],
     "themes": [
       "glücklich"
     ]
@@ -19255,7 +20640,12 @@
       "unglaublich",
       "überwältigt"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": [
       "glücklich",
       "körper"
@@ -19332,7 +20722,16 @@
       "smoking",
       "vornehm"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "hochzeit"
     ]
@@ -19344,7 +20743,16 @@
       "frau im smoking",
       "smoking"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": []
   },
   "1F935-200D-2642-FE0F": {
@@ -19354,7 +20762,16 @@
       "mann im smoking",
       "smoking"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": []
   },
   "1F936": {
@@ -19522,7 +20939,10 @@
       "unterhalter",
       "zirkus"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "erpel",
+      "watschler"
+    ],
     "themes": []
   },
   "1F93A": {
@@ -19950,7 +21370,11 @@
       "frühstück",
       "frühstückshörnchen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "hörnchen",
+      "kipferl",
+      "gipfeli"
+    ],
     "themes": [
       "morgen"
     ]
@@ -20027,7 +21451,14 @@
       "französisch",
       "frühstück"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "brötchen",
+      "semmel",
+      "schrippe",
+      "weckle",
+      "wecken",
+      "rundstück"
+    ],
     "themes": [
       "morgen"
     ]
@@ -20148,7 +21579,12 @@
       "potsticker",
       "teigtasche"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "klo",
+      "klospülung",
+      "scheißhaus",
+      "lokus"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -20194,7 +21630,13 @@
       "japanisches essen",
       "stäbchen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "essen"
     ]
@@ -20249,7 +21691,16 @@
       "palme",
       "piña"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "essen"
     ]
@@ -20264,7 +21715,16 @@
       "gemüsekohl",
       "kohl"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "essen",
       "grün"
@@ -20296,7 +21756,16 @@
       "gedreht",
       "oktoberfest"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "brezel",
+      "breze",
+      "brezn",
+      "laugenbrezn",
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so"
+    ],
     "themes": [
       "essen"
     ]
@@ -20367,7 +21836,16 @@
       "salatblatt",
       "spinat"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "frühling",
       "herbst",
@@ -20491,7 +21969,16 @@
       "stolz",
       "träne"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "danke",
+      "bitte",
+      "beten",
+      "respekt",
+      "namaste",
+      "ich bin tot",
+      "lol",
+      "umgefallen"
+    ],
     "themes": [
       "glücklich",
       "flex"
@@ -20559,7 +22046,11 @@
       "smiley",
       "zunge"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "geschmolzen",
+      "ich kann nicht mehr",
+      "verflüssigt"
+    ],
     "themes": [
       "sommer",
       "glücklich",
@@ -20607,7 +22098,13 @@
       "soldat",
       "vermummt"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": []
   },
   "1F978": {
@@ -20651,7 +22148,13 @@
       "weinen",
       "zurückhalten"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "danke",
+      "bitte",
+      "beten",
+      "respekt",
+      "namaste"
+    ],
     "themes": [
       "glücklich",
       "traurig",
@@ -20707,7 +22210,16 @@
       "weißer mantel",
       "wissenschaftler"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "lamm",
+      "wollkopf",
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig"
+    ],
     "themes": []
   },
   "1F97D": {
@@ -20854,7 +22366,10 @@
       "tier",
       "vogel"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "erpel",
+      "watschler"
+    ],
     "themes": [
       "frühling",
       "tiere",
@@ -21108,7 +22623,16 @@
       "tier",
       "wallaby"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "tiere"
     ]
@@ -21173,7 +22697,10 @@
       "vogel",
       "wiederholen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "lora",
+      "ara"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -21250,7 +22777,10 @@
       "virus",
       "wissenschaft"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "lamm",
+      "wollkopf"
+    ],
     "themes": []
   },
   "1F9A1": {
@@ -21468,7 +22998,12 @@
       "sehbehindert",
       "tier"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "hundi",
+      "wauwau",
+      "fellnase",
+      "dackel"
+    ],
     "themes": [
       "tiere",
       "haustiere"
@@ -21507,7 +23042,12 @@
       "lockig",
       "lockiges haar"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": []
   },
   "1F9B2": {
@@ -21547,7 +23087,12 @@
       "knochen",
       "skelett"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "hundi",
+      "wauwau",
+      "fellnase",
+      "dackel"
+    ],
     "themes": [
       "halloween",
       "haustiere",
@@ -21889,7 +23434,13 @@
       "waffel",
       "waffel mit butter"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "po",
+      "arsch",
+      "hintern",
+      "popo",
+      "steißbein"
+    ],
     "themes": [
       "essen"
     ]
@@ -21903,7 +23454,13 @@
       "milchprodukt",
       "nahrung"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "po",
+      "arsch",
+      "hintern",
+      "popo",
+      "steißbein"
+    ],
     "themes": [
       "essen"
     ]
@@ -22135,7 +23692,16 @@
       "reich",
       "smiley"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "glücklich"
     ]
@@ -22214,7 +23780,16 @@
       "student(in)",
       "uni"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "schule"
     ]
@@ -22227,7 +23802,10 @@
       "star",
       "sänger(in)"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "erpel",
+      "watschler"
+    ],
     "themes": [
       "musik"
     ]
@@ -22316,7 +23894,10 @@
       "labor",
       "wissenschaftler(in)"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "lamm",
+      "wollkopf"
+    ],
     "themes": []
   },
   "1F9D1-200D-1F680": {
@@ -22335,7 +23916,14 @@
       "feuerwehrhelm",
       "feuerwehrmann/-frau"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "feuer",
+      "krass",
+      "fett",
+      "geil",
+      "stark",
+      "hot"
+    ],
     "themes": [
       "weihnachten"
     ]
@@ -22537,7 +24125,16 @@
       "arztkittel",
       "doktor(in)"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": []
   },
   "1F9D1-200D-2696-FE0F": {
@@ -22631,7 +24228,16 @@
       "tichel",
       "tuch"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung",
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt"
+    ],
     "themes": [
       "körper"
     ]
@@ -23036,7 +24642,16 @@
       "wandelnder toter",
       "zombie"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "halloween"
     ]
@@ -23078,7 +24693,12 @@
       "klug",
       "schlau"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": [
       "körper"
     ]
@@ -23090,7 +24710,10 @@
       "liebe",
       "orange"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi"
+    ],
     "themes": [
       "valentinstag",
       "liebe",
@@ -23121,7 +24744,11 @@
       "schal",
       "warm anziehen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "geschmolzen",
+      "ich kann nicht mehr",
+      "verflüssigt"
+    ],
     "themes": []
   },
   "1F9E4": {
@@ -23146,7 +24773,16 @@
       "mantel",
       "warm anziehen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "geschmolzen",
+      "ich kann nicht mehr",
+      "verflüssigt",
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": []
   },
   "1F9E6": {
@@ -23199,7 +24835,14 @@
       "sprengstoff",
       "zündstoff"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "feuer",
+      "krass",
+      "fett",
+      "geil",
+      "stark",
+      "hot"
+    ],
     "themes": [
       "weihnachten",
       "neujahr",
@@ -23244,7 +24887,10 @@
       "versuche",
       "wissenschaft"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "lamm",
+      "wollkopf"
+    ],
     "themes": []
   },
   "1F9EB": {
@@ -23312,7 +24958,12 @@
       "zählen",
       "zählrahmen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "knutschen",
+      "küsschen",
+      "schmatz",
+      "bussi"
+    ],
     "themes": []
   },
   "1F9EF": {
@@ -23322,7 +24973,14 @@
       "feuerlöscher",
       "löschen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "feuer",
+      "krass",
+      "fett",
+      "geil",
+      "stark",
+      "hot"
+    ],
     "themes": [
       "weihnachten"
     ]
@@ -23407,7 +25065,12 @@
       "shampoo",
       "sonnencreme"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "scheiße",
+      "kacke",
+      "kacken",
+      "popo"
+    ],
     "themes": []
   },
   "1F9F5": {
@@ -23501,7 +25164,10 @@
       "wäsche",
       "wäschekorb"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "lamm",
+      "wollkopf"
+    ],
     "themes": []
   },
   "1F9FB": {
@@ -23517,7 +25183,12 @@
       "wc",
       "wc-papier"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "klo",
+      "klospülung",
+      "scheißhaus",
+      "lokus"
+    ],
     "themes": []
   },
   "1F9FC": {
@@ -23558,7 +25229,14 @@
       "schwamm",
       "schäumen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "bier",
+      "halbe",
+      "maß",
+      "kaltes",
+      "pils",
+      "hellen"
+    ],
     "themes": []
   },
   "1F9FE": {
@@ -23686,7 +25364,10 @@
       "türkis",
       "zyan"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi"
+    ],
     "themes": [
       "valentinstag",
       "süßes",
@@ -23709,7 +25390,10 @@
       "silber",
       "silberfarben"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi"
+    ],
     "themes": [
       "valentinstag",
       "liebe",
@@ -23733,7 +25417,10 @@
       "süß",
       "verliebt"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi"
+    ],
     "themes": [
       "valentinstag",
       "süßes",
@@ -23780,7 +25467,16 @@
       "stethoskop",
       "untersuchung"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi",
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig"
+    ],
     "themes": [
       "valentinstag",
       "liebe",
@@ -24004,7 +25700,13 @@
       "traurig",
       "ziehen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "traurig",
       "musik"
@@ -24298,7 +26000,12 @@
       "wc",
       "werkzeug"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "klo",
+      "klospülung",
+      "scheißhaus",
+      "lokus"
+    ],
     "themes": [
       "weihnachten"
     ]
@@ -24453,7 +26160,16 @@
       "tanz",
       "tanzen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": []
   },
   "1FAAA": {
@@ -24468,7 +26184,16 @@
       "plakette",
       "reisepass"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "richtig",
+      "ja",
+      "erledigt"
+    ],
     "themes": [
       "frühling",
       "sommer",
@@ -24531,7 +26256,11 @@
       "tanz",
       "warm"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "geschmolzen",
+      "ich kann nicht mehr",
+      "verflüssigt"
+    ],
     "themes": []
   },
   "1FAAE": {
@@ -24665,7 +26394,14 @@
       "holzscheite",
       "lagerfeuer"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "feuer",
+      "krass",
+      "fett",
+      "geil",
+      "stark",
+      "hot"
+    ],
     "themes": []
   },
   "1FAB6": {
@@ -24880,7 +26616,10 @@
       "puls",
       "schlagen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi"
+    ],
     "themes": [
       "valentinstag",
       "liebe",
@@ -24921,7 +26660,15 @@
       "tschüss",
       "umarmung"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "lamm",
+      "wollkopf",
+      "danke",
+      "bitte",
+      "beten",
+      "respekt",
+      "namaste"
+    ],
     "themes": [
       "valentinstag",
       "liebe"
@@ -24958,7 +26705,10 @@
       "zu viel gegessen",
       "überfressen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "lamm",
+      "wollkopf"
+    ],
     "themes": [
       "vögel"
     ]
@@ -25058,7 +26808,12 @@
       "säugetier",
       "tier"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "denken",
+      "nachdenken",
+      "grübeln",
+      "überlegung"
+    ],
     "themes": [
       "tiere"
     ]
@@ -25168,7 +26923,16 @@
       "schweizerisch",
       "topf"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fettes lob",
+      "passt",
+      "okay",
+      "gut so",
+      "thumbs up",
+      "geschmolzen",
+      "ich kann nicht mehr",
+      "verflüssigt"
+    ],
     "themes": [
       "essen",
       "weiß"
@@ -25264,7 +27028,14 @@
       "wurzel",
       "würzig"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "bier",
+      "halbe",
+      "maß",
+      "kaltes",
+      "pils",
+      "hellen"
+    ],
     "themes": []
   },
   "1FADB": {
@@ -25329,7 +27100,11 @@
       "smiley",
       "verschwinden"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "geschmolzen",
+      "ich kann nicht mehr",
+      "verflüssigt"
+    ],
     "themes": [
       "sommer",
       "glücklich"
@@ -25349,7 +27124,16 @@
       "smiley",
       "zu befehl"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "danke",
+      "bitte",
+      "beten",
+      "respekt",
+      "namaste",
+      "fettes lob",
+      "passt",
+      "okay"
+    ],
     "themes": [
       "tiere",
       "glücklich"
@@ -25459,7 +27243,12 @@
       "zähne",
       "ängstlich"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "knutschen",
+      "küsschen",
+      "schmatz",
+      "bussi"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -25572,7 +27361,10 @@
       "teuer",
       "zeigefinger"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -25701,7 +27493,13 @@
       "händeherz",
       "liebe"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi",
+      "love",
+      "ich liebe es",
+      "miniherz"
+    ],
     "themes": [
       "valentinstag",
       "liebe",
@@ -25726,7 +27524,12 @@
       "warte mal",
       "warten"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "falsch",
+      "nein",
+      "abgelehnt",
+      "nicht ok"
+    ],
     "themes": [
       "körper"
     ]
@@ -25748,7 +27551,12 @@
       "warte mal",
       "warten"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "falsch",
+      "nein",
+      "abgelehnt",
+      "nicht ok"
+    ],
     "themes": [
       "körper"
     ]
@@ -26446,7 +28254,12 @@
       "warnschild",
       "warnung"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "achtung",
+      "vorsicht",
+      "warnung",
+      "gefahr"
+    ],
     "themes": []
   },
   "26A1": {
@@ -26665,7 +28478,11 @@
       "kette",
       "zerbrechen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kotzen",
+      "speien",
+      "auskotzen"
+    ],
     "themes": []
   },
   "26D4": {
@@ -26917,7 +28734,11 @@
       "victory",
       "victory-geste"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "daumen drücken",
+      "viel glück",
+      "sieg"
+    ],
     "themes": []
   },
   "270D": {
@@ -26980,7 +28801,11 @@
       "rotes kreuz",
       "x"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kotzen",
+      "speien",
+      "auskotzen"
+    ],
     "themes": [
       "frühling",
       "ostern",
@@ -27012,7 +28837,12 @@
       "leidenschaft",
       "liebe"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "herzchen",
+      "herzi",
+      "lamm",
+      "wollkopf"
+    ],
     "themes": [
       "valentinstag",
       "liebe",
@@ -27202,7 +29032,13 @@
       "teilalternationszeichen",
       "zeichensetzung"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "richtig",
+      "ja",
+      "erledigt",
+      "passt",
+      "ok"
+    ],
     "themes": [
       "frühling",
       "ostern",

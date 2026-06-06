@@ -39,7 +39,13 @@
       "arrow",
       "left-right"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": []
   },
   "2195": {
@@ -60,7 +66,16 @@
       "northwest",
       "up-left"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle",
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "2197": {
@@ -72,7 +87,16 @@
       "northeast",
       "up-right"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle",
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "2198": {
@@ -84,7 +108,16 @@
       "intercardinal",
       "southeast"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": []
   },
   "2199": {
@@ -96,7 +129,12 @@
       "intercardinal",
       "southwest"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "2328": {
@@ -119,7 +157,13 @@
       "sunny",
       "weather"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": [
       "summer",
       "sun",
@@ -156,7 +200,12 @@
       "man",
       "snow"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "winter",
       "snow",
@@ -184,7 +233,13 @@
       "tick",
       "✓"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": []
   },
   "2614": {
@@ -216,7 +271,11 @@
       "steaming",
       "tea"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "melting",
+      "i cant even",
+      "overheated"
+    ],
     "themes": [
       "morning",
       "coffee",
@@ -247,7 +306,12 @@
       "monster",
       "skull"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "im dead",
+      "lol",
+      "rip",
+      "dying"
+    ],
     "themes": [
       "halloween",
       "body"
@@ -368,7 +432,12 @@
       "horoscope",
       "zodiac"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": [
       "yellow"
     ]
@@ -410,7 +479,12 @@
       "spade",
       "suit"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "sports"
     ]
@@ -424,7 +498,12 @@
       "game",
       "suit"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "sports"
     ]
@@ -439,7 +518,16 @@
       "hearts",
       "suit"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "car",
+      "automobile",
+      "auto",
+      "vehicle",
+      "smiling tear"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -455,7 +543,12 @@
       "game",
       "suit"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "sports"
     ]
@@ -468,7 +561,11 @@
       "springs",
       "steaming"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "melting",
+      "i cant even",
+      "overheated"
+    ],
     "themes": [
       "spring",
       "wedding"
@@ -577,7 +674,16 @@
       "tick",
       "✓"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": []
   },
   "2708": {
@@ -590,7 +696,12 @@
       "plane",
       "travel"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": []
   },
   "2709": {
@@ -630,7 +741,13 @@
       "tick",
       "✓"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": []
   },
   "2716": {
@@ -669,7 +786,12 @@
       "sparkle",
       "star"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fancy",
+      "extra",
+      "sparkle",
+      "glitter"
+    ],
     "themes": [
       "night",
       "yellow"
@@ -682,7 +804,16 @@
       "asterisk",
       "eight-spoked"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": []
   },
   "2734": {
@@ -705,7 +836,12 @@
       "snow",
       "weather"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "winter",
       "snow",
@@ -789,7 +925,11 @@
       "mark",
       "punctuation"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -804,7 +944,16 @@
       "love",
       "red"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "heart hands",
+      "love this",
+      "i love it",
+      "smiling tear",
+      "holding back tears"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -852,7 +1001,13 @@
       "right",
       "up"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": []
   },
   "2935": {
@@ -863,7 +1018,13 @@
       "down",
       "right"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": []
   },
   "3030": {
@@ -884,7 +1045,12 @@
       "ideograph",
       "japanese"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "3299": {
@@ -895,7 +1061,12 @@
       "japanese",
       "secret"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "0023-FE0F-20E3": {
@@ -903,7 +1074,12 @@
     "name": [
       "keycap"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": []
   },
   "002A-FE0F-20E3": {
@@ -911,7 +1087,12 @@
     "name": [
       "keycap"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": []
   },
   "0030-FE0F-20E3": {
@@ -921,7 +1102,12 @@
       "keycap",
       "zero"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": []
   },
   "0031-FE0F-20E3": {
@@ -931,7 +1117,12 @@
       "keycap",
       "one"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": []
   },
   "0032-FE0F-20E3": {
@@ -941,7 +1132,12 @@
       "keycap",
       "two"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": []
   },
   "0033-FE0F-20E3": {
@@ -951,7 +1147,12 @@
       "keycap",
       "three"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": []
   },
   "0034-FE0F-20E3": {
@@ -961,7 +1162,12 @@
       "four",
       "keycap"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": []
   },
   "0035-FE0F-20E3": {
@@ -971,7 +1177,12 @@
       "five",
       "keycap"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": []
   },
   "0036-FE0F-20E3": {
@@ -981,7 +1192,12 @@
       "keycap",
       "six"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": []
   },
   "0037-FE0F-20E3": {
@@ -991,7 +1207,12 @@
       "keycap",
       "seven"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": []
   },
   "0038-FE0F-20E3": {
@@ -1001,7 +1222,12 @@
       "eight",
       "keycap"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": []
   },
   "0039-FE0F-20E3": {
@@ -1011,7 +1237,12 @@
       "keycap",
       "nine"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": []
   },
   "00A9": {
@@ -1019,7 +1250,16 @@
     "name": [
       "c"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "copy",
+      "paste",
+      "clipboard",
+      "document",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": []
   },
   "00AE": {
@@ -1053,7 +1293,16 @@
       "game",
       "wildcard"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle",
+      "thumbs up",
+      "ok",
+      "approve",
+      "like"
+    ],
     "themes": [
       "sports"
     ]
@@ -1065,7 +1314,16 @@
       "button",
       "type"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks",
+      "toilet",
+      "wc",
+      "loo",
+      "john"
+    ],
     "themes": []
   },
   "1F171": {
@@ -1076,7 +1334,16 @@
       "button",
       "type"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks",
+      "toilet",
+      "wc",
+      "loo",
+      "john"
+    ],
     "themes": []
   },
   "1F17E": {
@@ -1087,7 +1354,16 @@
       "o",
       "type"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks",
+      "toilet",
+      "wc",
+      "loo",
+      "john"
+    ],
     "themes": []
   },
   "1F17F": {
@@ -1097,7 +1373,12 @@
       "p",
       "parking"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F18E": {
@@ -1108,7 +1389,16 @@
       "button",
       "type"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks",
+      "toilet",
+      "wc",
+      "loo",
+      "john"
+    ],
     "themes": []
   },
   "1F191": {
@@ -1117,7 +1407,12 @@
       "button",
       "cl"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F192": {
@@ -1126,7 +1421,12 @@
       "button",
       "cool"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F193": {
@@ -1135,7 +1435,12 @@
       "button",
       "free"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F194": {
@@ -1145,7 +1450,12 @@
       "id",
       "identity"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F195": {
@@ -1154,7 +1464,12 @@
       "button",
       "new"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F196": {
@@ -1163,7 +1478,12 @@
       "button",
       "ng"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F197": {
@@ -1173,7 +1493,16 @@
       "ok",
       "okay"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks",
+      "thumbs up",
+      "ok",
+      "approve",
+      "like"
+    ],
     "themes": []
   },
   "1F198": {
@@ -1183,7 +1512,12 @@
       "help",
       "sos"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F199": {
@@ -1194,7 +1528,12 @@
       "up",
       "up!"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F19A": {
@@ -1204,7 +1543,12 @@
       "versus",
       "vs"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F1E6-1F1E8": {
@@ -1489,7 +1833,12 @@
       "bq",
       "flag"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "1F1E7-1F1F7": {
@@ -1626,7 +1975,16 @@
       "ck",
       "flag"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": []
   },
   "1F1E8-1F1F1": {
@@ -1707,7 +2065,12 @@
       "cv",
       "flag"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": []
   },
   "1F1E8-1F1FC": {
@@ -2192,7 +2555,13 @@
       "id",
       "flag"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": []
   },
   "1F1EE-1F1EA": {
@@ -2377,7 +2746,12 @@
       "kp",
       "flag"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F1F0-1F1F7": {
@@ -2431,7 +2805,12 @@
       "lb",
       "flag"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F1F1-1F1E8": {
@@ -2449,7 +2828,12 @@
       "li",
       "flag"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": []
   },
   "1F1F1-1F1F0": {
@@ -2485,7 +2869,12 @@
       "lt",
       "flag"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": []
   },
   "1F1F1-1F1FA": {
@@ -2566,7 +2955,12 @@
       "mg",
       "flag"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "1F1F2-1F1ED": {
@@ -2584,7 +2978,12 @@
       "mk",
       "flag"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F1F2-1F1F1": {
@@ -2629,7 +3028,12 @@
       "mp",
       "flag"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F1F2-1F1F6": {
@@ -2755,7 +3159,12 @@
       "nf",
       "flag"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F1F3-1F1EC": {
@@ -2773,7 +3182,12 @@
       "ni",
       "flag"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "1F1F3-1F1F1": {
@@ -2791,7 +3205,12 @@
       "no",
       "flag"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F1F3-1F1F5": {
@@ -3090,7 +3509,11 @@
       "si",
       "flag"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart hands",
+      "love this",
+      "i love it"
+    ],
     "themes": [
       "valentines day",
       "love"
@@ -3129,7 +3552,12 @@
       "sm",
       "flag"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F1F8-1F1F3": {
@@ -3282,7 +3710,16 @@
       "tk",
       "flag"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": []
   },
   "1F1F9-1F1F1": {
@@ -3392,7 +3829,12 @@
       "um",
       "flag"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": []
   },
   "1F1FA-1F1F3": {
@@ -3574,7 +4016,12 @@
       "japanese",
       "katakana"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F202": {
@@ -3586,7 +4033,12 @@
       "katakana",
       "service"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "summer",
       "winter"
@@ -3601,7 +4053,12 @@
       "ideograph",
       "japanese"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F22F": {
@@ -3612,7 +4069,12 @@
       "japanese",
       "reserved"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F232": {
@@ -3623,7 +4085,12 @@
       "japanese",
       "prohibited"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F233": {
@@ -3634,7 +4101,12 @@
       "japanese",
       "vacancy"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F234": {
@@ -3646,7 +4118,12 @@
       "japanese",
       "passing"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F235": {
@@ -3658,7 +4135,16 @@
       "no",
       "vacancy"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks",
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F236": {
@@ -3671,7 +4157,16 @@
       "japanese",
       "not"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks",
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F237": {
@@ -3683,7 +4178,12 @@
       "japanese",
       "monthly"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F238": {
@@ -3694,7 +4194,12 @@
       "ideograph",
       "japanese"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "pets",
       "black"
@@ -3708,7 +4213,12 @@
       "ideograph",
       "japanese"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F23A": {
@@ -3720,7 +4230,12 @@
       "japanese",
       "open"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "work",
       "school"
@@ -3734,7 +4249,12 @@
       "ideograph",
       "japanese"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F251": {
@@ -3745,7 +4265,12 @@
       "ideograph",
       "japanese"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "work"
     ]
@@ -3846,7 +4371,12 @@
       "sun",
       "sunset"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": [
       "summer",
       "sun",
@@ -3930,7 +4460,12 @@
       "mountain",
       "nature"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "nature"
     ]
@@ -4177,7 +4712,13 @@
       "full",
       "moon"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": [
       "night"
     ]
@@ -4196,7 +4737,13 @@
       "sunshine",
       "weather"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": [
       "summer",
       "sun",
@@ -4215,7 +4762,16 @@
       "star",
       "win"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope",
+      "fancy",
+      "extra",
+      "sparkle",
+      "glitter"
+    ],
     "themes": [
       "night",
       "yellow",
@@ -4323,7 +4879,12 @@
       "snow",
       "weather"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "winter",
       "rain",
@@ -4400,7 +4961,16 @@
       "hotdog",
       "sausage"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "doggie",
+      "doggo",
+      "puppy",
+      "pup",
+      "pooch",
+      "melting",
+      "i cant even",
+      "overheated"
+    ],
     "themes": [
       "pets"
     ]
@@ -4529,7 +5099,11 @@
       "hot",
       "pepper"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "melting",
+      "i cant even",
+      "overheated"
+    ],
     "themes": [
       "red"
     ]
@@ -4581,7 +5155,11 @@
       "red",
       "valentine"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart hands",
+      "love this",
+      "i love it"
+    ],
     "themes": [
       "spring",
       "valentines day",
@@ -4633,7 +5211,12 @@
       "flower",
       "plant"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "spring",
       "nature",
@@ -4705,7 +5288,14 @@
       "lucky",
       "plant"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fingers crossed",
+      "good luck",
+      "luck",
+      "heart hands",
+      "love this",
+      "i love it"
+    ],
     "themes": [
       "spring",
       "autumn",
@@ -4818,7 +5408,11 @@
       "aubergine",
       "vegetable"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "dick",
+      "eggplant",
+      "purple vegetable"
+    ],
     "themes": [
       "spring",
       "easter",
@@ -4913,7 +5507,12 @@
       "fruit",
       "potassium"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "yellow"
     ]
@@ -4943,7 +5542,12 @@
       "red",
       "ripe"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "im dead",
+      "lol",
+      "rip",
+      "dying"
+    ],
     "themes": [
       "food",
       "red"
@@ -4977,7 +5581,12 @@
     "name": [
       "fruit"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "pink"
     ]
@@ -5101,7 +5710,16 @@
       "food",
       "rice"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": [
       "summer",
       "winter",
@@ -5134,7 +5752,12 @@
       "soup",
       "steaming"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "christmas",
       "birds",
@@ -5166,7 +5789,12 @@
       "toast",
       "wheat"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "food",
       "reading"
@@ -5180,7 +5808,12 @@
       "french",
       "fries"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fries",
+      "chips",
+      "french fries",
+      "spuds"
+    ],
     "themes": [
       "food"
     ]
@@ -5246,7 +5879,12 @@
       "shrimp",
       "tempura"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fries",
+      "chips",
+      "french fries",
+      "spuds"
+    ],
     "themes": [
       "halloween"
     ]
@@ -5348,7 +5986,16 @@
       "dessert",
       "sweet"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cookie",
+      "biscuit",
+      "wafer",
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good"
+    ],
     "themes": [
       "christmas",
       "sweets"
@@ -5496,7 +6143,16 @@
       "sunny",
       "up"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": [
       "spring",
       "summer",
@@ -5526,7 +6182,16 @@
       "yum",
       "yummy"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": [
       "morning",
       "food"
@@ -5579,7 +6244,12 @@
       "restaurant",
       "wine"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F378": {
@@ -5598,7 +6268,12 @@
       "martini",
       "men"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F379": {
@@ -5642,7 +6317,16 @@
       "stein",
       "summer"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": [
       "spring",
       "summer",
@@ -5664,7 +6348,12 @@
       "drinks",
       "mugs"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "spring",
       "insects"
@@ -5698,7 +6387,16 @@
       "knife",
       "plate"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": []
   },
   "1F37E": {
@@ -5833,7 +6531,12 @@
       "entertainment",
       "yolo"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": [
       "new year",
       "forest",
@@ -5848,7 +6551,12 @@
       "fireworks",
       "sparkle"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": []
   },
   "1F388": {
@@ -5858,7 +6566,13 @@
       "celebrate",
       "celebration"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "toilet",
+      "wc",
+      "loo",
+      "john",
+      "potty"
+    ],
     "themes": [
       "birthday"
     ]
@@ -5964,7 +6678,12 @@
       "celebration",
       "streamer"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "1F390": {
@@ -6005,7 +6724,16 @@
       "satchel",
       "school"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": [
       "school"
     ]
@@ -6021,7 +6749,12 @@
       "hat",
       "scholar"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": []
   },
   "1F396": {
@@ -6032,7 +6765,12 @@
       "medal",
       "military"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": []
   },
   "1F397": {
@@ -6080,7 +6818,12 @@
       "knobs",
       "music"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "music"
     ]
@@ -6113,7 +6856,12 @@
       "entertainment",
       "horse"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "1F3A1": {
@@ -6165,7 +6913,16 @@
       "sing",
       "sound"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": [
       "music",
       "tech"
@@ -6331,7 +7088,12 @@
       "slot",
       "slots"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "sports"
     ]
@@ -6347,7 +7109,12 @@
       "game",
       "pool"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": [
       "sports"
     ]
@@ -6390,7 +7157,12 @@
       "japanese",
       "playing"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "spring",
       "garden",
@@ -6406,7 +7178,12 @@
       "note",
       "sound"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "music"
     ]
@@ -6420,7 +7197,12 @@
       "notes",
       "sound"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "music"
     ]
@@ -6459,7 +7241,12 @@
       "musical",
       "piano"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "music",
       "tech"
@@ -6471,7 +7258,12 @@
       "instrument",
       "music"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "music"
     ]
@@ -6495,7 +7287,12 @@
       "note",
       "score"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "music"
     ]
@@ -6530,7 +7327,12 @@
       "snow",
       "sport"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "winter",
       "snow",
@@ -6578,7 +7380,12 @@
       "snowboard",
       "sport"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "winter",
       "snow",
@@ -6639,7 +7446,13 @@
       "speed",
       "woman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": []
   },
   "1F3C3-200D-2642-FE0F": {
@@ -6677,7 +7490,13 @@
       "rush",
       "speed"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": []
   },
   "1F3C3-200D-27A1-FE0F": {
@@ -6697,7 +7516,13 @@
       "rush",
       "speed"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": []
   },
   "1F3C4": {
@@ -7021,7 +7846,12 @@
       "racing",
       "zoom"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "1F3CF": {
@@ -7107,7 +7937,16 @@
       "snow",
       "snow-capped"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar",
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "winter",
       "snow",
@@ -7157,7 +7996,12 @@
     "name": [
       "city"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": []
   },
   "1F3DA": {
@@ -7176,7 +8020,12 @@
       "building",
       "classical"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "school"
     ]
@@ -7229,7 +8078,11 @@
       "suburbia",
       "where"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -7252,7 +8105,11 @@
       "suburbia",
       "where"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv"
+    ],
     "themes": [
       "valentines day",
       "garden",
@@ -7343,7 +8200,11 @@
     "name": [
       "building"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "melting",
+      "i cant even",
+      "overheated"
+    ],
     "themes": []
   },
   "1F3E9": {
@@ -7353,7 +8214,14 @@
       "hotel",
       "love"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart hands",
+      "love this",
+      "i love it",
+      "melting",
+      "i cant even",
+      "overheated"
+    ],
     "themes": [
       "valentines day",
       "love"
@@ -7603,7 +8471,16 @@
       "weapon",
       "zodiac"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": []
   },
   "1F3FB": {
@@ -7746,7 +8623,12 @@
       "predator",
       "zoo"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kitty",
+      "kitten",
+      "pussycat",
+      "tom"
+    ],
     "themes": [
       "animals",
       "pets",
@@ -7763,7 +8645,12 @@
       "predator",
       "zoo"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kitty",
+      "kitten",
+      "pussycat",
+      "tom"
+    ],
     "themes": [
       "animals",
       "pets",
@@ -7778,7 +8665,11 @@
       "bunny",
       "pet"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "bunny",
+      "bun",
+      "hare"
+    ],
     "themes": [
       "easter",
       "animals",
@@ -7794,7 +8685,12 @@
       "kitten",
       "pet"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kitty",
+      "kitten",
+      "pussycat",
+      "tom"
+    ],
     "themes": [
       "animals",
       "pets",
@@ -7812,7 +8708,15 @@
       "meow",
       "unlucky"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kitty",
+      "kitten",
+      "pussycat",
+      "tom",
+      "fingers crossed",
+      "good luck",
+      "luck"
+    ],
     "themes": [
       "halloween",
       "animals",
@@ -7869,7 +8773,12 @@
       "nature",
       "slug"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "animals",
       "insects",
@@ -7915,7 +8824,10 @@
       "zodiac",
       "zoo"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "lamb",
+      "woolly"
+    ],
     "themes": [
       "animals"
     ]
@@ -7929,7 +8841,12 @@
       "milk",
       "zodiac"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": [
       "animals",
       "white"
@@ -7947,7 +8864,10 @@
       "sheep",
       "wool"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "lamb",
+      "woolly"
+    ],
     "themes": [
       "animals"
     ]
@@ -8001,7 +8921,13 @@
       "dogs",
       "pet"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "doggie",
+      "doggo",
+      "puppy",
+      "pup",
+      "pooch"
+    ],
     "themes": [
       "animals",
       "pets"
@@ -8016,7 +8942,16 @@
       "dog",
       "service"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "doggie",
+      "doggo",
+      "puppy",
+      "pup",
+      "pooch",
+      "butt",
+      "ass",
+      "booty"
+    ],
     "themes": [
       "summer",
       "winter",
@@ -8297,7 +9232,16 @@
       "rise",
       "transform"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle",
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": []
   },
   "1F426-200D-2B1B": {
@@ -8314,7 +9258,16 @@
       "raven",
       "rook"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": [
       "animals",
       "pets",
@@ -8362,7 +9315,13 @@
       "dog",
       "fluffy"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "doggie",
+      "doggo",
+      "puppy",
+      "pup",
+      "pooch"
+    ],
     "themes": [
       "animals",
       "pets"
@@ -8452,7 +9411,12 @@
       "predator",
       "tiger"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kitty",
+      "kitten",
+      "pussycat",
+      "tom"
+    ],
     "themes": [
       "animals",
       "pets",
@@ -8469,7 +9433,11 @@
       "pet",
       "rabbit"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "bunny",
+      "bun",
+      "hare"
+    ],
     "themes": [
       "easter",
       "animals",
@@ -8486,7 +9454,12 @@
       "kitty",
       "pet"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kitty",
+      "kitten",
+      "pussycat",
+      "tom"
+    ],
     "themes": [
       "animals",
       "pets",
@@ -8567,7 +9540,13 @@
       "puppies",
       "puppy"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "doggie",
+      "doggo",
+      "puppy",
+      "pup",
+      "pooch"
+    ],
     "themes": [
       "animals",
       "pets"
@@ -8682,7 +9661,12 @@
       "smell",
       "snout"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "animals",
       "body",
@@ -8726,7 +9710,16 @@
       "see",
       "seeing"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "toilet",
+      "wc",
+      "loo",
+      "john",
+      "potty",
+      "thumbs up",
+      "ok",
+      "approve"
+    ],
     "themes": [
       "body"
     ]
@@ -8752,7 +9745,13 @@
       "speech",
       "witness"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "toilet",
+      "wc",
+      "loo",
+      "john",
+      "potty"
+    ],
     "themes": [
       "birthday",
       "body"
@@ -8784,7 +9783,12 @@
       "smell",
       "smells"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "body"
     ]
@@ -8799,7 +9803,12 @@
       "lips",
       "lipstick"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kiss",
+      "smooch",
+      "mwah",
+      "smack"
+    ],
     "themes": [
       "valentines day",
       "body"
@@ -8876,7 +9885,13 @@
       "pointing",
       "right"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": [
       "body"
     ]
@@ -8952,7 +9967,16 @@
       "sweet",
       "three"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "fire",
+      "lit",
+      "sick"
+    ],
     "themes": [
       "sweets",
       "body"
@@ -8969,7 +9993,16 @@
       "up",
       "yes"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": [
       "body"
     ]
@@ -8988,7 +10021,16 @@
       "thumb",
       "thumbs"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "no",
+      "wrong",
+      "denied"
+    ],
     "themes": [
       "body"
     ]
@@ -9013,7 +10055,13 @@
       "well",
       "yay"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good"
+    ],
     "themes": [
       "work",
       "body",
@@ -9080,7 +10128,12 @@
       "eyeglasses",
       "eyewear"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "body"
     ]
@@ -9153,7 +10206,12 @@
       "clothing",
       "comfortable"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F459": {
@@ -9371,7 +10429,13 @@
       "young",
       "younger"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": []
   },
   "1F467": {
@@ -9387,7 +10451,13 @@
       "younger",
       "zodiac"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": []
   },
   "1F468": {
@@ -9417,7 +10487,16 @@
       "cook",
       "man"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": []
   },
   "1F468-200D-1F37C": {
@@ -9500,7 +10579,12 @@
       "man",
       "worker"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "work"
     ]
@@ -9689,7 +10773,12 @@
       "software",
       "technologist"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "work",
       "tech"
@@ -9758,7 +10847,12 @@
       "firetruck",
       "man"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": [
       "forest"
     ]
@@ -9773,7 +10867,12 @@
       "probing",
       "white"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": [
       "white"
     ]
@@ -9790,7 +10889,16 @@
       "right",
       "white"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": [
       "white"
     ]
@@ -9851,7 +10959,12 @@
       "motorized",
       "wheelchair"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": []
   },
   "1F468-200D-1F9BC-200D-27A1-FE0F": {
@@ -9864,7 +10977,16 @@
       "right",
       "wheelchair"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": []
   },
   "1F468-200D-1F9BD": {
@@ -9875,7 +10997,12 @@
       "manual",
       "wheelchair"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": []
   },
   "1F468-200D-1F9BD-200D-27A1-FE0F": {
@@ -9888,7 +11015,16 @@
       "right",
       "wheelchair"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": []
   },
   "1F468-200D-2695-FE0F": {
@@ -9902,7 +11038,12 @@
       "therapist",
       "worker"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "work"
     ]
@@ -9947,7 +11088,14 @@
       "together",
       "you"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "heart hands",
+      "love this",
+      "i love it"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -9973,7 +11121,14 @@
       "together",
       "xoxo"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "heart hands",
+      "love this",
+      "i love it"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -10007,7 +11162,16 @@
       "cook",
       "woman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": []
   },
   "1F469-200D-1F37C": {
@@ -10090,7 +11254,12 @@
       "woman",
       "worker"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "work"
     ]
@@ -10218,7 +11387,12 @@
       "technologist",
       "woman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "work",
       "tech"
@@ -10287,7 +11461,12 @@
       "firetruck",
       "woman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": [
       "forest"
     ]
@@ -10302,7 +11481,12 @@
       "white",
       "woman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": [
       "white"
     ]
@@ -10319,7 +11503,16 @@
       "white",
       "woman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": [
       "white"
     ]
@@ -10380,7 +11573,12 @@
       "wheelchair",
       "woman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": []
   },
   "1F469-200D-1F9BC-200D-27A1-FE0F": {
@@ -10393,7 +11591,16 @@
       "wheelchair",
       "woman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": []
   },
   "1F469-200D-1F9BD": {
@@ -10404,7 +11611,12 @@
       "wheelchair",
       "woman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": []
   },
   "1F469-200D-1F9BD-200D-27A1-FE0F": {
@@ -10417,7 +11629,16 @@
       "wheelchair",
       "woman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": []
   },
   "1F469-200D-2695-FE0F": {
@@ -10431,7 +11652,12 @@
       "woman",
       "worker"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "work"
     ]
@@ -10477,7 +11703,14 @@
       "woman",
       "you"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "heart hands",
+      "love this",
+      "i love it"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -10502,7 +11735,14 @@
       "woman",
       "you"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "heart hands",
+      "love this",
+      "i love it"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -10529,7 +11769,14 @@
       "woman",
       "xoxo"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "heart hands",
+      "love this",
+      "i love it"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -10555,7 +11802,14 @@
       "woman",
       "xoxo"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "heart hands",
+      "love this",
+      "i love it"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -10719,7 +11973,11 @@
       "twin",
       "twinsies"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "bunny",
+      "bun",
+      "hare"
+    ],
     "themes": [
       "easter",
       "birthday",
@@ -10746,7 +12004,11 @@
       "twinsies",
       "women"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "bunny",
+      "bun",
+      "hare"
+    ],
     "themes": [
       "easter",
       "birthday",
@@ -10773,7 +12035,11 @@
       "twin",
       "twinsies"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "bunny",
+      "bun",
+      "hare"
+    ],
     "themes": [
       "easter",
       "birthday",
@@ -10864,7 +12130,16 @@
       "pi",
       "skullcap"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "im dead",
+      "lol",
+      "rip",
+      "dying",
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": [
       "halloween"
     ]
@@ -11047,7 +12322,12 @@
       "scary",
       "tale"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "animals",
       "reading"
@@ -11090,7 +12370,12 @@
       "silly",
       "tale"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "halloween",
       "animals",
@@ -11128,7 +12413,12 @@
       "tale",
       "ufo"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": [
       "animals",
       "reading"
@@ -11153,7 +12443,12 @@
       "tale",
       "ufo"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": [
       "animals",
       "sports",
@@ -11199,7 +12494,12 @@
       "tale",
       "yolo"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "im dead",
+      "lol",
+      "rip",
+      "dying"
+    ],
     "themes": [
       "halloween",
       "reading",
@@ -11222,7 +12522,12 @@
       "tipping",
       "whatever"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "body"
     ]
@@ -11243,7 +12548,12 @@
       "whatever",
       "woman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "body"
     ]
@@ -11264,7 +12574,12 @@
       "tipping",
       "whatever"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "body"
     ]
@@ -11348,7 +12663,16 @@
       "polish",
       "whatever"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": []
   },
   "1F486": {
@@ -11368,7 +12692,12 @@
       "therapy",
       "treatment"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F486-200D-2640-FE0F": {
@@ -11388,7 +12717,12 @@
       "treatment",
       "woman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F486-200D-2642-FE0F": {
@@ -11408,7 +12742,12 @@
       "therapy",
       "treatment"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F487": {
@@ -11501,7 +12840,16 @@
       "tool",
       "vaccination"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "puke",
+      "barf",
+      "throwing up",
+      "vomit",
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": [
       "wedding"
     ]
@@ -11517,7 +12865,16 @@
       "sick",
       "vitamin"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "puke",
+      "barf",
+      "throwing up",
+      "vomit",
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": []
   },
   "1F48B": {
@@ -11533,7 +12890,16 @@
       "romance",
       "sexy"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "kiss",
+      "smooch",
+      "mwah",
+      "smack",
+      "smiling tear"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -11550,7 +12916,14 @@
       "romance",
       "valentine"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "heart hands",
+      "love this",
+      "i love it"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -11569,7 +12942,12 @@
       "sparkling",
       "wedding"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fancy",
+      "extra",
+      "sparkle",
+      "glitter"
+    ],
     "themes": [
       "wedding",
       "love"
@@ -11610,7 +12988,14 @@
       "together",
       "xoxo"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "heart hands",
+      "love this",
+      "i love it"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -11628,7 +13013,11 @@
       "plant",
       "romance"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart hands",
+      "love this",
+      "i love it"
+    ],
     "themes": [
       "spring",
       "valentines day",
@@ -11656,7 +13045,14 @@
       "together",
       "you"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "heart hands",
+      "love this",
+      "i love it"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -11691,7 +13087,16 @@
       "pulsating",
       "pulse"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "car",
+      "automobile",
+      "auto",
+      "vehicle",
+      "heart hands"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -11710,7 +13115,16 @@
       "lonely",
       "sad"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good"
+    ],
     "themes": [
       "valentines day",
       "sad",
@@ -11735,7 +13149,16 @@
       "two",
       "xoxo"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "heart hands",
+      "love this",
+      "i love it",
+      "smiling tear",
+      "holding back tears"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -11758,7 +13181,16 @@
       "sparkling",
       "xoxo"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good"
+    ],
     "themes": [
       "morning",
       "night",
@@ -11784,7 +13216,14 @@
       "pulse",
       "xoxo"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "smiling tear",
+      "holding back tears",
+      "sad smile"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -11806,7 +13245,16 @@
       "romance",
       "valentine"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "heart hands",
+      "love this",
+      "i love it",
+      "smiling tear",
+      "holding back tears"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -11824,7 +13272,16 @@
       "love",
       "romance"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "heart hands",
+      "love this",
+      "i love it",
+      "smiling tear",
+      "holding back tears"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -11843,7 +13300,16 @@
       "love",
       "romantic"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "heart hands",
+      "love this",
+      "i love it",
+      "smiling tear",
+      "holding back tears"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -11862,7 +13328,16 @@
       "love",
       "yellow"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "car",
+      "automobile",
+      "auto",
+      "vehicle",
+      "heart hands"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -11881,7 +13356,16 @@
       "love",
       "purple"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "heart hands",
+      "love this",
+      "i love it",
+      "smiling tear",
+      "holding back tears"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -11901,7 +13385,14 @@
       "valentine",
       "xoxo"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "smiling tear",
+      "holding back tears",
+      "sad smile"
+    ],
     "themes": [
       "christmas",
       "valentines day",
@@ -11920,7 +13411,14 @@
       "hearts",
       "revolving"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "smiling tear",
+      "holding back tears",
+      "sad smile"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -11938,7 +13436,14 @@
       "purple",
       "white"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "smiling tear",
+      "holding back tears",
+      "sad smile"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -11991,7 +13496,15 @@
       "explosion",
       "hot"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "melting",
+      "i cant even",
+      "overheated",
+      "warning",
+      "caution",
+      "alert",
+      "danger"
+    ],
     "themes": []
   },
   "1F4A4": {
@@ -12007,7 +13520,13 @@
       "tired",
       "zzz"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good"
+    ],
     "themes": [
       "night",
       "black"
@@ -12041,7 +13560,12 @@
       "work",
       "workout"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "im dead",
+      "lol",
+      "rip",
+      "dying"
+    ],
     "themes": [
       "summer",
       "rain",
@@ -12062,7 +13586,11 @@
       "water",
       "weather"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "smiling tear",
+      "holding back tears",
+      "sad smile"
+    ],
     "themes": [
       "summer",
       "rain",
@@ -12086,7 +13614,16 @@
       "running",
       "smoke"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": [
       "rain",
       "clouds",
@@ -12113,7 +13650,12 @@
       "stinky",
       "turd"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "poop",
+      "shit",
+      "crap",
+      "number two"
+    ],
     "themes": []
   },
   "1F4AA": {
@@ -12136,7 +13678,12 @@
       "strong",
       "weightlift"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "im dead",
+      "lol",
+      "rip",
+      "dying"
+    ],
     "themes": [
       "summer",
       "winter",
@@ -12173,7 +13720,13 @@
       "text",
       "typing"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "toilet",
+      "wc",
+      "loo",
+      "john",
+      "potty"
+    ],
     "themes": [
       "birthday"
     ]
@@ -12197,7 +13750,16 @@
       "thoughts",
       "wonder"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "toilet",
+      "wc",
+      "loo",
+      "john",
+      "potty",
+      "car",
+      "automobile",
+      "auto"
+    ],
     "themes": [
       "rain",
       "clouds",
@@ -12308,7 +13870,12 @@
       "money",
       "pay"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "red"
     ]
@@ -12324,7 +13891,12 @@
       "note",
       "yen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "music"
     ]
@@ -12340,7 +13912,12 @@
       "money",
       "note"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "music"
     ]
@@ -12358,7 +13935,12 @@
       "note",
       "rich"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "music"
     ]
@@ -12377,7 +13959,12 @@
       "pound",
       "pounds"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "music"
     ]
@@ -12398,7 +13985,12 @@
       "pay",
       "wings"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "music"
     ]
@@ -12479,7 +14071,11 @@
       "disk",
       "floppy"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "melting",
+      "i cant even",
+      "overheated"
+    ],
     "themes": [
       "work",
       "tech"
@@ -12545,7 +14141,12 @@
       "page",
       "paper"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "copy",
+      "paste",
+      "clipboard",
+      "document"
+    ],
     "themes": []
   },
   "1F4C4": {
@@ -12557,7 +14158,12 @@
       "paper",
       "up"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "copy",
+      "paste",
+      "clipboard",
+      "document"
+    ],
     "themes": []
   },
   "1F4C5": {
@@ -12574,7 +14180,11 @@
       "calendar",
       "tear-off"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "smiling tear",
+      "holding back tears",
+      "sad smile"
+    ],
     "themes": [
       "tea",
       "body"
@@ -12589,7 +14199,12 @@
       "rolodex",
       "school"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "school"
     ]
@@ -12607,7 +14222,13 @@
       "up",
       "upward"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": [
       "work"
     ]
@@ -12649,7 +14270,16 @@
       "list",
       "notes"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "copy",
+      "paste",
+      "clipboard",
+      "document",
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "music"
     ]
@@ -12723,7 +14353,16 @@
       "marker",
       "tabs"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": [
       "school",
       "reading"
@@ -12734,7 +14373,16 @@
     "name": [
       "notebook"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "no",
+      "wrong",
+      "denied"
+    ],
     "themes": []
   },
   "1F4D3": {
@@ -12742,7 +14390,16 @@
     "name": [
       "notebook"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "no",
+      "wrong",
+      "denied"
+    ],
     "themes": [
       "school",
       "music",
@@ -12761,7 +14418,16 @@
       "school",
       "writing"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "no",
+      "wrong",
+      "denied"
+    ],
     "themes": [
       "school",
       "music",
@@ -12775,7 +14441,16 @@
       "closed",
       "education"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": [
       "school",
       "reading"
@@ -12793,7 +14468,16 @@
       "open",
       "reading"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "no",
+      "wrong",
+      "denied"
+    ],
     "themes": [
       "school",
       "reading"
@@ -12809,7 +14493,16 @@
       "library",
       "reading"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": [
       "school",
       "reading",
@@ -12826,7 +14519,16 @@
       "library",
       "reading"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": [
       "school",
       "reading",
@@ -12843,7 +14545,16 @@
       "orange",
       "reading"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": [
       "school",
       "reading"
@@ -12862,7 +14573,16 @@
       "school",
       "study"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "no",
+      "wrong",
+      "denied"
+    ],
     "themes": [
       "school",
       "reading"
@@ -12893,7 +14613,12 @@
       "notes",
       "pencil"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "school",
       "music"
@@ -12941,7 +14666,16 @@
       "satellite",
       "science"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope",
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": [
       "food"
     ]
@@ -13230,7 +14964,12 @@
       "prohibited",
       "telephone"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "tech"
     ]
@@ -13263,7 +15002,15 @@
       "trip",
       "video"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "im dead",
+      "lol",
+      "rip",
+      "dying",
+      "melting",
+      "i cant even",
+      "overheated"
+    ],
     "themes": [
       "tech"
     ]
@@ -13326,7 +15073,12 @@
       "vhs",
       "video"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "school"
     ]
@@ -13352,7 +15104,12 @@
       "prayer",
       "religion"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thanks",
+      "please",
+      "praying",
+      "respect"
+    ],
     "themes": [
       "sun"
     ]
@@ -13366,7 +15123,12 @@
       "shuffle",
       "tracks"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F501": {
@@ -13377,7 +15139,12 @@
       "clockwise",
       "repeat"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F502": {
@@ -13390,7 +15157,12 @@
       "repeat",
       "single"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F503": {
@@ -13422,7 +15194,12 @@
       "rewindershins",
       "vu"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "new year"
     ]
@@ -13435,7 +15212,16 @@
       "dim",
       "low"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": []
   },
   "1F506": {
@@ -13446,7 +15232,16 @@
       "button",
       "light"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": []
   },
   "1F507": {
@@ -13531,7 +15326,12 @@
       "tilted",
       "tool"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F50E": {
@@ -13548,7 +15348,16 @@
       "tilted",
       "tool"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": []
   },
   "1F50F": {
@@ -13588,7 +15397,12 @@
       "password",
       "unlock"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F512": {
@@ -13638,7 +15452,12 @@
       "slash",
       "sound"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "christmas"
     ]
@@ -13648,7 +15467,16 @@
     "name": [
       "mark"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": [
       "school",
       "reading"
@@ -13669,7 +15497,12 @@
       "geometric",
       "radio"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "tech"
     ]
@@ -13738,7 +15571,12 @@
       "restriction",
       "underage"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F51F": {
@@ -13746,7 +15584,12 @@
     "name": [
       "keycap"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": []
   },
   "1F520": {
@@ -13819,7 +15662,15 @@
       "litaf",
       "tool"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope",
+      "melting",
+      "i cant even",
+      "overheated"
+    ],
     "themes": [
       "forest"
     ]
@@ -13880,7 +15731,16 @@
       "tool",
       "weapon"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": [
       "birds"
     ]
@@ -14002,7 +15862,12 @@
       "geometric",
       "square"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "black"
     ]
@@ -14016,7 +15881,12 @@
       "square",
       "white"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "white"
     ]
@@ -14130,7 +16000,12 @@
       "up",
       "upwards"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "red"
     ]
@@ -14144,7 +16019,12 @@
       "downwards",
       "red"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "red"
     ]
@@ -14218,7 +16098,12 @@
       "judaism",
       "religion"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F550": {
@@ -14673,7 +16558,12 @@
       "eyewear",
       "glasses"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "summer",
       "sun",
@@ -14713,7 +16603,12 @@
       "video",
       "videogame"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "lol",
+      "lmao",
+      "rofl",
+      "crying laughing"
+    ],
     "themes": [
       "happy",
       "sports"
@@ -14837,7 +16732,11 @@
       "heart",
       "wicked"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -14912,7 +16811,12 @@
       "dividers",
       "index"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "1F5C3": {
@@ -14922,7 +16826,12 @@
       "card",
       "file"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "1F5C4": {
@@ -14955,7 +16864,12 @@
       "pad",
       "spiral"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "music"
     ]
@@ -15035,7 +16949,13 @@
       "left",
       "speech"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "toilet",
+      "wc",
+      "loo",
+      "john",
+      "potty"
+    ],
     "themes": [
       "birthday"
     ]
@@ -15050,7 +16970,16 @@
       "mad",
       "right"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "toilet",
+      "wc",
+      "loo",
+      "john",
+      "potty",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": [
       "birthday"
     ]
@@ -15092,7 +17021,16 @@
       "tokyo",
       "tower"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": []
   },
   "1F5FD": {
@@ -15164,7 +17102,13 @@
       "smiling",
       "teeth"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": [
       "happy",
       "body"
@@ -15189,7 +17133,15 @@
       "roflmao",
       "tear"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "lol",
+      "lmao",
+      "rofl",
+      "crying laughing",
+      "smiling tear",
+      "holding back tears",
+      "sad smile"
+    ],
     "themes": [
       "tea",
       "happy",
@@ -15213,7 +17165,16 @@
       "teeth",
       "yay"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kiss",
+      "smooch",
+      "mwah",
+      "smack",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": [
       "happy",
       "body"
@@ -15235,7 +17196,16 @@
       "smile",
       "smiling"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kiss",
+      "smooch",
+      "mwah",
+      "smack",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": [
       "happy",
       "body"
@@ -15258,7 +17228,12 @@
       "stressed",
       "sweat"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kiss",
+      "smooch",
+      "mwah",
+      "smack"
+    ],
     "themes": [
       "happy",
       "body"
@@ -15283,7 +17258,16 @@
       "smiling",
       "squinting"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kiss",
+      "smooch",
+      "mwah",
+      "smack",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": [
       "happy",
       "body"
@@ -15309,7 +17293,12 @@
       "spirit",
       "tale"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "happy",
       "reading"
@@ -15367,7 +17356,13 @@
       "smile",
       "smiling"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": [
       "happy",
       "body"
@@ -15407,7 +17402,12 @@
       "relieved",
       "zen"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": []
   },
   "1F60D": {
@@ -15428,7 +17428,16 @@
       "smile",
       "xoxo"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart hands",
+      "love this",
+      "i love it",
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": [
       "valentines day",
       "happy",
@@ -15456,7 +17465,16 @@
       "swag",
       "win"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": [
       "summer",
       "sun",
@@ -15534,7 +17552,12 @@
       "unimpressed",
       "whatever"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "sad",
       "cringe"
@@ -15579,7 +17602,12 @@
       "sweat",
       "yikes"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "sad"
     ]
@@ -15621,7 +17649,12 @@
       "sorry",
       "sure"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "sad"
     ]
@@ -15640,7 +17673,12 @@
       "mad",
       "sad"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "sad",
       "cringe"
@@ -15662,7 +17700,11 @@
       "xoxo",
       "you"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart hands",
+      "love this",
+      "i love it"
+    ],
     "themes": [
       "valentines day",
       "love"
@@ -15688,7 +17730,16 @@
       "xoxo",
       "you"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "kiss",
+      "smooch",
+      "mwah",
+      "smack",
+      "heart hands"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -15715,7 +17766,16 @@
       "smile",
       "smiling"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart hands",
+      "love this",
+      "i love it",
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": [
       "night",
       "valentines day",
@@ -15744,7 +17804,13 @@
       "smooches",
       "xoxo"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": [
       "valentines day",
       "body"
@@ -15789,7 +17855,16 @@
       "winking",
       "yolo"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "toilet",
+      "wc",
+      "loo",
+      "john",
+      "potty",
+      "thumbs up",
+      "ok",
+      "approve"
+    ],
     "themes": [
       "birthday",
       "body"
@@ -15812,7 +17887,13 @@
       "whatever",
       "yolo"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": [
       "body"
     ]
@@ -15850,7 +17931,16 @@
       "worried",
       "worry"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks",
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": [
       "sad"
     ]
@@ -15913,7 +18003,11 @@
       "triste",
       "unhappy"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "smiling tear",
+      "holding back tears",
+      "sad smile"
+    ],
     "themes": [
       "sad"
     ]
@@ -15952,7 +18046,12 @@
       "unhappy",
       "won"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "tea",
       "sad",
@@ -15975,7 +18074,16 @@
       "time",
       "whew"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar",
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "sad"
     ]
@@ -15996,7 +18104,16 @@
       "what",
       "wow"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kiss",
+      "smooch",
+      "mwah",
+      "smack",
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "school",
       "body"
@@ -16016,7 +18133,12 @@
       "what",
       "wow"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "sad"
     ]
@@ -16033,7 +18155,12 @@
       "scared",
       "worried"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "body"
     ]
@@ -16054,7 +18181,12 @@
       "unhappy",
       "weary"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "sad",
       "body"
@@ -16073,7 +18205,13 @@
       "sleepy",
       "tired"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good"
+    ],
     "themes": [
       "night",
       "sad",
@@ -16130,7 +18268,11 @@
       "tears",
       "unhappy"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "smiling tear",
+      "holding back tears",
+      "sad smile"
+    ],
     "themes": [
       "sad"
     ]
@@ -16153,7 +18295,16 @@
       "wow",
       "you"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kiss",
+      "smooch",
+      "mwah",
+      "smack",
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": [
       "school",
       "body"
@@ -16177,7 +18328,16 @@
       "whisper",
       "whistle"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "facepalm",
+      "give up",
+      "i cant",
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good"
+    ],
     "themes": [
       "happy"
     ]
@@ -16213,7 +18373,16 @@
       "sweat",
       "yikes"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kiss",
+      "smooch",
+      "mwah",
+      "smack",
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "body",
       "blue"
@@ -16235,7 +18404,12 @@
       "surprised",
       "woah"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "body"
     ]
@@ -16252,7 +18426,12 @@
       "totally",
       "way"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F633": {
@@ -16275,7 +18454,16 @@
       "what",
       "wow"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks",
+      "melting",
+      "i cant even",
+      "overheated",
+      "cap"
+    ],
     "themes": [
       "summer",
       "cringe"
@@ -16298,7 +18486,13 @@
       "yawn",
       "zzz"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good"
+    ],
     "themes": [
       "night",
       "black"
@@ -16318,7 +18512,16 @@
       "sick",
       "tired"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "puke",
+      "barf",
+      "throwing up",
+      "vomit",
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": [
       "body"
     ]
@@ -16339,7 +18542,16 @@
       "woah",
       "woozy"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": [
       "happy",
       "body"
@@ -16361,7 +18573,12 @@
       "silent",
       "speechless"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kiss",
+      "smooch",
+      "mwah",
+      "smack"
+    ],
     "themes": [
       "body",
       "cringe"
@@ -16399,7 +18616,16 @@
       "medicine",
       "sick"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "puke",
+      "barf",
+      "throwing up",
+      "vomit",
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": []
   },
   "1F638": {
@@ -16415,7 +18641,16 @@
       "smile",
       "smiling"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kitty",
+      "kitten",
+      "pussycat",
+      "tom",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": [
       "animals",
       "pets",
@@ -16437,7 +18672,16 @@
       "tear",
       "tears"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kitty",
+      "kitten",
+      "pussycat",
+      "tom",
+      "lol",
+      "lmao",
+      "rofl",
+      "crying laughing"
+    ],
     "themes": [
       "animals",
       "pets",
@@ -16459,7 +18703,16 @@
       "smile",
       "smiling"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kitty",
+      "kitten",
+      "pussycat",
+      "tom",
+      "kiss",
+      "smooch",
+      "mwah",
+      "smack"
+    ],
     "themes": [
       "animals",
       "pets",
@@ -16481,7 +18734,16 @@
       "smile",
       "smiling"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kitty",
+      "kitten",
+      "pussycat",
+      "tom",
+      "heart",
+      "sweetheart",
+      "luv",
+      "heart hands"
+    ],
     "themes": [
       "valentines day",
       "animals",
@@ -16502,7 +18764,12 @@
       "smile",
       "wry"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kitty",
+      "kitten",
+      "pussycat",
+      "tom"
+    ],
     "themes": [
       "animals",
       "pets",
@@ -16522,7 +18789,16 @@
       "kiss",
       "kissing"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kitty",
+      "kitten",
+      "pussycat",
+      "tom",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": [
       "valentines day",
       "animals",
@@ -16539,7 +18815,12 @@
       "face",
       "pouting"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kitty",
+      "kitten",
+      "pussycat",
+      "tom"
+    ],
     "themes": [
       "animals",
       "pets",
@@ -16557,7 +18838,15 @@
       "sad",
       "tear"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kitty",
+      "kitten",
+      "pussycat",
+      "tom",
+      "smiling tear",
+      "holding back tears",
+      "sad smile"
+    ],
     "themes": [
       "animals",
       "pets",
@@ -16575,7 +18864,12 @@
       "surprised",
       "weary"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kitty",
+      "kitten",
+      "pussycat",
+      "tom"
+    ],
     "themes": [
       "animals",
       "pets",
@@ -16620,7 +18914,12 @@
       "shake",
       "shaking"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "body"
     ]
@@ -16634,7 +18933,16 @@
       "vertically",
       "yes"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": [
       "body"
     ]
@@ -16663,7 +18971,13 @@
       "ugh",
       "whatever"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": [
       "body"
     ]
@@ -16679,7 +18993,15 @@
       "person",
       "prohibit"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "facepalm",
+      "give up",
+      "i cant",
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "wedding",
       "body"
@@ -16696,7 +19018,12 @@
       "prohibit",
       "woman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "wedding",
       "body"
@@ -16713,7 +19040,12 @@
       "not",
       "prohibit"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "wedding",
       "body"
@@ -16730,7 +19062,16 @@
       "omg",
       "person"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "facepalm",
+      "give up",
+      "i cant",
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good"
+    ],
     "themes": [
       "wedding",
       "body"
@@ -16747,7 +19088,16 @@
       "omg",
       "woman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": [
       "wedding",
       "body"
@@ -16764,7 +19114,16 @@
       "ok",
       "omg"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": [
       "wedding",
       "body"
@@ -16858,7 +19217,16 @@
       "smh",
       "watch"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks",
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "1F649": {
@@ -16880,7 +19248,12 @@
       "shh",
       "tmi"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "animals",
       "body"
@@ -16904,7 +19277,12 @@
       "speak",
       "stealth"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "animals"
     ]
@@ -16923,7 +19301,12 @@
       "raise",
       "raising"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "body"
     ]
@@ -16942,7 +19325,12 @@
       "raising",
       "woman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "body"
     ]
@@ -16961,7 +19349,12 @@
       "raise",
       "raising"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "body"
     ]
@@ -16998,7 +19391,12 @@
       "person",
       "upset"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F64D-200D-2640-FE0F": {
@@ -17016,7 +19414,12 @@
       "upset",
       "woman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F64D-200D-2642-FE0F": {
@@ -17034,7 +19437,12 @@
       "man",
       "upset"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F64E": {
@@ -17107,7 +19515,12 @@
       "thanks",
       "thx"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thanks",
+      "please",
+      "praying",
+      "respect"
+    ],
     "themes": [
       "christmas",
       "body"
@@ -17132,7 +19545,12 @@
       "travel",
       "vehicle"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "1F682": {
@@ -17160,7 +19578,12 @@
       "travel",
       "trolleybus"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "1F684": {
@@ -17189,7 +19612,12 @@
       "train",
       "travel"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "rain",
       "body"
@@ -17225,7 +19653,12 @@
       "rail",
       "railway"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F689": {
@@ -17254,7 +19687,12 @@
       "trolley",
       "trolleybus"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "1F68C": {
@@ -17263,7 +19701,12 @@
       "school",
       "vehicle"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "school"
     ]
@@ -17275,7 +19718,12 @@
       "cars",
       "oncoming"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "1F68E": {
@@ -17306,7 +19754,12 @@
       "van",
       "vehicle"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "1F691": {
@@ -17315,7 +19768,12 @@
       "emergency",
       "vehicle"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "1F692": {
@@ -17325,7 +19783,12 @@
       "fire",
       "truck"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": [
       "forest"
     ]
@@ -17339,7 +19802,12 @@
       "patrol",
       "police"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "summer",
       "winter"
@@ -17352,7 +19820,12 @@
       "oncoming",
       "police"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "summer",
       "winter"
@@ -17368,7 +19841,12 @@
       "vehicle",
       "yellow"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "yellow"
     ]
@@ -17385,7 +19863,12 @@
       "taxi",
       "yellow"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "yellow"
     ]
@@ -17397,7 +19880,12 @@
       "driving",
       "vehicle"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "1F698": {
@@ -17410,7 +19898,12 @@
       "oncoming",
       "vehicle"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "1F699": {
@@ -17424,7 +19917,16 @@
       "utility",
       "vehicle"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle",
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": [
       "sports"
     ]
@@ -17438,7 +19940,12 @@
       "truck",
       "vehicle"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "1F69B": {
@@ -17453,7 +19960,12 @@
       "truck",
       "vehicle"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "1F69C": {
@@ -17461,7 +19973,12 @@
     "name": [
       "vehicle"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "1F69D": {
@@ -17469,7 +19986,16 @@
     "name": [
       "vehicle"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle",
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F69E": {
@@ -17480,7 +20006,16 @@
       "railway",
       "trip"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle",
+      "im dead",
+      "lol",
+      "rip",
+      "dying"
+    ],
     "themes": [
       "nature"
     ]
@@ -17521,7 +20056,12 @@
       "ropeway",
       "tramway"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "1F6A2": {
@@ -17531,7 +20071,12 @@
       "passenger",
       "travel"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F6A3": {
@@ -17551,7 +20096,12 @@
       "rowboat",
       "rowing"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "blue"
     ]
@@ -17573,7 +20123,12 @@
       "rowing",
       "woman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "blue"
     ]
@@ -17595,7 +20150,12 @@
       "rowboat",
       "rowing"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "blue"
     ]
@@ -17667,7 +20227,16 @@
       "revolving",
       "siren"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle",
+      "warning",
+      "caution",
+      "alert",
+      "danger"
+    ],
     "themes": [
       "summer",
       "winter"
@@ -17704,7 +20273,16 @@
       "not",
       "smoke"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "no",
+      "wrong",
+      "denied"
+    ],
     "themes": []
   },
   "1F6AC": {
@@ -17712,7 +20290,16 @@
     "name": [
       "smoking"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": []
   },
   "1F6AD": {
@@ -17725,7 +20312,16 @@
       "smoke",
       "smoking"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "no",
+      "wrong",
+      "denied"
+    ],
     "themes": []
   },
   "1F6AE": {
@@ -17736,7 +20332,12 @@
       "litterbin",
       "sign"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": []
   },
   "1F6AF": {
@@ -17749,7 +20350,16 @@
       "not",
       "prohibited"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope",
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "wedding"
     ]
@@ -17777,7 +20387,12 @@
       "prohibited",
       "water"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "summer",
       "work",
@@ -17797,7 +20412,12 @@
       "spin",
       "spinning"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "school"
     ]
@@ -17813,7 +20433,12 @@
       "not",
       "prohibited"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F6B4": {
@@ -17983,7 +20608,13 @@
       "walking",
       "woman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": []
   },
   "1F6B6-200D-2642-FE0F": {
@@ -18019,7 +20650,13 @@
       "walk",
       "walking"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": []
   },
   "1F6B6-200D-27A1-FE0F": {
@@ -18039,7 +20676,13 @@
       "walk",
       "walking"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": []
   },
   "1F6B7": {
@@ -18052,7 +20695,12 @@
       "pedestrians",
       "prohibited"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F6B8": {
@@ -18079,7 +20727,13 @@
       "toilet",
       "wc"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "toilet",
+      "wc",
+      "loo",
+      "john",
+      "potty"
+    ],
     "themes": []
   },
   "1F6BA": {
@@ -18094,7 +20748,13 @@
       "woman",
       "women’s"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "toilet",
+      "wc",
+      "loo",
+      "john",
+      "potty"
+    ],
     "themes": []
   },
   "1F6BB": {
@@ -18105,7 +20765,13 @@
       "toilet",
       "wc"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "toilet",
+      "wc",
+      "loo",
+      "john",
+      "potty"
+    ],
     "themes": []
   },
   "1F6BC": {
@@ -18123,7 +20789,13 @@
     "name": [
       "bathroom"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "toilet",
+      "wc",
+      "loo",
+      "john",
+      "potty"
+    ],
     "themes": []
   },
   "1F6BE": {
@@ -18137,7 +20809,13 @@
       "water",
       "wc"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "toilet",
+      "wc",
+      "loo",
+      "john",
+      "potty"
+    ],
     "themes": [
       "summer",
       "blue"
@@ -18180,7 +20858,12 @@
       "control",
       "passport"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "sports"
     ]
@@ -18209,7 +20892,12 @@
       "travel",
       "trip"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "im dead",
+      "lol",
+      "rip",
+      "dying"
+    ],
     "themes": []
   },
   "1F6C5": {
@@ -18231,7 +20919,11 @@
       "hotel",
       "lamp"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "melting",
+      "i cant even",
+      "overheated"
+    ],
     "themes": []
   },
   "1F6CC": {
@@ -18249,7 +20941,16 @@
       "tired",
       "zzz"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "melting",
+      "i cant even",
+      "overheated"
+    ],
     "themes": [
       "night",
       "black"
@@ -18263,7 +20964,11 @@
       "hotel",
       "shopping"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "melting",
+      "i cant even",
+      "overheated"
+    ],
     "themes": []
   },
   "1F6CE": {
@@ -18273,7 +20978,11 @@
       "bellhop",
       "hotel"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "melting",
+      "i cant even",
+      "overheated"
+    ],
     "themes": [
       "christmas"
     ]
@@ -18284,7 +20993,11 @@
       "hotel",
       "sleep"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "melting",
+      "i cant even",
+      "overheated"
+    ],
     "themes": []
   },
   "1F6D0": {
@@ -18315,7 +21028,12 @@
       "shopping",
       "trolley"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "1F6D5": {
@@ -18346,7 +21064,12 @@
       "hoist",
       "lift"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": []
   },
   "1F6D8": {
@@ -18360,7 +21083,12 @@
       "mudslide",
       "rocks"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "warning",
+      "caution",
+      "alert",
+      "danger"
+    ],
     "themes": [
       "nature"
     ]
@@ -18380,7 +21108,11 @@
       "wifi",
       "wlan"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "melting",
+      "i cant even",
+      "overheated"
+    ],
     "themes": [
       "work",
       "tech"
@@ -18410,7 +21142,12 @@
       "turn",
       "vehicle"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "1F6DF": {
@@ -18533,7 +21270,12 @@
     "name": [
       "space"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": []
   },
   "1F6F3": {
@@ -18542,7 +21284,12 @@
       "passenger",
       "ship"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F6F4": {
@@ -18568,7 +21315,12 @@
     "name": [
       "boat"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F6F7": {
@@ -18580,7 +21332,12 @@
       "snow",
       "toboggan"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "winter",
       "snow",
@@ -18597,7 +21354,12 @@
       "terrestrial",
       "ufo"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": []
   },
   "1F6F9": {
@@ -18632,7 +21394,12 @@
       "transportation",
       "truck"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "1F6FC": {
@@ -18706,7 +21473,12 @@
       "red",
       "square"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "red"
     ]
@@ -18739,7 +21511,12 @@
       "square",
       "yellow"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "yellow"
     ]
@@ -18784,7 +21561,12 @@
       "math",
       "sign"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": []
   },
   "1F90C": {
@@ -18816,7 +21598,11 @@
       "heart",
       "white"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -18831,7 +21617,11 @@
       "brown",
       "heart"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -18850,7 +21640,12 @@
       "small",
       "sort"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": [
       "body"
     ]
@@ -18868,7 +21663,12 @@
       "zipper",
       "zipper-mouth"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kiss",
+      "smooch",
+      "mwah",
+      "smack"
+    ],
     "themes": [
       "body"
     ]
@@ -18882,7 +21682,12 @@
       "mouth",
       "paid"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kiss",
+      "smooch",
+      "mwah",
+      "smack"
+    ],
     "themes": [
       "body"
     ]
@@ -18895,7 +21700,16 @@
       "sick",
       "thermometer"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "puke",
+      "barf",
+      "throwing up",
+      "vomit",
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": []
   },
   "1F913": {
@@ -18912,7 +21726,12 @@
       "nerd",
       "smart"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F914": {
@@ -18994,7 +21813,13 @@
       "me",
       "shaka"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "toilet",
+      "wc",
+      "loo",
+      "john",
+      "potty"
+    ],
     "themes": [
       "body"
     ]
@@ -19029,7 +21854,13 @@
       "right-facing",
       "rightwards"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": []
   },
   "1F91D": {
@@ -19056,7 +21887,11 @@
       "hand",
       "luck"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fingers crossed",
+      "good luck",
+      "luck"
+    ],
     "themes": [
       "body"
     ]
@@ -19073,7 +21908,11 @@
       "three",
       "you"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart hands",
+      "love this",
+      "i love it"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -19110,7 +21949,16 @@
       "sick",
       "vomit"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "puke",
+      "barf",
+      "throwing up",
+      "vomit",
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": [
       "blue"
     ]
@@ -19135,7 +21983,16 @@
       "rolling",
       "tear"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "toilet",
+      "wc",
+      "loo",
+      "john",
+      "potty",
+      "lol",
+      "lmao",
+      "rofl"
+    ],
     "themes": [
       "happy"
     ]
@@ -19158,7 +22015,16 @@
       "lying",
       "pinocchio"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar",
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F926": {
@@ -19177,7 +22043,16 @@
       "shock",
       "smh"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "facepalm",
+      "give up",
+      "i cant",
+      "cap",
+      "lie",
+      "no cap",
+      "liar",
+      "no"
+    ],
     "themes": [
       "summer"
     ]
@@ -19198,7 +22073,16 @@
       "smh",
       "woman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar",
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "summer"
     ]
@@ -19219,7 +22103,16 @@
       "shock",
       "smh"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar",
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "summer"
     ]
@@ -19235,7 +22128,16 @@
       "sneeze",
       "sneezing"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "puke",
+      "barf",
+      "throwing up",
+      "vomit",
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": []
   },
   "1F928": {
@@ -19256,7 +22158,16 @@
       "surprise",
       "what"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "cap",
+      "lie",
+      "no cap"
+    ],
     "themes": [
       "body"
     ]
@@ -19273,7 +22184,13 @@
       "starry-eyed",
       "wow"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": [
       "night",
       "happy",
@@ -19292,7 +22209,13 @@
       "small",
       "zany"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": [
       "body"
     ]
@@ -19322,7 +22245,12 @@
       "swearing",
       "symbols"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kiss",
+      "smooch",
+      "mwah",
+      "smack"
+    ],
     "themes": [
       "body"
     ]
@@ -19343,7 +22271,12 @@
       "surprise",
       "whoops"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kiss",
+      "smooch",
+      "mwah",
+      "smack"
+    ],
     "themes": [
       "body"
     ]
@@ -19363,7 +22296,16 @@
       "vomit",
       "vomiting"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "puke",
+      "barf",
+      "throwing up",
+      "vomit",
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": []
   },
   "1F92F": {
@@ -19379,7 +22321,12 @@
       "shocked",
       "way"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "body"
     ]
@@ -19420,7 +22367,12 @@
       "up",
       "wish"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thanks",
+      "please",
+      "praying",
+      "respect"
+    ],
     "themes": [
       "summer"
     ]
@@ -19532,7 +22484,12 @@
       "whatever",
       "who"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F937-200D-2640-FE0F": {
@@ -19552,7 +22509,12 @@
       "who",
       "woman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F937-200D-2642-FE0F": {
@@ -19572,7 +22534,12 @@
       "whatever",
       "who"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F938": {
@@ -19588,7 +22555,12 @@
       "person",
       "somersault"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "happy"
     ]
@@ -19606,7 +22578,12 @@
       "somersault",
       "woman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "happy"
     ]
@@ -19624,7 +22601,12 @@
       "man",
       "somersault"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "happy"
     ]
@@ -19813,7 +22795,12 @@
       "throw",
       "toss"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kitty",
+      "kitten",
+      "pussycat",
+      "tom"
+    ],
     "themes": [
       "sports",
       "body"
@@ -19836,7 +22823,12 @@
       "toss",
       "woman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kitty",
+      "kitten",
+      "pussycat",
+      "tom"
+    ],
     "themes": [
       "sports",
       "body"
@@ -19859,7 +22851,12 @@
       "throw",
       "toss"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kitty",
+      "kitten",
+      "pussycat",
+      "tom"
+    ],
     "themes": [
       "sports",
       "body"
@@ -19873,7 +22870,12 @@
       "scuba",
       "snorkeling"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F940": {
@@ -19883,7 +22885,12 @@
       "flower",
       "wilted"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "im dead",
+      "lol",
+      "rip",
+      "dying"
+    ],
     "themes": [
       "spring",
       "garden",
@@ -19911,7 +22918,12 @@
       "glass",
       "glasses"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F943": {
@@ -19925,7 +22937,15 @@
       "whiskey",
       "whisky"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks",
+      "melting",
+      "i cant even",
+      "overheated"
+    ],
     "themes": []
   },
   "1F944": {
@@ -19990,7 +23010,11 @@
       "boxing",
       "glove"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart hands",
+      "love this",
+      "i love it"
+    ],
     "themes": [
       "valentines day",
       "love"
@@ -20041,7 +23065,11 @@
       "sports",
       "underarm"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart hands",
+      "love this",
+      "i love it"
+    ],
     "themes": []
   },
   "1F94F": {
@@ -20051,7 +23079,12 @@
       "flying",
       "ultimate"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": []
   },
   "1F950": {
@@ -20123,7 +23156,12 @@
       "food",
       "vegetable"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "food"
     ]
@@ -20164,7 +23202,12 @@
       "pan",
       "shallow"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "food"
     ]
@@ -20207,7 +23250,12 @@
       "glass",
       "milk"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "white"
     ]
@@ -20246,7 +23294,11 @@
       "hotcake",
       "pancake"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "melting",
+      "i cant even",
+      "overheated"
+    ],
     "themes": [
       "morning",
       "birthday",
@@ -20272,7 +23324,16 @@
       "fortune",
       "prophecy"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cookie",
+      "biscuit",
+      "wafer",
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good"
+    ],
     "themes": [
       "christmas"
     ]
@@ -20438,7 +23499,16 @@
       "lettuce",
       "salad"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": [
       "autumn",
       "forest",
@@ -20502,7 +23572,14 @@
       "smiling",
       "you"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "heart hands",
+      "love this",
+      "i love it"
+    ],
     "themes": [
       "valentines day",
       "happy",
@@ -20527,7 +23604,13 @@
       "yawning",
       "zzz"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good"
+    ],
     "themes": [
       "night",
       "black"
@@ -20550,7 +23633,16 @@
       "tear",
       "touched"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "lol",
+      "lmao",
+      "rofl",
+      "crying laughing",
+      "smiling tear",
+      "holding back tears",
+      "sad smile",
+      "cap"
+    ],
     "themes": [
       "tea",
       "happy",
@@ -20594,7 +23686,16 @@
       "wavy",
       "woozy"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kiss",
+      "smooch",
+      "mwah",
+      "smack",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": [
       "body"
     ]
@@ -20613,7 +23714,16 @@
       "sweating",
       "tongue"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "im dead",
+      "lol",
+      "rip"
+    ],
     "themes": [
       "summer",
       "body"
@@ -20652,7 +23762,12 @@
       "stealth",
       "war"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F978": {
@@ -20671,7 +23786,16 @@
       "tache",
       "tash"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks",
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "body"
     ]
@@ -20696,7 +23820,16 @@
       "sad",
       "tears"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks",
+      "lol",
+      "lmao",
+      "rofl",
+      "crying laughing"
+    ],
     "themes": [
       "tea",
       "happy",
@@ -20721,7 +23854,16 @@
       "sad",
       "why"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thanks",
+      "please",
+      "praying",
+      "respect",
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "sad"
     ]
@@ -20884,7 +24026,10 @@
       "bird",
       "ornithology"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "ducky",
+      "drake"
+    ],
     "themes": [
       "animals",
       "pets",
@@ -20948,7 +24093,12 @@
       "insect",
       "pretty"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "spring",
       "animals",
@@ -20992,7 +24142,12 @@
     "name": [
       "animal"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "animals"
     ]
@@ -21041,7 +24196,12 @@
       "animal",
       "stripe"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "im dead",
+      "lol",
+      "rip",
+      "dying"
+    ],
     "themes": [
       "animals",
       "wildlife"
@@ -21066,7 +24226,12 @@
       "dinosaur",
       "diplodocus"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F996": {
@@ -21078,7 +24243,12 @@
       "t-rex",
       "tyrannosaurus"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F997": {
@@ -21090,7 +24260,12 @@
       "insect",
       "orthoptera"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "animals",
       "insects"
@@ -21163,7 +24338,10 @@
       "pirate",
       "talk"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "polly",
+      "squawk"
+    ],
     "themes": [
       "animals",
       "pets",
@@ -21245,7 +24423,10 @@
       "ornithology",
       "ugly"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "ducky",
+      "drake"
+    ],
     "themes": [
       "spring",
       "animals",
@@ -21402,7 +24583,16 @@
       "dog",
       "guide"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "doggie",
+      "doggo",
+      "puppy",
+      "pup",
+      "pooch",
+      "fire",
+      "lit",
+      "sick"
+    ],
     "themes": [
       "animals",
       "pets"
@@ -21417,7 +24607,12 @@
       "probing",
       "white"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": [
       "white"
     ]
@@ -21455,7 +24650,12 @@
       "no",
       "shaven"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F9B3": {
@@ -21479,7 +24679,13 @@
       "skeleton",
       "wishbone"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "doggie",
+      "doggo",
+      "puppy",
+      "pup",
+      "pooch"
+    ],
     "themes": [
       "halloween",
       "pets",
@@ -21534,7 +24740,13 @@
       "hero",
       "superpower"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good"
+    ],
     "themes": []
   },
   "1F9B8-200D-2640-FE0F": {
@@ -21547,7 +24759,13 @@
       "superpower",
       "woman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good"
+    ],
     "themes": []
   },
   "1F9B8-200D-2642-FE0F": {
@@ -21559,7 +24777,13 @@
       "superhero",
       "superpower"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good"
+    ],
     "themes": []
   },
   "1F9B9": {
@@ -21621,7 +24845,12 @@
       "hard",
       "hearing"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": [
       "wedding",
       "body"
@@ -21634,7 +24863,12 @@
       "motorized",
       "wheelchair"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": []
   },
   "1F9BD": {
@@ -21644,7 +24878,12 @@
       "manual",
       "wheelchair"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": []
   },
   "1F9BE": {
@@ -21655,7 +24894,12 @@
       "mechanical",
       "prosthetic"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": []
   },
   "1F9BF": {
@@ -21666,7 +24910,12 @@
       "mechanical",
       "prosthetic"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": []
   },
   "1F9C0": {
@@ -21767,7 +25016,12 @@
     "name": [
       "dairy"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "1F9C9": {
@@ -21884,7 +25138,13 @@
       "right",
       "woman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": []
   },
   "1F9CE-200D-2642-FE0F": {
@@ -21908,7 +25168,13 @@
       "man",
       "right"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": []
   },
   "1F9CE-200D-27A1-FE0F": {
@@ -21921,7 +25187,13 @@
       "person",
       "right"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": []
   },
   "1F9CF": {
@@ -21934,7 +25206,12 @@
       "hear",
       "person"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": [
       "body"
     ]
@@ -21949,7 +25226,12 @@
       "hear",
       "woman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": [
       "body"
     ]
@@ -21964,7 +25246,12 @@
       "hear",
       "man"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": [
       "body"
     ]
@@ -21980,7 +25267,16 @@
       "stuffy",
       "wealthy"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks",
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1F9D1": {
@@ -22005,7 +25301,16 @@
     "name": [
       "chef"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": []
   },
   "1F9D1-200D-1F37C": {
@@ -22098,7 +25403,12 @@
       "industrial",
       "worker"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "work"
     ]
@@ -22112,7 +25422,12 @@
       "inventor",
       "software"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "work",
       "tech"
@@ -22172,7 +25487,12 @@
       "fire",
       "firetruck"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": [
       "forest"
     ]
@@ -22207,7 +25527,12 @@
       "probing",
       "white"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": [
       "white"
     ]
@@ -22224,7 +25549,16 @@
       "right",
       "white"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": [
       "white"
     ]
@@ -22281,7 +25615,12 @@
       "person",
       "wheelchair"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": []
   },
   "1F9D1-200D-1F9BC-200D-27A1-FE0F": {
@@ -22294,7 +25633,16 @@
       "right",
       "wheelchair"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": []
   },
   "1F9D1-200D-1F9BD": {
@@ -22305,7 +25653,12 @@
       "person",
       "wheelchair"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": []
   },
   "1F9D1-200D-1F9BD-200D-27A1-FE0F": {
@@ -22318,7 +25671,16 @@
       "right",
       "wheelchair"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": []
   },
   "1F9D1-200D-1F9D1-200D-1F9D2": {
@@ -22380,7 +25742,12 @@
       "therapist",
       "worker"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "work"
     ]
@@ -22412,7 +25779,13 @@
       "young",
       "younger"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": []
   },
   "1F9D3": {
@@ -22482,7 +25855,12 @@
       "tichel",
       "woman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "body"
     ]
@@ -22792,7 +26170,16 @@
       "teeth",
       "undead"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "toilet",
+      "wc",
+      "loo",
+      "john",
+      "potty",
+      "car",
+      "automobile",
+      "auto"
+    ],
     "themes": [
       "halloween"
     ]
@@ -22810,7 +26197,16 @@
       "vampire",
       "woman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "toilet",
+      "wc",
+      "loo",
+      "john",
+      "potty",
+      "car",
+      "automobile",
+      "auto"
+    ],
     "themes": [
       "halloween"
     ]
@@ -22828,7 +26224,16 @@
       "undead",
       "vampire"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "toilet",
+      "wc",
+      "loo",
+      "john",
+      "potty",
+      "car",
+      "automobile",
+      "auto"
+    ],
     "themes": [
       "halloween"
     ]
@@ -22991,7 +26396,12 @@
       "undead",
       "walking"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "halloween"
     ]
@@ -23009,7 +26419,12 @@
       "woman",
       "zombie"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "halloween"
     ]
@@ -23027,7 +26442,12 @@
       "walking",
       "zombie"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "halloween"
     ]
@@ -23051,7 +26471,11 @@
       "heart",
       "orange"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -23068,7 +26492,12 @@
       "dad",
       "hat"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": []
   },
   "1F9E3": {
@@ -23079,7 +26508,12 @@
       "neck",
       "up"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "1F9E4": {
@@ -23087,7 +26521,11 @@
     "name": [
       "hand"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart hands",
+      "love this",
+      "i love it"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -23129,7 +26567,16 @@
       "red",
       "see"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fingers crossed",
+      "good luck",
+      "luck",
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good"
+    ],
     "themes": [
       "christmas",
       "valentines day",
@@ -23149,7 +26596,12 @@
       "popping",
       "spark"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": [
       "forest"
     ]
@@ -23216,7 +26668,12 @@
       "navigation",
       "orienteering"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "school"
     ]
@@ -23238,7 +26695,12 @@
       "fire",
       "quench"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": [
       "forest"
     ]
@@ -23387,7 +26849,13 @@
       "toilet",
       "towels"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "toilet",
+      "wc",
+      "loo",
+      "john",
+      "potty"
+    ],
     "themes": []
   },
   "1F9FC": {
@@ -23423,7 +26891,16 @@
       "invoice",
       "proof"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": []
   },
   "1F9FF": {
@@ -23522,7 +26999,16 @@
       "special",
       "teal"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -23544,7 +27030,16 @@
       "slate",
       "special"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "heart hands",
+      "love this",
+      "i love it",
+      "smiling tear",
+      "holding back tears"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -23566,7 +27061,16 @@
       "special",
       "sweet"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good"
+    ],
     "themes": [
       "valentines day",
       "sweets",
@@ -23586,7 +27090,13 @@
       "medicine",
       "menstruation"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "toilet",
+      "wc",
+      "loo",
+      "john",
+      "potty"
+    ],
     "themes": [
       "rain"
     ]
@@ -23607,7 +27117,11 @@
       "heart",
       "medicine"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -23624,7 +27138,12 @@
       "skull",
       "xray"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "im dead",
+      "lol",
+      "rip",
+      "dying"
+    ],
     "themes": [
       "sun",
       "halloween",
@@ -23643,7 +27162,12 @@
       "mobility",
       "stick"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": []
   },
   "1FA80": {
@@ -23784,7 +27308,11 @@
       "music",
       "orchestra"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart hands",
+      "love this",
+      "i love it"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -23801,7 +27329,12 @@
       "sad",
       "slide"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "sad",
       "music",
@@ -23821,7 +27354,13 @@
       "valuables",
       "wealth"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "toilet",
+      "wc",
+      "loo",
+      "john",
+      "potty"
+    ],
     "themes": [
       "yellow"
     ]
@@ -23838,7 +27377,12 @@
       "snow",
       "spade"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "spring",
       "winter",
@@ -23888,7 +27432,12 @@
       "split",
       "wood"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": []
   },
   "1FA94": {
@@ -23923,7 +27472,12 @@
       "war",
       "warrior"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope"
+    ],
     "themes": []
   },
   "1FA97": {
@@ -23984,7 +27538,12 @@
       "tool",
       "trim"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "school"
     ]
@@ -24020,7 +27579,16 @@
       "point",
       "selling"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kitty",
+      "kitten",
+      "pussycat",
+      "tom",
+      "thumbs up",
+      "ok",
+      "approve",
+      "like"
+    ],
     "themes": []
   },
   "1FA9E": {
@@ -24059,7 +27627,16 @@
       "suction",
       "toilet"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "poop",
+      "shit",
+      "crap",
+      "number two",
+      "toilet",
+      "wc",
+      "loo",
+      "john"
+    ],
     "themes": [
       "tea",
       "body"
@@ -24090,7 +27667,12 @@
       "twine",
       "twist"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1FAA3": {
@@ -24131,7 +27713,13 @@
       "teeth",
       "toiletry"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "toilet",
+      "wc",
+      "loo",
+      "john",
+      "potty"
+    ],
     "themes": [
       "body"
     ]
@@ -24148,7 +27736,12 @@
       "tomb",
       "tombstone"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "im dead",
+      "lol",
+      "rip",
+      "dying"
+    ],
     "themes": [
       "body"
     ]
@@ -24164,7 +27757,16 @@
       "protest",
       "sign"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle",
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1FAA8": {
@@ -24189,7 +27791,16 @@
       "mirror",
       "party"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fire",
+      "lit",
+      "sick",
+      "dope",
+      "fancy",
+      "extra",
+      "sparkle",
+      "glitter"
+    ],
     "themes": [
       "birthday"
     ]
@@ -24205,7 +27816,16 @@
       "license",
       "security"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle",
+      "copy",
+      "paste",
+      "clipboard",
+      "document"
+    ],
     "themes": [
       "pets",
       "black"
@@ -24262,7 +27882,11 @@
       "hot",
       "shy"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "melting",
+      "i cant even",
+      "overheated"
+    ],
     "themes": [
       "body"
     ]
@@ -24479,7 +28103,13 @@
       "spring",
       "violet"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "toilet",
+      "wc",
+      "loo",
+      "john",
+      "potty"
+    ],
     "themes": [
       "spring",
       "nature",
@@ -24525,7 +28155,12 @@
       "mythology",
       "soar"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": [
       "animals",
       "pets",
@@ -24572,7 +28207,10 @@
       "ornithology",
       "silly"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "ducky",
+      "drake"
+    ],
     "themes": [
       "animals",
       "pets",
@@ -24592,7 +28230,15 @@
       "real",
       "red"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -24631,7 +28277,16 @@
       "people",
       "thanks"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "heart hands",
+      "love this",
+      "i love it"
+    ],
     "themes": [
       "valentines day",
       "love"
@@ -24675,7 +28330,12 @@
       "royal",
       "royalty"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "birds",
       "black"
@@ -24755,7 +28415,12 @@
       "mule",
       "stubborn"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "animals"
     ]
@@ -24786,7 +28451,12 @@
       "pepper",
       "vegetable"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": [
       "christmas",
       "food",
@@ -24879,7 +28549,12 @@
       "spill",
       "water"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "summer",
       "wedding",
@@ -24909,7 +28584,12 @@
       "sauce",
       "store"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "1FADA": {
@@ -24977,7 +28657,12 @@
       "spill",
       "stain"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "im dead",
+      "lol",
+      "rip",
+      "dying"
+    ],
     "themes": [
       "coffee"
     ]
@@ -24999,7 +28684,15 @@
       "sarcasm",
       "sarcastic"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks",
+      "melting",
+      "i cant even",
+      "overheated"
+    ],
     "themes": [
       "summer"
     ]
@@ -25019,7 +28712,16 @@
       "troops",
       "yes"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "fingers crossed",
+      "good luck",
+      "luck",
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good"
+    ],
     "themes": []
   },
   "1FAE2": {
@@ -25042,7 +28744,16 @@
       "shock",
       "surprise"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kiss",
+      "smooch",
+      "mwah",
+      "smack",
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": [
       "school",
       "body"
@@ -25064,7 +28775,16 @@
       "shy",
       "stare"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks",
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": [
       "body"
     ]
@@ -25088,7 +28808,12 @@
       "whatever",
       "wtv"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kiss",
+      "smooch",
+      "mwah",
+      "smack"
+    ],
     "themes": [
       "body"
     ]
@@ -25182,7 +28907,16 @@
       "tired",
       "weary"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "facepalm",
+      "give up",
+      "i cant",
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": [
       "body"
     ]
@@ -25233,7 +28967,14 @@
       "snap",
       "thumb"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "heart hands",
+      "love this",
+      "i love it"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -25252,7 +28993,13 @@
       "rightwards",
       "shake"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": [
       "body"
     ]
@@ -25309,7 +29056,16 @@
       "palm",
       "tell"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "kitty",
+      "kitten",
+      "pussycat",
+      "tom",
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "summer",
       "body"
@@ -25327,7 +29083,16 @@
       "viewer",
       "you"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": [
       "body"
     ]
@@ -25341,7 +29106,14 @@
       "love",
       "you"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "heart hands",
+      "love this",
+      "i love it"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -25391,7 +29163,13 @@
       "stop",
       "wait"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": [
       "body"
     ]
@@ -25418,7 +29196,13 @@
       "left",
       "right"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": []
   },
   "21AA": {
@@ -25429,7 +29213,13 @@
       "left",
       "right"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "yes",
+      "right",
+      "done",
+      "check",
+      "approved"
+    ],
     "themes": []
   },
   "231A": {
@@ -25452,7 +29242,16 @@
       "time",
       "timer"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": []
   },
   "23CF": {
@@ -25461,7 +29260,12 @@
       "button",
       "eject"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "23E9": {
@@ -25474,7 +29278,12 @@
       "fast-forward",
       "forward"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "23EA": {
@@ -25487,7 +29296,12 @@
       "reverse",
       "rewind"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "23EB": {
@@ -25499,7 +29313,12 @@
       "fast",
       "up"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "23EC": {
@@ -25511,7 +29330,12 @@
       "down",
       "fast"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "23ED": {
@@ -25524,7 +29348,12 @@
       "track",
       "triangle"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "23EE": {
@@ -25538,7 +29367,12 @@
       "track",
       "triangle"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "23EF": {
@@ -25551,7 +29385,16 @@
       "right",
       "triangle"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": []
   },
   "23F0": {
@@ -25605,7 +29448,16 @@
       "waiting",
       "yolo"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks",
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "23F8": {
@@ -25617,7 +29469,12 @@
       "pause",
       "vertical"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "23F9": {
@@ -25627,7 +29484,12 @@
       "square",
       "stop"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "23FA": {
@@ -25637,7 +29499,12 @@
       "circle",
       "record"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "24C2": {
@@ -25685,7 +29552,16 @@
       "right",
       "triangle"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": []
   },
   "25C0": {
@@ -25697,7 +29573,12 @@
       "reverse",
       "triangle"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "25FB": {
@@ -25947,7 +29828,12 @@
       "symbol",
       "wheelchair"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "cap",
+      "lie",
+      "no cap",
+      "liar"
+    ],
     "themes": []
   },
   "269B": {
@@ -25973,7 +29859,12 @@
     "name": [
       "caution"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "warning",
+      "caution",
+      "alert",
+      "danger"
+    ],
     "themes": []
   },
   "26A1": {
@@ -25990,7 +29881,12 @@
       "voltage",
       "zap"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "warning",
+      "caution",
+      "alert",
+      "danger"
+    ],
     "themes": [
       "storm"
     ]
@@ -26060,7 +29956,12 @@
       "soccer",
       "sport"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "football",
+      "footy",
+      "soccer ball",
+      "ball"
+    ],
     "themes": [
       "sports"
     ]
@@ -26084,7 +29985,12 @@
       "snow",
       "snowman"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "winter",
       "snow",
@@ -26184,7 +30090,16 @@
       "cuffs",
       "freedom"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "thumbs up",
+      "ok",
+      "approve",
+      "like",
+      "good",
+      "yes",
+      "right",
+      "done"
+    ],
     "themes": []
   },
   "26D4": {
@@ -26200,7 +30115,16 @@
       "prohibited",
       "traffic"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks",
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "26E9": {
@@ -26278,7 +30202,12 @@
       "boat",
       "passenger"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks"
+    ],
     "themes": []
   },
   "26F5": {
@@ -26301,7 +30230,12 @@
       "ski",
       "snow"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "winter",
       "snow",
@@ -26489,7 +30423,12 @@
       "x",
       "×"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "274E": {
@@ -26504,7 +30443,16 @@
       "x",
       "×"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "butt",
+      "ass",
+      "booty",
+      "cheeks",
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "2764-FE0F-200D-1F525": {
@@ -26517,7 +30465,16 @@
       "lust",
       "sacred"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv",
+      "heart hands",
+      "love this",
+      "i love it",
+      "fire",
+      "lit"
+    ],
     "themes": [
       "valentines day",
       "forest",
@@ -26536,7 +30493,11 @@
       "recuperating",
       "well"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "heart",
+      "sweetheart",
+      "luv"
+    ],
     "themes": [
       "valentines day",
       "love",
@@ -26552,7 +30513,16 @@
       "east",
       "right"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle",
+      "yes",
+      "right",
+      "done",
+      "check"
+    ],
     "themes": []
   },
   "27B0": {
@@ -26562,7 +30532,13 @@
       "curly",
       "loop"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "toilet",
+      "wc",
+      "loo",
+      "john",
+      "potty"
+    ],
     "themes": []
   },
   "27BF": {
@@ -26573,7 +30549,13 @@
       "double",
       "loop"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "toilet",
+      "wc",
+      "loo",
+      "john",
+      "potty"
+    ],
     "themes": []
   },
   "2B05": {
@@ -26585,7 +30567,12 @@
       "left",
       "west"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "2B06": {
@@ -26597,7 +30584,16 @@
       "north",
       "up"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle",
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": []
   },
   "2B07": {
@@ -26609,7 +30605,12 @@
       "down",
       "south"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "car",
+      "automobile",
+      "auto",
+      "vehicle"
+    ],
     "themes": []
   },
   "2B1B": {
@@ -26646,7 +30647,12 @@
       "stars",
       "white"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "no",
+      "wrong",
+      "denied",
+      "cross"
+    ],
     "themes": [
       "night",
       "yellow",
