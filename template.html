@@ -81,18 +81,15 @@
             if (!recents.length) return;
 
             row.innerHTML = '';
-            const emojiWrap = document.createElement('div');
-            emojiWrap.id = 'recents-emojis';
             for (const char of recents) {
                 const span = document.createElement('span');
                 span.textContent = char;
                 span.className = 'emoji-item';
-                emojiWrap.appendChild(span);
+                row.appendChild(span);
             }
             const btn = document.createElement('button');
             btn.id = 'recents-clear';
             btn.textContent = STRINGS.clearHistory;
-            row.appendChild(emojiWrap);
             row.appendChild(btn);
         }
 
@@ -352,27 +349,24 @@
             gap: 0.15rem;
             align-items: center;
             width: 100%;
-            min-width: 0;
+            overflow-x: auto;
+            scrollbar-width: none;
+            -ms-overflow-style: none;
         }
-        #recents-emojis {
-            display: flex;
-            flex-wrap: nowrap;
-            gap: 0.15rem;
-            align-items: center;
-            overflow: hidden;
-            flex: 0 1 auto;
-            min-width: 0;
-        }
+        #recents::-webkit-scrollbar { display: none; }
+        #recents .emoji-item { flex-shrink: 0; }
         #recents-clear {
+            position: sticky;
+            right: 0;
+            flex-shrink: 0;
             font-size: 0.72rem;
             color: #ccc;
-            background: none;
+            background: var(--bg);
             border: none;
             cursor: pointer;
-            padding: 0.3rem 0.5rem;
+            padding: 0.3rem 0.5rem 0.3rem 0.75rem;
             line-height: 1;
             white-space: nowrap;
-            flex-shrink: 0;
         }
         #recents-clear:hover { color: #999; }
 
