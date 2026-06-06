@@ -177,10 +177,6 @@
                 updateResults();
             });
             window.addEventListener('resize', updateWordmarkShift);
-            window.addEventListener('scroll', () => {
-                document.getElementById('sticky-header').classList.toggle('scrolled', window.scrollY > 0);
-            }, { passive: true });
-            document.fonts.ready.then(updateWordmarkShift);
 
             document.getElementById("results").addEventListener("click", e => {
                 const item = e.target.closest(".emoji-item");
@@ -199,6 +195,12 @@
 
             renderRecents();
             updateResults();
+            document.fonts.ready.then(() => {
+                updateWordmarkShift();
+                requestAnimationFrame(() => {
+                    document.getElementById('top-slot').classList.add('transitions-ready');
+                });
+            });
         });
     </script>
     <style>
@@ -231,21 +233,6 @@
             z-index: 10;
             background: var(--bg);
             transform: translateZ(0); /* own compositor layer */
-        }
-        #sticky-header::after {
-            content: '';
-            position: absolute;
-            top: 100%;
-            left: 0;
-            right: 0;
-            height: 1.5rem;
-            background: linear-gradient(to bottom, var(--bg), transparent);
-            pointer-events: none;
-            opacity: 0;
-            transition: opacity 0.2s ease;
-        }
-        #sticky-header.scrolled::after {
-            opacity: 1;
         }
 
         #search-header {
@@ -376,6 +363,8 @@
             letter-spacing: -0.03em;
             color: #111;
             user-select: none;
+        }
+        #top-slot.transitions-ready #wordmark-inner {
             transition: transform 0.5s cubic-bezier(0.34, 1.15, 0.64, 1);
         }
         #wordmark-tld {
@@ -394,6 +383,8 @@
             opacity: 0;
             transform: translateX(-10px);
             pointer-events: none;
+        }
+        #top-slot.transitions-ready #recents-wrap {
             transition: transform 0.5s cubic-bezier(0.34, 1.15, 0.64, 1), opacity 0.35s ease;
         }
         #top-slot.has-history #recents-wrap {
@@ -413,7 +404,12 @@
             -ms-overflow-style: none;
         }
         #recents::-webkit-scrollbar { display: none; }
-        #recents .emoji-item { flex-shrink: 0; }
+        #recents .emoji-item {
+            flex-shrink: 0;
+            opacity: 0.6;
+            transition: opacity 0.15s ease;
+        }
+        #recents:hover .emoji-item { opacity: 1; }
         #recents-clear {
             position: sticky;
             right: 0;
