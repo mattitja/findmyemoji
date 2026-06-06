@@ -113,10 +113,6 @@
             const container = document.getElementById("results");
             container.innerHTML = "";
 
-            document.getElementById("count").textContent = query
-                ? `${matches.length} ${matches.length === 1 ? STRINGS.countSingular : STRINGS.countPlural} "${query}"`
-                : `${emojis.length} ${STRINGS.countSuffix}`;
-
             const fragment = document.createDocumentFragment();
             for (const e of matches) {
                 fragment.appendChild(buildEmojiSpan(e));
@@ -256,7 +252,7 @@
         }
 
         #search-header {
-            padding: 0.5rem 1rem 0.75rem;
+            padding: 0.5rem 1rem 1rem;
         }
 
         #search-header .inner {
@@ -314,18 +310,6 @@
         }
         #search-clear.visible { opacity: 1; pointer-events: auto; }
         #search-clear:hover { color: #888; }
-
-        /* count line – always occupies the same height to avoid layout shift */
-        #count {
-            height: 1.5rem;
-            line-height: 1.5rem;
-            font-size: 0.75rem;
-            color: #bbb;
-            text-align: right;
-            margin-top: 0.15rem;
-            letter-spacing: 0.01em;
-            font-variant-numeric: tabular-nums;
-        }
 
         /* ── emoji results ── */
         #results-wrap {
@@ -540,7 +524,6 @@
                 />
                 <button id="search-clear" aria-label="clear search">✕</button>
             </div>
-            <p id="count"></p>
         </div>
     </div>
 </div>
