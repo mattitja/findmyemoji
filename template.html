@@ -171,6 +171,9 @@
 
         window.addEventListener("DOMContentLoaded", () => {
             document.getElementById("search").addEventListener("input", updateResults);
+            document.getElementById("search").addEventListener("focus", () => {
+                window.scrollTo({ top: 0, behavior: 'smooth' });
+            });
             document.getElementById("search-clear").addEventListener("click", () => {
                 document.getElementById("search").value = "";
                 document.getElementById("search").focus();
@@ -510,7 +513,9 @@
                     autofocus
                     autocomplete="off"
                     autocorrect="off"
+                    autocapitalize="none"
                     spellcheck="false"
+                    inputmode="search"
                 />
                 <button id="search-clear" aria-label="clear search">✕</button>
             </div>
