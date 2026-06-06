@@ -89,7 +89,8 @@
             }
             const btn = document.createElement('button');
             btn.id = 'recents-clear';
-            btn.textContent = STRINGS.clearHistory;
+            btn.setAttribute('aria-label', STRINGS.clearHistory);
+            btn.textContent = '✕';
             row.appendChild(btn);
         }
 
@@ -103,6 +104,7 @@
 
         function updateResults() {
             const query = document.getElementById("search").value.trim();
+            document.getElementById("search-clear").classList.toggle("visible", query.length > 0);
             const matches = searchEmojis(query);
             const container = document.getElementById("results");
             container.innerHTML = "";
@@ -166,6 +168,11 @@
 
         window.addEventListener("DOMContentLoaded", () => {
             document.getElementById("search").addEventListener("input", updateResults);
+            document.getElementById("search-clear").addEventListener("click", () => {
+                document.getElementById("search").value = "";
+                document.getElementById("search").focus();
+                updateResults();
+            });
             window.addEventListener('resize', updateWordmarkShift);
             document.fonts.ready.then(updateWordmarkShift);
 
@@ -222,9 +229,12 @@
         }
 
         /* search input */
+        #search-wrap {
+            position: relative;
+        }
         #search {
             width: 100%;
-            padding: 0.8rem 1.1rem;
+            padding: 0.8rem 2.5rem 0.8rem 1.1rem;
             font-size: 1.05rem;
             border: 1.5px solid #e8e4dc;
             border-radius: 1rem;
@@ -239,6 +249,24 @@
             box-shadow: 0 0 0 3px rgba(167,139,250,0.15), 0 1px 3px rgba(0,0,0,0.06);
         }
         #search::placeholder { color: #bbb; }
+        #search-clear {
+            position: absolute;
+            right: 0.75rem;
+            top: 50%;
+            transform: translateY(-50%);
+            background: none;
+            border: none;
+            cursor: pointer;
+            color: #ccc;
+            font-size: 0.85rem;
+            padding: 0.25rem;
+            line-height: 1;
+            opacity: 0;
+            pointer-events: none;
+            transition: opacity 0.15s, color 0.15s;
+        }
+        #search-clear.visible { opacity: 1; pointer-events: auto; }
+        #search-clear:hover { color: #888; }
 
         /* count line – always occupies the same height to avoid layout shift */
         #count {
@@ -431,15 +459,18 @@
     </div>
     <div id="search-header">
         <div class="inner">
-            <input
-                id="search"
-                type="text"
-                placeholder="{{PLACEHOLDER}}"
-                autofocus
-                autocomplete="off"
-                autocorrect="off"
-                spellcheck="false"
-            />
+            <div id="search-wrap">
+                <input
+                    id="search"
+                    type="text"
+                    placeholder="{{PLACEHOLDER}}"
+                    autofocus
+                    autocomplete="off"
+                    autocorrect="off"
+                    spellcheck="false"
+                />
+                <button id="search-clear" aria-label="clear search">✕</button>
+            </div>
             <p id="count"></p>
         </div>
     </div>
