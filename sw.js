@@ -1,8 +1,8 @@
-const CACHE = 'fme-v1';
-const ASSETS = ['/', '/index.html'];
+const CACHE = 'fme-v2';
+const SHELL = ['/', '/de/'];
 
 self.addEventListener('install', e => {
-    e.waitUntil(caches.open(CACHE).then(c => c.addAll(ASSETS)));
+    e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL)));
     self.skipWaiting();
 });
 
@@ -13,10 +13,15 @@ self.addEventListener('activate', e => {
     self.clients.claim();
 });
 
-// cache-first for same-origin, network-only for CDN (Tailwind)
+// cache-first for same-origin; emoji subpages cached on demand
 self.addEventListener('fetch', e => {
     if (!e.request.url.startsWith(self.location.origin)) return;
     e.respondWith(
-        caches.match(e.request).then(cached => cached || fetch(e.request))
+        caches.match(e.request).then(cached => cached || fetch(e.request).then(res => {
+            if (res.ok && e.request.method === 'GET') {
+                caches.open(CACHE).then(c => c.put(e.request, res.clone()));
+            }
+            return res;
+        }))
     );
 });

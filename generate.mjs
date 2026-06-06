@@ -25,6 +25,15 @@ const LOCALES = {
             countPlural: 'results for',
             placeholder: 'e.g. smiley, cat, Fahrrad, Affe, rofl, :D...',
         },
+        subpage: {
+            titleSuffix: 'Emoji — Copy & Meaning | Whatsmoji',
+            h1Suffix: 'Emoji',
+            meaning: (label) => `${label} is an emoji used to express emotions, ideas, or objects visually in digital communication.`,
+            backLabel: '← All emojis',
+            keywordsLabel: 'Keywords',
+            relatedLabel: 'Related emojis',
+            copiedText: 'copied',
+        },
     },
     de: {
         lang: 'de',
@@ -42,6 +51,15 @@ const LOCALES = {
             countSingular: 'Ergebnis für',
             countPlural: 'Ergebnisse für',
             placeholder: 'z.B. Smiley, Katze, bicycle, monkey, rofl, :D...',
+        },
+        subpage: {
+            titleSuffix: 'Emoji — Kopieren & Bedeutung | Whatsmoji',
+            h1Suffix: 'Emoji',
+            meaning: (label) => `${label} ist ein Emoji, das in der digitalen Kommunikation genutzt wird, um Gefühle, Ideen oder Objekte visuell auszudrücken.`,
+            backLabel: '← Alle Emojis',
+            keywordsLabel: 'Keywords',
+            relatedLabel: 'Verwandte Emojis',
+            copiedText: 'kopiert',
         },
     },
 };
@@ -68,11 +86,46 @@ const emojis = deData
         };
     });
 
+// Capitalize: "clown face" → "Clown Face", "clown-gesicht" → "Clown-gesicht" (DE keeps native case)
+function titleCase(str) {
+    return str.replace(/(?:^|\s)\S/g, c => c.toUpperCase());
+}
+
+// Slug: EN label → lowercase, strip diacritics, remove non-alphanum, spaces → '-'
+function slugify(label) {
+    return label
+        .toLowerCase()
+        .normalize('NFD')
+        .replace(/[̀-ͯ]/g, '')
+        .replace(/[^a-z0-9\s]/g, '')
+        .trim()
+        .replace(/\s+/g, '-');
+}
+
+// Build slug map with collision suffix
+const slugMap = new Map();
+for (const e of emojis) {
+    const base = slugify(e.label.en);
+    const slug = slugMap.has(base) ? `${base}-${e.hexcode.toLowerCase()}` : base;
+    slugMap.set(e.hexcode, slug);
+    if (slug === base) slugMap.set(base, true);
+}
+
+function getSlug(e) { return slugMap.get(e.hexcode); }
+
 function hreflangTags() {
     return [
         `<link rel="alternate" hreflang="en" href="${BASE_URL}/"/>`,
         `<link rel="alternate" hreflang="de" href="${BASE_URL}/de/"/>`,
         `<link rel="alternate" hreflang="x-default" href="${BASE_URL}/"/>`,
+    ].join('\n    ');
+}
+
+function emojiHreflangTags(slug) {
+    return [
+        `<link rel="alternate" hreflang="en" href="${BASE_URL}/emoji/${slug}/"/>`,
+        `<link rel="alternate" hreflang="de" href="${BASE_URL}/de/emoji/${slug}/"/>`,
+        `<link rel="alternate" hreflang="x-default" href="${BASE_URL}/emoji/${slug}/"/>`,
     ].join('\n    ');
 }
 
@@ -106,14 +159,87 @@ function renderMainPage(locale) {
         .replace('/* STRINGS_DATA */', stringsScript);
 }
 
-// Write main pages
+function renderEmojiPage(emoji, locale) {
+    const tpl = readFileSync('emoji-template.html', 'utf-8');
+    const sp = locale.subpage;
+    const slug = getSlug(emoji);
+    const rawLabel = emoji.label[locale.lang];
+    const label = locale.lang === 'en' ? titleCase(rawLabel) : rawLabel.charAt(0).toUpperCase() + rawLabel.slice(1);
+    const canonical = `${BASE_URL}${locale.lang === 'de' ? '/de' : ''}/emoji/${slug}/`;
+
+    // related: same subgroup, exclude self, up to 12
+    const related = emojis
+        .filter(e => e.subgroup === emoji.subgroup && e.hexcode !== emoji.hexcode)
+        .slice(0, 12);
+
+    const primaryKws = locale.lang === 'de' ? emoji.keywordsDe : emoji.keywordsEn;
+    const secondaryKws = locale.lang === 'de' ? emoji.keywordsEn : emoji.keywordsDe;
+
+    const pillsHtml = (kws, cls) => kws
+        .map(k => `<span class="pill${cls ? ' ' + cls : ''}">${k}</span>`)
+        .join('');
+
+    const relatedHtml = related
+        .map(r => {
+            const rSlug = getSlug(r);
+            const rLabel = r.label[locale.lang];
+            const rPath = locale.lang === 'de' ? `/de/emoji/${rSlug}/` : `/emoji/${rSlug}/`;
+            return `<a href="${rPath}" title="${rLabel}">${r.char}</a>`;
+        })
+        .join('');
+
+    const codepoint = 'U+' + emoji.hexcode.split('-').map(p => p.toUpperCase()).join(' U+');
+    const titleName = `${emoji.char} ${label}`;
+    const emojiDesc = `${label} emoji — ${locale.lang === 'de' ? 'Bedeutung, Keywords und verwandte Emojis' : 'meaning, keywords and related emojis'} | Whatsmoji`;
+
+    return tpl
+        .replace(/\{\{LANG\}\}/g, locale.lang)
+        .replace(/\{\{TITLE\}\}/g, `${titleName} ${sp.titleSuffix}`)
+        .replace(/\{\{DESCRIPTION\}\}/g, emojiDesc)
+        .replace(/\{\{CANONICAL\}\}/g, canonical)
+        .replace('{{HREFLANG_TAGS}}', emojiHreflangTags(slug))
+        .replace('{{OG_LOCALE}}', locale.ogLocale)
+        .replace(/\{\{EMOJI\}\}/g, emoji.char)
+        .replace(/\{\{H1_TEXT\}\}/g, label)
+        .replace('{{H1}}', `${label} ${sp.h1Suffix}`)
+        .replace('{{MEANING}}', sp.meaning(label))
+        .replace('{{CODEPOINT}}', codepoint)
+        .replace('{{KEYWORDS_LABEL}}', sp.keywordsLabel)
+        .replace('{{KEYWORDS_PRIMARY}}', pillsHtml(primaryKws, ''))
+        .replace('{{KEYWORDS_SECONDARY}}', pillsHtml(secondaryKws, 'secondary'))
+        .replace('{{RELATED_LABEL}}', sp.relatedLabel)
+        .replace('{{RELATED_EMOJIS}}', relatedHtml)
+        .replace(/\{\{BACK_LINK_HREF\}\}/g, locale.lang === 'de' ? '/de/' : '/')
+        .replace(/\{\{BACK_LINK_LABEL\}\}/g, sp.backLabel)
+        .replace('{{LANG_SWITCH_HREF}}', locale.switchHref)
+        .replace('{{LANG_SWITCH_LABEL}}', locale.switchLabel)
+        .replace('{{COPIED_TEXT}}', sp.copiedText);
+}
+
+// ── Main pages ──
 for (const locale of Object.values(LOCALES)) {
     mkdirSync(locale.outDir, { recursive: true });
     writeFileSync(`${locale.outDir}/index.html`, renderMainPage(locale));
     console.log(`✓ ${locale.outDir}/index.html — ${emojis.length} emojis (${locale.lang})`);
 }
 
-// robots.txt
+// ── Emoji subpages ──
+const allSubpageUrls = [];
+
+for (const locale of Object.values(LOCALES)) {
+    let count = 0;
+    for (const emoji of emojis) {
+        const slug = getSlug(emoji);
+        const dir = `${locale.outDir}/emoji/${slug}`;
+        mkdirSync(dir, { recursive: true });
+        writeFileSync(`${dir}/index.html`, renderEmojiPage(emoji, locale));
+        allSubpageUrls.push(`${BASE_URL}${locale.lang === 'de' ? '/de' : ''}/emoji/${slug}/`);
+        count++;
+    }
+    console.log(`✓ ${locale.outDir}/emoji/ — ${count} subpages (${locale.lang})`);
+}
+
+// ── robots.txt ──
 writeFileSync('dist/robots.txt', [
     'User-agent: *',
     'Allow: /',
@@ -122,10 +248,11 @@ writeFileSync('dist/robots.txt', [
     '',
 ].join('\n'));
 
-// sitemap.xml — will be extended with emoji subpages in Phase 3
+// ── sitemap.xml — all pages ──
 const sitemapUrls = [
     `${BASE_URL}/`,
     `${BASE_URL}/de/`,
+    ...allSubpageUrls,
 ];
 const sitemap = [
     '<?xml version="1.0" encoding="UTF-8"?>',
@@ -136,10 +263,10 @@ const sitemap = [
 ].join('\n');
 writeFileSync('dist/sitemap.xml', sitemap);
 
-// CNAME
+// ── CNAME ──
 writeFileSync('dist/CNAME', 'whatsmoji.com\n');
 
-// Copy static assets
+// ── Static assets ──
 for (const asset of ['manifest.json', 'sw.js', 'icon-192.png', 'icon-512.png', 'favicon.ico', 'og-image.png']) {
     if (existsSync(asset)) {
         copyFileSync(asset, `dist/${asset}`);
