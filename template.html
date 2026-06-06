@@ -2,7 +2,7 @@
 <html lang="{{LANG}}">
 <head>
     <meta charset="UTF-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, interactive-widget=resizes-content"/>
     <title>{{TITLE}}</title>
     <meta name="description" content="{{DESCRIPTION}}"/>
     <link rel="canonical" href="{{CANONICAL}}"/>
@@ -197,12 +197,16 @@
                 if (item) handleCopy(item);
             });
 
+            // iOS Safari: sticky positioning breaks while the on-screen keyboard is up
+            // (sticks to layout viewport, which sits behind the visual viewport — causes the
+            // header to "lag" during scroll). Detect the keyboard via the visual-viewport
+            // size delta and drop sticky → relative while it's open. Android Chrome handles
+            // this via interactive-widget=resizes-content in the viewport meta.
             if (window.visualViewport) {
                 const onViewportChange = () => {
-                    document.getElementById('sticky-header').style.top =
-                        window.visualViewport.offsetTop > 0 ? `${window.visualViewport.offsetTop}px` : '';
+                    const keyboardOpen = window.innerHeight - window.visualViewport.height > 150;
+                    document.body.classList.toggle('keyboard-open', keyboardOpen);
                 };
-                window.visualViewport.addEventListener('scroll', onViewportChange, { passive: true });
                 window.visualViewport.addEventListener('resize', onViewportChange, { passive: true });
             }
 
@@ -246,6 +250,9 @@
             z-index: 10;
             background: var(--bg);
             transform: translateZ(0); /* own compositor layer */
+        }
+        body.keyboard-open #sticky-header {
+            position: relative;
         }
 
         #search-header {
