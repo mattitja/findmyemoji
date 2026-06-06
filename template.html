@@ -2,7 +2,7 @@
 <html lang="{{LANG}}">
 <head>
     <meta charset="UTF-8"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, interactive-widget=resizes-content"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
     <title>{{TITLE}}</title>
     <meta name="description" content="{{DESCRIPTION}}"/>
     <link rel="canonical" href="{{CANONICAL}}"/>
@@ -106,6 +106,7 @@
         }
 
         function updateResults() {
+            window.scrollTo({ top: 0, behavior: 'instant' });
             const query = document.getElementById("search").value.trim();
             document.getElementById("search-clear").classList.toggle("visible", query.length > 0);
             const matches = searchEmojis(query);
