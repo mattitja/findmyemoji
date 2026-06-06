@@ -5,7 +5,8 @@
   "scripts": {
     "build": "node generate.mjs",
     "generate": "node generate.mjs",
-    "seed-keywords": "node seed-keywords.mjs"
+    "seed-keywords": "node seed-keywords.mjs",
+    "dev": "node --watch --watch-path=./template.html --watch-path=./emoji-template.html generate.mjs"
   },
   "repository": {
     "type": "git",
