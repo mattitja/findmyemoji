@@ -150,7 +150,9 @@
       "schneemann im schnee"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "weihnachten"
+    ]
   },
   "2604": {
     "char": "☄️",
@@ -218,7 +220,9 @@
       "pflanze"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "frühling"
+    ]
   },
   "2620": {
     "char": "☠️",
@@ -3962,7 +3966,9 @@
       "wetter"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "frühling"
+    ]
   },
   "1F309": {
     "char": "🌉",
@@ -4032,7 +4038,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "frühling",
       "sommer"
     ]
   },
@@ -4278,7 +4283,9 @@
       "wetter"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "frühling"
+    ]
   },
   "1F327": {
     "char": "🌧️",
@@ -4540,7 +4547,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "frühling",
       "blumen"
     ]
   },
@@ -4555,7 +4561,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "frühling",
       "blumen"
     ]
   },
@@ -4596,9 +4601,7 @@
       "maiskolben"
     ],
     "synonyms": [],
-    "themes": [
-      "frühling"
-    ]
+    "themes": []
   },
   "1F33E": {
     "char": "🌾",
@@ -4610,9 +4613,7 @@
       "ähre"
     ],
     "synonyms": [],
-    "themes": [
-      "frühling"
-    ]
+    "themes": []
   },
   "1F33F": {
     "char": "🌿",
@@ -4657,7 +4658,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "frühling",
       "herbst"
     ]
   },
@@ -4673,7 +4673,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "frühling",
       "herbst"
     ]
   },
@@ -4689,7 +4688,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "frühling",
       "herbst"
     ]
   },
@@ -5281,7 +5279,6 @@
       "erledigt"
     ],
     "themes": [
-      "weihnachten",
       "essen",
       "süßes"
     ]
@@ -5486,9 +5483,7 @@
       "weinglas"
     ],
     "synonyms": [],
-    "themes": [
-      "weihnachten"
-    ]
+    "themes": []
   },
   "1F378": {
     "char": "🍸️",
@@ -5556,9 +5551,7 @@
       "fettes lob",
       "passt"
     ],
-    "themes": [
-      "weihnachten"
-    ]
+    "themes": []
   },
   "1F37C": {
     "char": "🍼",
@@ -5637,7 +5630,9 @@
       "überraschung"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "weihnachten"
+    ]
   },
   "1F382": {
     "char": "🎂",
@@ -7438,9 +7433,7 @@
       "tier"
     ],
     "synonyms": [],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F401": {
     "char": "🐁",
@@ -7450,9 +7443,7 @@
       "tier"
     ],
     "synonyms": [],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F402": {
     "char": "🐂",
@@ -7465,9 +7456,7 @@
       "tierkreis"
     ],
     "synonyms": [],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F403": {
     "char": "🐃",
@@ -7478,9 +7467,7 @@
       "wasserbüffel"
     ],
     "synonyms": [],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F404": {
     "char": "🐄",
@@ -7491,9 +7478,7 @@
       "tier"
     ],
     "synonyms": [],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F405": {
     "char": "🐅",
@@ -7503,7 +7488,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "tiere",
       "wildtiere"
     ]
   },
@@ -7524,7 +7508,6 @@
       "stubentiger"
     ],
     "themes": [
-      "tiere",
       "wildtiere"
     ]
   },
@@ -7545,9 +7528,7 @@
       "möhre"
     ],
     "themes": [
-      "frühling",
-      "ostern",
-      "tiere"
+      "ostern"
     ]
   },
   "1F408": {
@@ -7564,7 +7545,6 @@
       "stubentiger"
     ],
     "themes": [
-      "tiere",
       "haustiere"
     ]
   },
@@ -7604,7 +7584,6 @@
       "ok"
     ],
     "themes": [
-      "tiere",
       "wildtiere"
     ]
   },
@@ -7626,9 +7605,7 @@
       "ja",
       "erledigt"
     ],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F40B": {
     "char": "🐋",
@@ -7638,9 +7615,7 @@
       "wal"
     ],
     "synonyms": [],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F40C": {
     "char": "🐌",
@@ -7651,7 +7626,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "tiere",
       "insekten"
     ]
   },
@@ -7666,7 +7640,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "tiere",
       "haustiere",
       "insekten"
     ]
@@ -7681,7 +7654,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "tiere",
       "wildtiere"
     ]
   },
@@ -7697,9 +7669,7 @@
       "lamm",
       "wollkopf"
     ],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F410": {
     "char": "🐐",
@@ -7712,7 +7682,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "tiere",
       "wildtiere"
     ]
   },
@@ -7731,7 +7700,6 @@
       "wollkopf"
     ],
     "themes": [
-      "tiere",
       "wildtiere"
     ]
   },
@@ -7743,7 +7711,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "tiere",
       "wildtiere"
     ]
   },
@@ -7754,9 +7721,7 @@
       "tier"
     ],
     "synonyms": [],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F414": {
     "char": "🐔",
@@ -7774,8 +7739,6 @@
       "überlegung"
     ],
     "themes": [
-      "frühling",
-      "tiere",
       "haustiere",
       "vögel"
     ]
@@ -7796,7 +7759,6 @@
       "dackel"
     ],
     "themes": [
-      "tiere",
       "haustiere"
     ]
   },
@@ -7827,9 +7789,7 @@
       "tier"
     ],
     "synonyms": [],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F417": {
     "char": "🐗",
@@ -7841,7 +7801,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "tiere",
       "haustiere"
     ]
   },
@@ -7876,9 +7835,7 @@
       "ja",
       "erledigt"
     ],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F41A": {
     "char": "🐚",
@@ -7890,9 +7847,7 @@
     ],
     "synonyms": [],
     "themes": [
-      "frühling",
       "ostern",
-      "tiere",
       "insekten"
     ]
   },
@@ -7906,8 +7861,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "frühling",
-      "tiere",
       "insekten"
     ]
   },
@@ -7920,8 +7873,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "frühling",
-      "tiere",
       "insekten"
     ]
   },
@@ -7947,7 +7898,6 @@
     ],
     "themes": [
       "frühling",
-      "tiere",
       "insekten"
     ]
   },
@@ -7964,8 +7914,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "frühling",
-      "tiere",
       "insekten"
     ]
   },
@@ -7981,9 +7929,7 @@
       "tierkreis"
     ],
     "synonyms": [],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F420": {
     "char": "🐠",
@@ -7993,9 +7939,7 @@
       "tropenfisch"
     ],
     "synonyms": [],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F421": {
     "char": "🐡",
@@ -8007,9 +7951,7 @@
       "tier"
     ],
     "synonyms": [],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F422": {
     "char": "🐢",
@@ -8018,9 +7960,7 @@
       "tier"
     ],
     "synonyms": [],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F423": {
     "char": "🐣",
@@ -8036,8 +7976,7 @@
     ],
     "synonyms": [],
     "themes": [
-      "frühling",
-      "tiere"
+      "frühling"
     ]
   },
   "1F424": {
@@ -8055,7 +7994,6 @@
     ],
     "themes": [
       "frühling",
-      "tiere",
       "haustiere",
       "vögel"
     ]
@@ -8071,8 +8009,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "frühling",
-      "tiere",
       "haustiere",
       "vögel"
     ]
@@ -8095,7 +8031,6 @@
       "überlegung"
     ],
     "themes": [
-      "tiere",
       "vögel"
     ]
   },
@@ -8185,9 +8120,7 @@
       "fellnase",
       "dackel"
     ],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F42A": {
     "char": "🐪",
@@ -8199,9 +8132,7 @@
       "wüste"
     ],
     "synonyms": [],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F42B": {
     "char": "🐫",
@@ -8212,9 +8143,7 @@
       "zweihöckrig"
     ],
     "synonyms": [],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F42C": {
     "char": "🐬",
@@ -8226,9 +8155,7 @@
       "tier"
     ],
     "synonyms": [],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F42D": {
     "char": "🐭",
@@ -8241,9 +8168,7 @@
       "tier"
     ],
     "synonyms": [],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F42E": {
     "char": "🐮",
@@ -8255,7 +8180,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "tiere",
       "haustiere"
     ]
   },
@@ -8273,9 +8197,7 @@
       "miezekatze",
       "stubentiger"
     ],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F430": {
     "char": "🐰",
@@ -8334,9 +8256,7 @@
       "tier"
     ],
     "synonyms": [],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F433": {
     "char": "🐳",
@@ -8348,9 +8268,7 @@
       "wal"
     ],
     "synonyms": [],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F434": {
     "char": "🐴",
@@ -8367,9 +8285,7 @@
       "grübeln",
       "überlegung"
     ],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F435": {
     "char": "🐵",
@@ -8383,9 +8299,7 @@
       "zoo"
     ],
     "synonyms": [],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F436": {
     "char": "🐶",
@@ -8418,9 +8332,7 @@
       "tier"
     ],
     "synonyms": [],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F438": {
     "char": "🐸",
@@ -8461,7 +8373,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "tiere",
       "haustiere"
     ]
   },
@@ -8513,9 +8424,7 @@
       "tier"
     ],
     "synonyms": [],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F43E": {
     "char": "🐾",
@@ -8526,9 +8435,7 @@
       "tier"
     ],
     "synonyms": [],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F43F": {
     "char": "🐿️",
@@ -8537,9 +8444,7 @@
       "tier"
     ],
     "synonyms": [],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F440": {
     "char": "👀",
@@ -8552,9 +8457,7 @@
       "sehen"
     ],
     "synonyms": [],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F441": {
     "char": "👁️",
@@ -11274,7 +11177,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "frühling",
       "blumen"
     ]
   },
@@ -13091,9 +12993,7 @@
       "zwei ringe"
     ],
     "synonyms": [],
-    "themes": [
-      "weihnachten"
-    ]
+    "themes": []
   },
   "1F518": {
     "char": "🔘",
@@ -13355,9 +13255,7 @@
       "zukunft"
     ],
     "synonyms": [],
-    "themes": [
-      "weihnachten"
-    ]
+    "themes": []
   },
   "1F52F": {
     "char": "🔯",
@@ -18114,7 +18012,11 @@
       "hand",
       "hand mit gekreuzten fingern"
     ],
-    "synonyms": [],
+    "synonyms": [
+      "daumen drücken",
+      "viel glück",
+      "gekreuzte finger"
+    ],
     "themes": []
   },
   "1F91F": {
@@ -19233,6 +19135,7 @@
     ],
     "synonyms": [],
     "themes": [
+      "frühling",
       "ostern"
     ]
   },
@@ -19911,7 +19814,9 @@
       "tierkreis"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "tiere"
+    ]
   },
   "1F982": {
     "char": "🦂",
@@ -19934,9 +19839,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "frühling",
-      "weihnachten",
-      "tiere",
       "vögel"
     ]
   },
@@ -19949,7 +19851,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "tiere",
       "wildtiere"
     ]
   },
@@ -19962,7 +19863,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "tiere",
       "vögel"
     ]
   },
@@ -19978,7 +19878,6 @@
       "watschler"
     ],
     "themes": [
-      "tiere",
       "vögel"
     ]
   },
@@ -19991,7 +19890,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "tiere",
       "vögel"
     ]
   },
@@ -20006,7 +19904,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "tiere",
       "wildtiere"
     ]
   },
@@ -20021,9 +19918,7 @@
       "weise"
     ],
     "synonyms": [],
-    "themes": [
-      "tiere"
-    ]
+    "themes": []
   },
   "1F98A": {
     "char": "🦊",
@@ -20047,7 +19942,9 @@
       "schön"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "frühling"
+    ]
   },
   "1F98C": {
     "char": "🦌",
@@ -20057,7 +19954,9 @@
       "tier"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "weihnachten"
+    ]
   },
   "1F98D": {
     "char": "🦍",
@@ -21769,9 +21668,7 @@
       "zauberstab"
     ],
     "synonyms": [],
-    "themes": [
-      "weihnachten"
-    ]
+    "themes": []
   },
   "1F9D9-200D-2640-FE0F": {
     "char": "🧙‍♀️",
@@ -23586,7 +23483,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "frühling",
       "blumen"
     ]
   },
@@ -23673,7 +23569,9 @@
       "violett"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "frühling"
+    ]
   },
   "1FABC": {
     "char": "🪼",
@@ -25815,9 +25713,7 @@
     "char": "",
     "name": [],
     "synonyms": [],
-    "themes": [
-      "weihnachten"
-    ]
+    "themes": []
   },
   "🎆": {
     "char": "",

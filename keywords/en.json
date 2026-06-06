@@ -196,7 +196,9 @@
       "denied",
       "cross"
     ],
-    "themes": []
+    "themes": [
+      "christmas"
+    ]
   },
   "2604": {
     "char": "☄️",
@@ -268,7 +270,9 @@
       "plant"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring"
+    ]
   },
   "2620": {
     "char": "☠️",
@@ -4261,7 +4265,9 @@
       "weather"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring"
+    ]
   },
   "1F309": {
     "char": "🌉",
@@ -4337,7 +4343,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "spring",
       "summer"
     ]
   },
@@ -4619,7 +4624,9 @@
       "weather"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "spring"
+    ]
   },
   "1F327": {
     "char": "🌧️",
@@ -4868,7 +4875,6 @@
       "i love it"
     ],
     "themes": [
-      "spring",
       "flowers"
     ]
   },
@@ -4880,7 +4886,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "spring",
       "flowers"
     ]
   },
@@ -4928,9 +4933,7 @@
       "maze"
     ],
     "synonyms": [],
-    "themes": [
-      "spring"
-    ]
+    "themes": []
   },
   "1F33E": {
     "char": "🌾",
@@ -4943,9 +4946,7 @@
       "sheaf"
     ],
     "synonyms": [],
-    "themes": [
-      "spring"
-    ]
+    "themes": []
   },
   "1F33F": {
     "char": "🌿",
@@ -4991,7 +4992,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "spring",
       "autumn"
     ]
   },
@@ -5006,7 +5006,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "spring",
       "autumn"
     ]
   },
@@ -5021,7 +5020,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "spring",
       "autumn"
     ]
   },
@@ -5627,7 +5625,6 @@
       "good"
     ],
     "themes": [
-      "christmas",
       "food"
     ]
   },
@@ -5846,9 +5843,7 @@
       "booty",
       "cheeks"
     ],
-    "themes": [
-      "christmas"
-    ]
+    "themes": []
   },
   "1F378": {
     "char": "🍸️",
@@ -6030,7 +6025,9 @@
       "wrapped"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas"
+    ]
   },
   "1F382": {
     "char": "🎂",
@@ -7912,9 +7909,7 @@
       "animal"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F401": {
     "char": "🐁",
@@ -7923,9 +7918,7 @@
       "animals"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F402": {
     "char": "🐂",
@@ -7938,9 +7931,7 @@
       "zodiac"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F403": {
     "char": "🐃",
@@ -7951,9 +7942,7 @@
       "zoo"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F404": {
     "char": "🐄",
@@ -7965,9 +7954,7 @@
       "moo"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F405": {
     "char": "🐅",
@@ -7984,9 +7971,7 @@
       "pussycat",
       "tom"
     ],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F406": {
     "char": "🐆",
@@ -8003,9 +7988,7 @@
       "pussycat",
       "tom"
     ],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F407": {
     "char": "🐇",
@@ -8020,9 +8003,7 @@
       "hare"
     ],
     "themes": [
-      "spring",
-      "easter",
-      "animals"
+      "easter"
     ]
   },
   "1F408": {
@@ -8041,7 +8022,6 @@
       "tom"
     ],
     "themes": [
-      "animals",
       "pets"
     ]
   },
@@ -8077,9 +8057,7 @@
       "tale"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F40A": {
     "char": "🐊",
@@ -8088,9 +8066,7 @@
       "zoo"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F40B": {
     "char": "🐋",
@@ -8100,9 +8076,7 @@
       "ocean"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F40C": {
     "char": "🐌",
@@ -8119,9 +8093,7 @@
       "auto",
       "vehicle"
     ],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F40D": {
     "char": "🐍",
@@ -8133,9 +8105,7 @@
       "zodiac"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F40E": {
     "char": "🐎",
@@ -8147,9 +8117,7 @@
       "racing"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F40F": {
     "char": "🐏",
@@ -8166,9 +8134,7 @@
       "lamb",
       "woolly"
     ],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F410": {
     "char": "🐐",
@@ -8185,9 +8151,7 @@
       "no cap",
       "liar"
     ],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F411": {
     "char": "🐑",
@@ -8205,9 +8169,7 @@
       "lamb",
       "woolly"
     ],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F412": {
     "char": "🐒",
@@ -8216,9 +8178,7 @@
       "banana"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F413": {
     "char": "🐓",
@@ -8228,9 +8188,7 @@
       "ornithology"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F414": {
     "char": "🐔",
@@ -8241,8 +8199,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "spring",
-      "animals",
       "pets",
       "birds"
     ]
@@ -8263,7 +8219,6 @@
       "pooch"
     ],
     "themes": [
-      "animals",
       "pets"
     ]
   },
@@ -8298,9 +8253,7 @@
       "sow"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F417": {
     "char": "🐗",
@@ -8310,7 +8263,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "animals",
       "pets"
     ]
   },
@@ -8332,9 +8284,7 @@
       "ocean"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F41A": {
     "char": "🐚",
@@ -8348,9 +8298,7 @@
     ],
     "synonyms": [],
     "themes": [
-      "spring",
-      "easter",
-      "animals"
+      "easter"
     ]
   },
   "1F41B": {
@@ -8361,10 +8309,7 @@
       "insect"
     ],
     "synonyms": [],
-    "themes": [
-      "spring",
-      "animals"
-    ]
+    "themes": []
   },
   "1F41C": {
     "char": "🐜",
@@ -8374,10 +8319,7 @@
       "insect"
     ],
     "synonyms": [],
-    "themes": [
-      "spring",
-      "animals"
-    ]
+    "themes": []
   },
   "1F41D": {
     "char": "🐝",
@@ -8392,8 +8334,7 @@
     ],
     "synonyms": [],
     "themes": [
-      "spring",
-      "animals"
+      "spring"
     ]
   },
   "1F41E": {
@@ -8409,10 +8350,7 @@
       "nature"
     ],
     "synonyms": [],
-    "themes": [
-      "spring",
-      "animals"
-    ]
+    "themes": []
   },
   "1F41F": {
     "char": "🐟️",
@@ -8425,9 +8363,7 @@
       "zodiac"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F420": {
     "char": "🐠",
@@ -8438,9 +8374,7 @@
       "tropical"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F421": {
     "char": "🐡",
@@ -8449,9 +8383,7 @@
       "fish"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F422": {
     "char": "🐢",
@@ -8461,9 +8393,7 @@
       "tortoise"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F423": {
     "char": "🐣",
@@ -8477,8 +8407,7 @@
     ],
     "synonyms": [],
     "themes": [
-      "spring",
-      "animals"
+      "spring"
     ]
   },
   "1F424": {
@@ -8493,7 +8422,6 @@
     "synonyms": [],
     "themes": [
       "spring",
-      "animals",
       "pets",
       "birds"
     ]
@@ -8511,8 +8439,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "spring",
-      "animals",
       "pets",
       "birds"
     ]
@@ -8525,7 +8451,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "animals",
       "birds"
     ]
   },
@@ -8630,9 +8555,7 @@
       "pup",
       "pooch"
     ],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F42A": {
     "char": "🐪",
@@ -8644,9 +8567,7 @@
       "one"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F42B": {
     "char": "🐫",
@@ -8660,9 +8581,7 @@
       "two-hump"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F42C": {
     "char": "🐬",
@@ -8673,9 +8592,7 @@
       "ocean"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F42D": {
     "char": "🐭",
@@ -8685,9 +8602,7 @@
       "mouse"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F42E": {
     "char": "🐮",
@@ -8701,7 +8616,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "animals",
       "pets"
     ]
   },
@@ -8721,9 +8635,7 @@
       "pussycat",
       "tom"
     ],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F430": {
     "char": "🐰",
@@ -8777,9 +8689,7 @@
       "tale"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F433": {
     "char": "🐳",
@@ -8792,9 +8702,7 @@
       "whale"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F434": {
     "char": "🐴",
@@ -8808,9 +8716,7 @@
       "horses"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F435": {
     "char": "🐵",
@@ -8821,9 +8727,7 @@
       "monkey"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F436": {
     "char": "🐶",
@@ -8859,9 +8763,7 @@
       "pork"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F438": {
     "char": "🐸",
@@ -8895,7 +8797,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "animals",
       "pets"
     ]
   },
@@ -8954,9 +8855,7 @@
       "denied",
       "cross"
     ],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F43E": {
     "char": "🐾",
@@ -8968,9 +8867,7 @@
       "prints"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F43F": {
     "char": "🐿️",
@@ -8979,9 +8876,7 @@
       "squirrel"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F440": {
     "char": "👀",
@@ -12054,7 +11949,6 @@
       "i love it"
     ],
     "themes": [
-      "spring",
       "flowers"
     ]
   },
@@ -14290,9 +14184,7 @@
       "links"
     ],
     "synonyms": [],
-    "themes": [
-      "christmas"
-    ]
+    "themes": []
   },
   "1F518": {
     "char": "🔘",
@@ -21381,6 +21273,7 @@
     ],
     "synonyms": [],
     "themes": [
+      "spring",
       "easter"
     ]
   },
@@ -22022,7 +21915,9 @@
       "zodiac"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "animals"
+    ]
   },
   "1F982": {
     "char": "🦂",
@@ -22043,9 +21938,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "spring",
-      "christmas",
-      "animals",
       "birds"
     ]
   },
@@ -22055,9 +21947,7 @@
       "face"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F985": {
     "char": "🦅",
@@ -22068,7 +21958,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "animals",
       "birds"
     ]
   },
@@ -22084,7 +21973,6 @@
       "drake"
     ],
     "themes": [
-      "animals",
       "birds"
     ]
   },
@@ -22096,7 +21984,6 @@
     ],
     "synonyms": [],
     "themes": [
-      "animals",
       "birds"
     ]
   },
@@ -22107,9 +21994,7 @@
       "fish"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F989": {
     "char": "🦉",
@@ -22120,9 +22005,7 @@
       "wise"
     ],
     "synonyms": [],
-    "themes": [
-      "animals"
-    ]
+    "themes": []
   },
   "1F98A": {
     "char": "🦊",
@@ -22147,7 +22030,9 @@
       "booty",
       "cheeks"
     ],
-    "themes": []
+    "themes": [
+      "spring"
+    ]
   },
   "1F98C": {
     "char": "🦌",
@@ -22155,7 +22040,9 @@
       "animal"
     ],
     "synonyms": [],
-    "themes": []
+    "themes": [
+      "christmas"
+    ]
   },
   "1F98D": {
     "char": "🦍",
@@ -25691,9 +25578,7 @@
       "plumage"
     ],
     "synonyms": [],
-    "themes": [
-      "spring"
-    ]
+    "themes": []
   },
   "1FAB7": {
     "char": "🪷",
@@ -25773,7 +25658,9 @@
       "john",
       "potty"
     ],
-    "themes": []
+    "themes": [
+      "spring"
+    ]
   },
   "1FABC": {
     "char": "🪼",
@@ -28281,9 +28168,7 @@
     "char": "",
     "name": [],
     "synonyms": [],
-    "themes": [
-      "christmas"
-    ]
+    "themes": []
   },
   "☕️": {
     "char": "",
