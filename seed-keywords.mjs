@@ -24,7 +24,9 @@ for (const [lang, data] of [['de', deData], ['en', enData]]) {
         if (existing[emoji.hexcode]) continue;
         existing[emoji.hexcode] = {
             char: emoji.emoji,
-            keywords: emoji.tags.map(t => t.toLowerCase()),
+            name: emoji.tags.map(t => t.toLowerCase()),
+            synonyms: [],
+            themes: [],
         };
         added++;
     }
@@ -37,7 +39,9 @@ for (const [lang, data] of [['de', deData], ['en', enData]]) {
             if (existing[deEmoji.hexcode]) continue;
             existing[deEmoji.hexcode] = {
                 char: deEmoji.emoji,
-                keywords: enEmoji.tags.map(t => t.toLowerCase()),
+                name: enEmoji.tags.map(t => t.toLowerCase()),
+                synonyms: [],
+                themes: [],
             };
             added++;
         }

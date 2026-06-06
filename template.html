@@ -33,8 +33,35 @@
             return str.normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/ß/g, 'ss');
         }
 
-        // pre-normalized keyword cache built once at startup
-        const normalizedKeywords = emojis.map(e => e.keywords.map(normalize));
+        // 3-tier scoring: name (100/50/10), synonyms (70/35/7), themes (30/15/3)
+        const SCORE = {
+            n:  { exact: 100, starts: 50, includes: 10 },   // primary name
+            n2: { exact: 90,  starts: 45, includes: 9 },    // other language name
+            s:  { exact: 70,  starts: 35, includes: 7 },    // synonyms
+            s2: { exact: 65,  starts: 32, includes: 6 },    // other language synonyms
+            t:  { exact: 30,  starts: 15, includes: 3 },    // themes
+            t2: { exact: 28,  starts: 14, includes: 3 },    // other language themes
+        };
+
+        function scoreAgainst(list, word, weights) {
+            let s = 0;
+            for (const kw of list) {
+                if (kw === word) s += weights.exact;
+                else if (kw.startsWith(word)) s += weights.starts;
+                else if (kw.includes(word)) s += weights.includes;
+            }
+            return s;
+        }
+
+        // pre-normalized cache built once at startup
+        const normalizedCache = emojis.map(e => ({
+            n:  e.n.map(normalize),
+            n2: e.n2.map(normalize),
+            s:  e.s.map(normalize),
+            s2: e.s2.map(normalize),
+            t:  e.t.map(normalize),
+            t2: e.t2.map(normalize),
+        }));
 
         function searchEmojis(query) {
             if (!query) return emojis;
@@ -43,14 +70,15 @@
             const scored = [];
             for (let i = 0; i < emojis.length; i++) {
                 const emoji = emojis[i];
-                const nkws = normalizedKeywords[i];
+                const pre = normalizedCache[i];
                 let score = 0;
-                for (const nkw of nkws) {
-                    for (const word of words) {
-                        if (nkw === word)              score += 100;
-                        else if (nkw.startsWith(word)) score += 50;
-                        else if (nkw.includes(word))   score += 10;
-                    }
+                for (const word of words) {
+                    score += scoreAgainst(pre.n,  word, SCORE.n);
+                    score += scoreAgainst(pre.n2, word, SCORE.n2);
+                    score += scoreAgainst(pre.s,  word, SCORE.s);
+                    score += scoreAgainst(pre.s2, word, SCORE.s2);
+                    score += scoreAgainst(pre.t,  word, SCORE.t);
+                    score += scoreAgainst(pre.t2, word, SCORE.t2);
                 }
                 if (score > 0) scored.push({ emoji, score });
             }

@@ -74,6 +74,8 @@ const emojis = deData
     .sort((a, b) => (a.order ?? 9999) - (b.order ?? 9999))
     .map((de, i) => {
         const en = enMap.get(de.hexcode) ?? {};
+        const deEntry = kwDe[de.hexcode] ?? { name: [], synonyms: [], themes: [] };
+        const enEntry = kwEn[de.hexcode] ?? { name: [], synonyms: [], themes: [] };
         return {
             id: i,
             char: de.emoji,
@@ -81,8 +83,12 @@ const emojis = deData
             label: { en: en.label ?? de.label, de: de.label },
             group: de.group ?? 0,
             subgroup: de.subgroup ?? 0,
-            keywordsEn: (kwEn[de.hexcode]?.keywords ?? []).map(s => s.toLowerCase()),
-            keywordsDe: (kwDe[de.hexcode]?.keywords ?? []).map(s => s.toLowerCase()),
+            nameDe: deEntry.name.map(s => s.toLowerCase()),
+            synDe: deEntry.synonyms.map(s => s.toLowerCase()),
+            themesDe: deEntry.themes.map(s => s.toLowerCase()),
+            nameEn: enEntry.name.map(s => s.toLowerCase()),
+            synEn: enEntry.synonyms.map(s => s.toLowerCase()),
+            themesEn: enEntry.themes.map(s => s.toLowerCase()),
         };
     });
 
@@ -136,9 +142,12 @@ function renderMainPage(locale) {
         id: e.id,
         char: e.char,
         label: e.label[locale.lang],
-        keywords: locale.lang === 'de'
-            ? [...new Set([...e.keywordsDe, ...e.keywordsEn])]
-            : [...new Set([...e.keywordsEn, ...e.keywordsDe])],
+        n: locale.lang === 'de' ? e.nameDe : e.nameEn,
+        n2: locale.lang === 'de' ? e.nameEn : e.nameDe,
+        s: locale.lang === 'de' ? e.synDe : e.synEn,
+        s2: locale.lang === 'de' ? e.synEn : e.synDe,
+        t: locale.lang === 'de' ? e.themesDe : e.themesEn,
+        t2: locale.lang === 'de' ? e.themesEn : e.themesDe,
     }));
 
     const dataScript = `const emojis = ${JSON.stringify(localeEmojis)};`;
@@ -172,8 +181,12 @@ function renderEmojiPage(emoji, locale) {
         .filter(e => e.subgroup === emoji.subgroup && e.hexcode !== emoji.hexcode)
         .slice(0, 12);
 
-    const primaryKws = locale.lang === 'de' ? emoji.keywordsDe : emoji.keywordsEn;
-    const secondaryKws = locale.lang === 'de' ? emoji.keywordsEn : emoji.keywordsDe;
+    const primaryKws = locale.lang === 'de'
+        ? [...new Set([...emoji.nameDe, ...emoji.synDe])]
+        : [...new Set([...emoji.nameEn, ...emoji.synEn])];
+    const secondaryKws = locale.lang === 'de'
+        ? [...new Set([...emoji.nameEn, ...emoji.synEn])]
+        : [...new Set([...emoji.nameDe, ...emoji.synDe])];
 
     const pillsHtml = (kws, cls) => kws
         .map(k => `<span class="pill${cls ? ' ' + cls : ''}">${k}</span>`)
