@@ -229,6 +229,16 @@
             background: var(--bg);
             transform: translateZ(0); /* own compositor layer */
         }
+        #sticky-header::after {
+            content: '';
+            position: absolute;
+            top: 100%;
+            left: 0;
+            right: 0;
+            height: 1.5rem;
+            background: linear-gradient(to bottom, var(--bg), transparent);
+            pointer-events: none;
+        }
 
         #search-header {
             padding: 0.5rem 1rem 0.75rem;
