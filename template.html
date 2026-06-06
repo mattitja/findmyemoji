@@ -206,7 +206,12 @@
             scrollbar-gutter: stable; /* reserve scrollbar space symmetrically */
         }
 
+        *, *::before, *::after {
+            box-sizing: border-box;
+        }
+
         body {
+            margin: 0;
             background: var(--bg);
             color: #111;
             min-height: 100vh;
